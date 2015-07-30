@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Main Page
-permalink: /main/
+layout: default
+permalink: /
 ---
 
 # Hello World
@@ -9,6 +8,8 @@ permalink: /main/
 Proin eleifend libero accumsan felis luctus nec consectetur purus commodo. \
 Phasellus sodales est nec massa imperdiet commodo. Maecenas risus nulla, pl\
 acerat vel vestibulum vel, dapibus quis libero.
+
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
 
 Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Du\
 is feugiat urna vel justo cursus facilisis. Vivamus ligula dui, convallis a\

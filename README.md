@@ -1,3 +1,5 @@
-# Changelog
+## Changelog
 
-## 2015-07-31: Bare bones
+2015-07-31: 
+	- Initial fidling
+	- Git conflict resolved

@@ -1,0 +1,19 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>{{ site.title }}</h1>
+    </div>
+
+    <nav class="sidebar-nav">
+		<a class="sidebar-nav-item" href="/">About</a>
+		<a class="sidebar-nav-item" href="{{ site.hubs.cv }}">CV</a>
+		<a class="sidebar-nav-item" href="/teaching/">Teaching</a>
+		<a class="sidebar-nav-item" href="/research/">Research</a>
+		<a class="sidebar-nav-item" href="/group/">Group Members</a>
+		<a class="sidebar-nav-item" href="/blog/">Blog</a>
+      <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

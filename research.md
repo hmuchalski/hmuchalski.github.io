@@ -4,17 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-# Heading Level 1
+### Research Interests
 
-## Heading Level 2
+Our research aims to develop new reactions and strategies for synthesis to investigate the intersection of organic chemistry with biology and material science. In partiular, biomolecules and processes involved in lipid peroxidation.
 
-Test paragraph.  
-
-How does a list look like?
-
-- item number one
-- item 2
-- item three  
-
-
-New paragraph.
+#### Isotopic Reinforcement in Lipids and Sterols

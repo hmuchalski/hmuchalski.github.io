@@ -4,12 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Undergraduate Courses
+### Undergraduate Courses
 
-## Organic Chemistry Lecture (CHEM 128)
+#### Organic Chemistry Lecture (CHEM 128)
 
-## Organic Chemistry Laboratory (CHEM 129)
+#### Organic Chemistry Laboratory (CHEM 129)
 
-# Graduate Courses
+### Graduate Courses
 
-## Advanced Organic Chemistry (CHEM 240T)
+#### Advanced Organic Chemistry (CHEM 240T)

@@ -4,17 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Heading Level 1
+### Undergraduate Courses
 
-## Heading Level 2
+#### Organic Chemistry Lecture (CHEM 128)
 
-Test paragraph.  
+#### Organic Chemistry Laboratory (CHEM 129)
 
-How does a list look like?
+### Graduate Courses
 
-- item number one
-- item 2
-- item three  
-
-
-New paragraph.
+#### Advanced Organic Chemistry (CHEM 240T)

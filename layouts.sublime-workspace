@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/sidebar.html",
+			"settings":
+			{
+				"buffer_size": 885,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/hyde.css",
+			"settings":
+			{
+				"buffer_size": 4299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/poole.css",
+			"settings":
+			{
+				"buffer_size": 6947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/syntax.css",
+			"settings":
+			{
+				"buffer_size": 3479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Marked.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Marked.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"LaTeXTools: View package documentation"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"la",
+				"LaTeXTools: View package documentation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hmuchalski/hmuchalski.github.io/_layouts/default.html",
+		"/Users/hmuchalski/hmuchalski.github.io/index.html",
+		"/Users/hmuchalski/hmuchalski.github.io/_includes/sidebar.html",
+		"/Users/hmuchalski/hmuchalski.github.io/_layouts/post.html",
+		"/Users/hmuchalski/hmuchalski.github.io/_includes/head.html",
+		"/Users/hmuchalski/hmuchalski.github.io/_layouts/page.html",
+		"/Users/hmuchalski/hmuchalski.github.io/post.html",
+		"/Users/hmuchalski/hmuchalski.github.io/page.html",
+		"/Users/hmuchalski/hmuchalski.github.io/default.html",
+		"/Users/hmuchalski/hmuchalski.github.io/website.sublime-workspace",
+		"/Users/hmuchalski/hmuchalski.github.io/untitled.sublime-project",
+		"/Users/hmuchalski/WEBDEV/hmuchalski.github.io/teaching.md",
+		"/Users/hmuchalski/WEBDEV/hmuchalski.github.io/_includes/sidebar.html",
+		"/Users/hmuchalski/hmuchalski.github.io/teaching.md",
+		"/Users/hmuchalski/hmuchalski.github.io/group.md",
+		"/Users/hmuchalski/Dropbox/CV curriculum vitae/muchalski-cv-1606/curriculum-vitae-muchalski.tex",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/partials/footer.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/other/single.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/indexes/blog.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/indexes/page.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/indexes/indexes.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/indexes/category.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/blog/single.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/archetypes/default.markdown",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/layouts/index.html",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/kube.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/kube.min.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/mine.css",
+		"/Users/hmuchalski/Downloads/stylesheet-min.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/syntax copy.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/config.yaml",
+		"/Users/hmuchalski/Dropbox/CV curriculum vitae/_newversion/hmvitae-1607/vita.tex",
+		"/Users/hmuchalski/Downloads/consequently.github.io-master/css/kube.css",
+		"/Users/hmuchalski/Downloads/consequently.github.io-master/css/mine.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/content/teaching/grad-complaining.md",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/bigfoot-default.scss",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/syntax.css",
+		"/Users/hmuchalski/Downloads/kieranhealy.hugo-master/static/css/demo.css",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_includes/head.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_includes/sidebar.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_layouts/default.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_layouts/page.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_layouts/post.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/_config.yml",
+		"/Users/hmuchalski/WEBDEV/jekyll-themes-2015-08-11/hyde-original/index.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/index.html",
+		"/Users/hmuchalski/WEBDEV/my-site-test-newmac/group.md",
+		"/Users/hmuchalski/WEBDEV/hmuchalski.github.io/atom.xml",
+		"/Users/hmuchalski/WEBDEV/hmuchalski.github.io/_config.yml",
+		"/Users/hmuchalski/Box Sync/TENURE/WPAF 15-16 checklist.md",
+		"/Users/hmuchalski/Dropbox/CV curriculum vitae/_newversion/hmvitae-vc/README.md",
+		"/Users/hmuchalski/Downloads/endnote-citations (1).enw",
+		"/Users/hmuchalski/Box Sync/_teaching/CHEM 128A 2016fa/syllabus-128A-2016fa/syllabus-128A-2016fa.tex",
+		"/Applications/ChemDraw Professional 15.0.app/Contents/Info.plist",
+		"/Users/hmuchalski/Dropbox/notatki/permission numbers.md",
+		"/Users/hmuchalski/Box Sync/_teaching/CHEM 128A 2016fa/syllabus-128A-2016fa /syllabus-128A-2016fa.tex",
+		"/Users/hmuchalski/Desktop/day 4 prompt.md",
+		"/Users/hmuchalski/Box Sync/_teaching/128B LECTURE - 2016-01/chem 128b syllabus 2016 spring/syllabus-chem128b-2016.tex",
+		"/Users/hmuchalski/Box Sync/graduate student advising.txt",
+		"/Users/hmuchalski/Box Sync/_scholarship/willie 1977 C-1.cdxml",
+		"/Users/hmuchalski/Downloads/What Should Grades Mean?.html",
+		"/Users/hmuchalski/Desktop/OmniFocus.txt",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/reports/benzoic critiqued/_class roll.txt",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/reports/benzoic critiqued/class roll.txt",
+		"/Users/hmuchalski/Box Sync/_teaching/128B LECTURE - 2016-01/CHEM 128B study guide 160513.md",
+		"/Users/hmuchalski/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/user.less",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/grade breakdown.md",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/weighted scores.md",
+		"/Users/hmuchalski/Box Sync/_teaching/128B LECTURE - 2016-01/final study guide.ft",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/2E Unknowns.md",
+		"/Users/hmuchalski/Box Sync/_teaching/Klein 2e materials/klein2e test bank documents/Klein test bank suggested problems.txt",
+		"/Users/hmuchalski/Box Sync/_teaching/129A laboratory - 2016-01/reports/benzoic/questions and announcement.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant mommer support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant ramos flores support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant le support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant dean support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant kaur support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant olvera support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant singh support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrant watters support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/DISCOVERYe/presentation script 160427",
+		"/Users/hmuchalski/Box Sync/HMLab/RRW/rgrang watters support mentoring plan recommendation.md",
+		"/Users/hmuchalski/Box Sync/_teaching/128B LECTURE - 2016-01/EXAMS/README.md",
+		"/Users/hmuchalski/Downloads/draft 160421233801.md",
+		"/Users/hmuchalski/Box Sync/Drafts/draft 160420093328.md",
+		"/Users/hmuchalski/Box Sync/_scholarship/arkivoc drafts/draft 160413.md",
+		"/Users/hmuchalski/Box Sync/_scholarship/arkivoc drafts/early examples and corey.md",
+		"/Users/hmuchalski/Box Sync/_scholarship/ARKIVOC shitty first draft 160413.md",
+		"/Users/hmuchalski/Box Sync/_scholarship/Okamura vitamin d3 transcribed 160322.md",
+		"/Users/hmuchalski/Box Sync/_scholarship/ARKIVOC examples of cholesterol deuteration.md"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"font-size",
+			"side",
+			"itemize",
+			"description",
+			"bibenum",
+			"outerlist",
+			"Kent",
+			"description",
+			"enumerate",
+			"itemize",
+			"description",
+			"Template",
+			"Juan",
+			"Ryan",
+			"Juan",
+			"her",
+			"Parveen",
+			"Amanda",
+			"him",
+			"Juan",
+			"fatty acids",
+			"fatty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/css/hyde.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 431.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/css/poole.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								969,
+								969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 873.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/css/syntax.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 91.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/hmuchalski.github.io/pages.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

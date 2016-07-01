@@ -14,7 +14,7 @@ title:          Hubert Muchalski
 tagline:        'Fresno State University'
 description:    'The Muchalski Group'
 url:            http://
-baseurl:        /
+baseurl:        "/"
 
 author:         
 name:           'Hubert Muchalski'

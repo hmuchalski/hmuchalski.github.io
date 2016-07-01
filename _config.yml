@@ -1,5 +1,3 @@
-# Gems
-gems:           [jekyll-paginate]
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -19,11 +17,11 @@ relative_permalinks: true
 >>>>>>> master
 
 # Setup
-title:          Hubert Muchalski
-tagline:        'Fresno State University'
-description:    'The Muchalski Group'
-url:            http://
-baseurl:        /
+title:            Hubert Muchalski
+tagline:          'Fresno State University'
+description:      'Lab website'
+url:              http://
+baseurl:          /
 
 author:
 name:           'Hubert Muchalski'

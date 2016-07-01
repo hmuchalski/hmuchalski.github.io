@@ -1,29 +1,23 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Gems
+gems:           [jekyll-paginate]
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:      pretty
+paginate:       5
 
 # Setup
-title:            Hubert Muchalski
-tagline:          'Fresno State University'
-description:      'Lab website'
-url:              http://
-baseurl:          /
+title:          Hubert Muchalski
+tagline:        'Fresno State University'
+description:    'The Muchalski Group'
+url:            http://
+baseurl:        /
 
-author:
+author:         
 name:           'Hubert Muchalski'
-url:            https://twitter.com/hubertmuchalski
-
-paginate:         5
-paginate_path: "/blog/page:num/"
-
-# Custom vars
-version:          2.1.0
+url:            https://muchalski.net
+email:          hmuchalski@csufresno.edu
 
 hubs:
-  cv:			https://www.dropbox.com/s/kr5ix33ztfq36mf/curriculum-vitae-muchalski.pdf
-  bbmain:		https://bbl-app.learn.fresnostate.edu/webapps/login/?useCas
-  bb128a:	https://bbl-app.learn.fresnostate.edu/webapps/blackboard/content/launchLink.jsp?course_id=_48640_1
+  cv:			      https://www.dropbox.com/s/kr5ix33ztfq36mf/curriculum-vitae-muchalski.pdf
+  bbmain:		    https://bbl-app.learn.fresnostate.edu/webapps/login/?useCas
+  bb128a:       https://bbl-app.learn.fresnostate.edu/webapps/blackboard/content/launchLink.jsp?course_id=_48640_1

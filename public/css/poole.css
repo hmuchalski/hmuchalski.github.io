@@ -263,6 +263,15 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+/*
+ * tiny type
+ *
+ * For fine print items.
+ */
+
+ .tiny {
+  font-size: 0.75rem;
+ }
 
 /*
  * Messages

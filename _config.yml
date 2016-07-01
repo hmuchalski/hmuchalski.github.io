@@ -11,14 +11,14 @@ markdown:    kramdown
 highlighter: rouge
   
 # Permalinks
-permalink:     /blog/:categories/:year/:month/:day/:title
+permalink:     pretty
 paginate_path: /page:num
-paginate:       5
+paginate:       2
 
 # Setup
-title:          muchalski.net
+title:          Hubert Muchalski
 tagline:        'Fresno State University'
-description:    'The Muchalski Group'
+description:    'Organic Chemistry Group at Fresno State'
 url:            http://
 baseurl:        /
 

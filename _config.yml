@@ -1,10 +1,22 @@
 # Gems
 gems:           [jekyll-paginate]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
+<<<<<<< Updated upstream
 permalink:      pretty # Removed because Github says so
+=======
+<<<<<<< HEAD
+# permalink:      pretty # Removed because Github says so
+>>>>>>> Stashed changes
 
 paginate:       5
+=======
+permalink:        pretty
+relative_permalinks: true
+>>>>>>> master
 
 # Setup
 title:          Hubert Muchalski
@@ -13,14 +25,25 @@ description:    'The Muchalski Group'
 url:            http://
 baseurl:        /
 
-author:         
+author:
 name:           'Hubert Muchalski'
-url:            https://muchalski.net
-email:          hmuchalski@csufresno.edu
+url:            https://twitter.com/hubertmuchalski
+
+paginate:         5
+paginate_path: "/blog/page:num/"
+
+# Custom vars
+version:          2.1.0
 
 hubs:
+<<<<<<< HEAD
   cv:			      https://www.dropbox.com/s/kr5ix33ztfq36mf/curriculum-vitae-muchalski.pdf
   bbmain:		    https://bbl-app.learn.fresnostate.edu/webapps/login/?useCas
   bb128a:       https://bbl-app.learn.fresnostate.edu/webapps/blackboard/content/launchLink.jsp?course_id=_48640_1
 
 # added to change github status of the file
+=======
+  cv:			https://www.dropbox.com/s/kr5ix33ztfq36mf/curriculum-vitae-muchalski.pdf
+  bbmain:		https://bbl-app.learn.fresnostate.edu/webapps/login/?useCas
+  bb128a:	https://bbl-app.learn.fresnostate.edu/webapps/blackboard/content/launchLink.jsp?course_id=_48640_1
+>>>>>>> master

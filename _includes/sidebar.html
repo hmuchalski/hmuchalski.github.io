@@ -1,17 +1,42 @@
 <div class="sidebar">
-
+  <!-- <div class="container sidebar-sticky"> -->
   <div class="container">
-  <!-- <div class="container sidebar-sticky"> for sidebar flushed down-->
     <div class="sidebar-about">
-      <h1 class="condensed">{{ site.title }}</h1>
+      <h1>{{ site.title }}
+<!--         <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a> -->
+      </h1>
+      <p class="lead">{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">About</a>
+<!--    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+       {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %} -->
+
+<!-- See these page for possible solutions to sidebar highlighting
+
+http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar -->
+
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}">Home</a>
     <a class="sidebar-nav-item" href="/research/">Research</a>
     <a class="sidebar-nav-item" href="/publications/">Publications</a>
-    <a class="sidebar-nav-item" href="/group/">Group</a>
+    <!-- <a class="sidebar-nav-item" href="/group/">Group</a> -->
     <a class="sidebar-nav-item" href="/teaching/">Teaching</a>
+    <a class="sidebar-nav-item" href="/about/">About</a>
         <!-- <a class="sidebar-nav-item" href="/group/">Group Members</a>
         <a class="sidebar-nav-item" href="/blog/">Blog</a> -->
       <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->

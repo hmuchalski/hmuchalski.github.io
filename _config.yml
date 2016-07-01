@@ -2,7 +2,7 @@
 gems:           [jekyll-paginate]
 
 # Permalinks
-# permalink:      pretty # Removed because Github says so
+permalink:      pretty # Removed because Github says so
 
 paginate:       5
 

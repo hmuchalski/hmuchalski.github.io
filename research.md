@@ -14,4 +14,6 @@ Lipid peroxidation is a reaction of polyunsaturated fatty acids (PUFAs) with oxy
 
 Site-specific isotopic reinforcement of polyunsaturated fatty acids (PUFAs) is a promising new approach to reduce the rate propagation of lipid peroxidation. In these synthetic analogs of natural fatty acids, the hydrogens prone to radial attack are substituted with deuterium isotopes. Supplementation with deuterated PUFAs shows a protective effect in oxidative stress neurodegeneration models of Parkinson's disease and Friedrich's ataxia. Discovery of the full potential of deuterium-reinforced PUFAs is hindered by the lack of access to these lipids. The current synthesis is long, linear, costly, and only applicable to a large scale. We are working on a conceptually new approach to the site-specific introduction of deuterium to the bis-allylic system of the fatty acid.
 
-<!-- ### Kinetic Isotope Effect in Peroxidation Reactions -->
+### Kinetic Isotope Effect in Peroxidation Reactions
+
+Cholecalciferol

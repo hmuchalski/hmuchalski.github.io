@@ -6,9 +6,9 @@ permalink: /teaching/
 
 ### Undergraduate Courses
 
-#### Organic Chemistry Lecture (CHEM 128)
+#### Upper Division Organic Chemistry (CHEM 128)
 
-#### Organic Chemistry Laboratory (CHEM 129)
+#### Upper Division Organic Chemistry Laboratory (CHEM 129)
 
 ### Graduate Courses
 

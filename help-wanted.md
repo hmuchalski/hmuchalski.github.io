@@ -55,11 +55,11 @@ To make a reasonable contribution to a research project, we typically require a 
 
 - What is the next step in your career path?
 - How will performing research integrate or help you with your next step?
-- Do you intend to get an advanced degree? If so, what sort of degree do you want?  Also: If you are coming in with research funding, please mention this. (One paragraph is sufficient for this section)
+- Do you intend to get an advanced degree? If so, what sort of degree do you want?  Also, if you are coming in with research funding, please mention this. (One paragraph is sufficient for this section)
 
 ### What is your favorite reaction and lab technique?
 
-We are an organic chemistry research laboratory full of individuals excited about organic chemistry. Tell us what reaction and what lab technique is your favorite?
+We are an organic chemistry research laboratory full of individuals excited about organic chemistry. Tell us what reaction and what lab technique is your favorite.
 
 ### Can you write?
 

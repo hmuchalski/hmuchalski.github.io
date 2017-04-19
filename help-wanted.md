@@ -13,31 +13,35 @@ As quite a few people express interest, and we have limited lab space and fume h
 ## Why else must we be selective?
 
 1. Organic chemistry research requires a demonstrated understanding of organic chemistry principles. I require of my students a working knowledge of the structure of organic compounds, mechanisms, reactions, and analytical methods (NMR, chromatography, etc.).
-2.  Organic lab research requires at least a cursory starting knowledge of fundamental organic lab techniques: TLC, flash chromatography, distillation, NMR spectra interpretation, following reactions, etc.
+2.  Organic lab research requires at least a cursory starting knowledge of fundamental organic lab techniques: TLC, flash chromatography, distillation, extraction, interpretation of spectra (IR, NMR), following reactions, etc.
 3. Good science requires good communication skills and the ability to think logically.
 
 More than anything, training students takes tremendous time for everyone involved. With the very little space we have available, we need to ensure students we accept are a good fit to the goals of the research lab and have sufficient commitment to performing research.
 
-## Requirements
+## Minimum Requirements
 
 Our current minimum requirements for incoming organic chemistry research students are:
 
-1. Having taken all of the core organic lecture and lab courses: CHEM128 and CHEM 129.
+1. Completed CHEM 128A and 129A.
 2. Reasonable grades in the science/chemistry lab and lecture courses (B or greater, with some flexibility).
-3. Our lab is highly dependent on computers. You should be comfortable with ChemDraw or equivalent, Word, Excel, Powerpoint, etc.
+3. Our lab is highly dependent on computers. You should be comfortable Word, Excel, Powerpoint, and their equivalents from Google.
 4. Enrollment in CHEM190 (undergrads) or CHEM290 (MS students) the entire time you are in the lab. I expect a commitment of 4-6 hours per week for each unit of CHEM190 (12–16 for CHEM290) but not all that has to be spent in the lab.
+
+## Nice to have
+
+1. Completed CHEM 128B and 129B
+2. Entry-level knowledge of ChemDraw
+3. Familiarity with Bruker Topspin
 
 ## How to apply?
 
-Write a 1–2-page document that addresses the ideas below. The format isn’t important, but the content is.
+Express your interest by sending an email or, even better, in person. My office is in Science 1, room 352. I will probably ask you to write a short document that addresses few questions (see below) and send it by [email][mailto] (in DOC or PDF format) to hmuchalski (at) mail (dot) fresnostate (dot) edu.
 
-Send the document by [email][mailto] (in DOC or PDF format) to hmuchalski (at) csufresno (dot) edu.
+The format isn’t important and there is no deadline. Applications are considered throughout the year. If the lab is full, and a position opens up, we may ask you to update your application at a later time. 
 
-There is no deadline. Applications are considered throughout the year. If the lab is full, and a position opens up, we may ask you to update your application at a later time.
+### Introduce youself?
 
-### Who are you?
-
-Introduce yourself. Tell me what is your major, year, etc. Chemistry and Biochemistry majors receive a slight priority over non-Chemistry majors.
+Tell me what is your major, year, etc. Chemistry and Biochemistry majors receive a very slight priority over non-Chemistry majors.
 
 Include the relevant science courses you have you taken, which grades you received. (If not at Fresno State, tell where you took them and with whom). This information can be listed or tabulated. Mention which relevant courses do you plan to take next semester?
 
@@ -47,9 +51,9 @@ Briefly, mention your current and upcoming schedule and tentative times you woul
 
 Mention other significant commitments (internships and work). These are not frowned upon, but being overwhelmed with other obligations is an indicator that students will not be productive in the lab.
 
-### When are you graduating or leaving FS?
+### When are you graduating or leaving Fresno State?
 
-To make a reasonable contribution to a research project, we typically require a 1–2-year commitment.
+We typically require a long-term commitment. Reasonable contribution to a research project can take few semesters.  
 
 ### Why do you want to perform research?
 
@@ -63,6 +67,6 @@ We are an organic chemistry research laboratory full of individuals excited abou
 
 ### Can you write?
 
-Submit one example of a writing assignment that you feel demonstrates your writing abilities (it should be science related, like a lab report that you feel happy with). It should be 4 or more pages.
+Submit one example of a writing assignment that you feel demonstrates your writing abilities (it should be science related, like a lab report that you feel happy with). It should be 2 or more pages.
 
-[mailto]: mailto:hmuchalski@csufresno.edu?subject=Research Opportunity
+[mailto]: mailto:hmuchalski@mail.fresnostate.edu?subject=Research Opportunity

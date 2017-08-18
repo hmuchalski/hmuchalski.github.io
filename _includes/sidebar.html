@@ -3,7 +3,7 @@
   <div class="container">
     <div class="sidebar-about">
       <h1>{{ site.title }}
-<!--         <a href="{{ site.baseurl }}">
+<!--         <a href="/{{ site.baseurl }}">
           {{ site.title }}
         </a> -->
       </h1>
@@ -11,7 +11,7 @@
     </div>
 
 <!--    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/{{ site.baseurl }}">Home</a>
 
        {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -31,7 +31,7 @@
 
 http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar -->
 
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}">Home</a>
+    <a class="sidebar-nav-item" href="/{{ site.baseurl }}">Home</a>
     <a class="sidebar-nav-item" href="/research/">Research</a>
     <a class="sidebar-nav-item" href="/publications/">Publications</a>
     <!-- <a class="sidebar-nav-item" href="/group/">Group</a> -->

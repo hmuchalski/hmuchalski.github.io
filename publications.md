@@ -26,7 +26,7 @@ An asterisk (&#42;) indicates undergraduate co-author. PDF links may require jou
 
 ### Reviews and Book Chapters
 
-1. Hubert Muchalski Synthesis and Applications of Deuterium-Labeled Steroids. ARKIVOC ***Accepted***.
+1. Hubert Muchalski Synthesis and Applications of Deuterium-Labeled Steroids. ARKIVOC.
 2. Muchalski, H.; Johnston, J. N. Aziridination. In Science of Synthesis: Stereoselective Synthesis; de Vries, J. G., Ed.;  Thieme: Stuttgart, **2011**; Vol. 1, pp 155–184
 3. Johnston,J.N.;Muchalski,H.;Troyer,T.L.Protonate or Alkylate: Stereoselective Brønsted Acid-Catalysis of C–C Bond Formation Using Diazoalkanes. *Angew. Chem. Int. Ed.*  **2010**, *49*, 2290–2298.
 

@@ -6,9 +6,13 @@ permalink: /research/
 
 # Research Interests
 
-Our research aims to develop new reactions and strategies for synthesis to investigate the intersection of organic chemistry with biology and material science.
+Our research aims to develop new organic reactions and synthetic strategies for preparation of small organic molecules. The molecules we make serve agrochemicals as well as probes that help us investigate the intersection between chemistry and biology.
 
 Students interested in joining the lab should [go to this page][help-wanted].
+
+## Autoxidation
+
+### Stable sulfenic acids
 
 ### Isotopic Reinforcement of Polyunsaturated Fatty Acids
 

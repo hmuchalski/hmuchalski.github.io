@@ -9,8 +9,6 @@ breadcrumb: Research
 
 Our research aims to develop new organic reactions and synthetic strategies for preparation of small organic molecules. The molecules we make are used as agrochemicals as well as probes that help us answer questions in molecular biology.
 
-
-
 Currently we have two main research project underway
 
 ## Gold catalysis

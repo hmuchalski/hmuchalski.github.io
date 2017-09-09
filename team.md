@@ -2,7 +2,7 @@
 layout: page
 title: The Team
 permalink: /team/
-breadcrumb: HMLab
+breadcrumb: HMLab members
 ---
 
 ## Hubert Muchalski, Ph.D.

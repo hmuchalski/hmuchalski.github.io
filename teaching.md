@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+breadcrumb: Teaching
 ---
 
 ## CHEM 128A (Organic chemistry 1)

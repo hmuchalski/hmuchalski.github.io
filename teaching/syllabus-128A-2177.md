@@ -7,6 +7,16 @@ breadcrumb: 128A Syllabus
 
 Fresno State, Fall 2017
 
+<div id="navcontainer">
+<ul id="navlist">
+<li id="active"><a href="#" id="current">Item one</a></li>
+<li><a href="#">Item two</a></li>
+<li><a href="#">Item three</a></li>
+<li><a href="#">Item four</a></li>
+<li><a href="#">Item five</a></li>
+</ul>
+</div>
+
 Welcome to CHEM 128A, Organic Chemistry 1. This document contains all the information you need to know about the course. **Your job is to read this document carefully in the first week of class and familiarize yourself with how the course works and maintain that familiarity throughout the semester.** It is nearly 4,300 words for a reason. Almost all questions about the course that you might ask can be answered by referencing the syllabus.
 
 * TOC

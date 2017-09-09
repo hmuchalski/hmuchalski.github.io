@@ -17,6 +17,7 @@ paginate:       2
 
 # Setup
 title:          HMLab
+version:        '2017-09-09'
 tagline:        'Fresno State University'
 description:    'Organic Chemistry Research at Fresno State'
 url:            http://
@@ -26,9 +27,6 @@ author:
 name:           'Hubert Muchalski'
 url:            http://muchalski.net
 email:          hmuchalski@csufresno.edu
-
-plugins:
-  - jekyll-breadcrumbs
 
 breadcrumbs:
   root:

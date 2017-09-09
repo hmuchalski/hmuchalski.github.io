@@ -4,13 +4,22 @@
  <title>HMLab</title>
  <link href="http://muchalski.net/atom.xml" rel="self"/>
  <link href="http://muchalski.net/"/>
- <updated>2017-09-09T14:20:57-07:00</updated>
+ <updated>2017-09-09T14:59:34-07:00</updated>
  <id>http://muchalski.net</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>test 2017-09-09</title>
+   <link href="http://muchalski.net/2017/09/09/test2/"/>
+   <updated>2017-09-09T00:00:00-07:00</updated>
+   <id>http://muchalski.net/2017/09/09/test2</id>
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>test 2016-07-01</title>
@@ -174,7 +183,7 @@
 
 &lt;p&gt;This course will survey modern organic chemistry from a fundamental perspective. The discussion will focus on stereochemical and conformational analysis of common mechanisms of organic reactions.&lt;/p&gt;
 
-&lt;p&gt;Accumulation of knowledge and application of knowledge are valued equally in this course. Therefore, significant ammound of in-class time will be spent on practicing drawing reaction mechanisms and proposing synthesis of complex small molecules. The practical component of this course will also focus on scientific information collection, processing, and presentation. The secondary goal is to familiarize students with the state of contemporary organic chemistry, leaders and trends in the field.&lt;/p&gt;
+&lt;p&gt;Accumulation of knowledge and application of knowledge are valued equally in this course. Therefore, significant ammound of in-class time will be spent on practicing drawing reaction mechanisms and proposing synthesis of complex small molecules. The practical component of this course will also focus on scientific information collection, processing, and presentation. The secondary goal is to familiarize students with the state of contemporary organic chemistry, leaders and trends in the field..&lt;/p&gt;
 
 &lt;h2 id=&quot;primary-learning-outcomes&quot;&gt;Primary learning outcomes&lt;/h2&gt;
 

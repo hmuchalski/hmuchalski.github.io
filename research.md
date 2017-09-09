@@ -2,6 +2,7 @@
 layout: page
 title: Research Projects in HMLab
 permalink: /research/
+breadcrumb: Research
 ---
 
 > Students interested in joining the lab should [go to this page][help-wanted].

@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: page
 title: Teaching
 permalink: /teaching/
 ---
@@ -11,6 +11,8 @@ CHEM 128A is the first part of a two-semester sequence in organic chemistry, the
 ### What will you learn in CHEM 128A
 
 Students who successfully complete the course should be able to (1) clearly communicate the structure and properties of organic molecules using common drawing and naming conventions; and (2) to be able to analyze chemical structures and reactions to make and defend predictions about chemical processes. Learning activities and assignments in this course are designed to help you achieve these two goals. See the [syllabus][syllabus128a] for more details about this course.
+
+
 
 <!-- ## CHEM 128B (Organic chemistry 2) -->
 

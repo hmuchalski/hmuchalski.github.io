@@ -196,6 +196,5 @@ I am not required for providing technical assistance with your tablet or apps.
 
 Fresno State is not responsible for maintenance, replacement, or repair of your tablet. It is your responsibility to \textbf{charge your tablet} and make sure it's operational prior to each class. Most classes do not have sufficient outlets to charge your tablet during class. You must come to class with a fully charged tablet to ensure that you can complete all in-class activities. If you have questions about the performance of your tablet, you should make use of the DISCOVERe Hub (HML lower level). More details here: [http://www.fresnostate.edu/president/discovere/hub/](http://www.fresnostate.edu/president/discovere/hub/)
 
-
 [how-to]: http://www.masterorganicchemistry.com/blog
 [learning-targets]: /teaching/learning-targets-128a

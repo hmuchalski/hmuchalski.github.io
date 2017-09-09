@@ -2,6 +2,7 @@
 layout: page
 title: Course Syllabs (CHEM 129A)
 permalink: /teaching/syllabus-128a/
+breadcrumb: 128A Syllabus
 ---
 
 Fresno State, Fall 2017

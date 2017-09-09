@@ -16,7 +16,7 @@ Welcome to CHEM 128A, Organic Chemistry 1. This document contains all the inform
 
 The syllabus is a live document which is regularly updated. Changes and corrections are listed in the changelog below and will be announced on Blackboard and Piazza. It is your responsibility to check on announcements made online.
 
-- **2017-09-04**: Clarified details about the final exam and LTA Make-ups
+- **2017-09-04**: Clarified details about the final exam and LTA Make-ups.
 - **2017-08-29**: Office hours time added. Minor typography edits.
 - **2017-08-16**: Published on Blackboard
 

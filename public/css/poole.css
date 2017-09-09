@@ -130,11 +130,11 @@ dd {
 #navlist li
 {
 display: inline-block;
-padding: 0.75rem 1rem;
+/*padding: 0.75rem 1rem;*/
 margin-bottom: 1rem;
 list-style: none;
-border-radius: 0.25rem;
-padding-right: 10px;
+/*border-radius: 0.25rem;*/
+/*padding-right: 10px;*/
 }
 
 /* Misc */

@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+breadcrumb: Publications
 ---
 
 [Curriculum Vitae][cv] (PDF)

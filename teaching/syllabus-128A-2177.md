@@ -1,24 +1,33 @@
 ---
 layout: page
-title: Teaching
-permalink: /syllabus-128A/
+title: Course Syllabs (CHEM 129A)
+permalink: /teaching/syllabus-128a/
 ---
 
-# Course Syllabus
-
-**CHEM 128A: Organic Chemistry**  
 Fresno State, Fall 2017
 
 Welcome to CHEM 128A, Organic Chemistry 1. This document contains all the information you need to know about the course. **Your job is to read this document carefully in the first week of class and familiarize yourself with how the course works and maintain that familiarity throughout the semester.** It is nearly 4,300 words for a reason. Almost all questions about the course that you might ask can be answered by referencing the syllabus.
 
-# Logistics
+* TOC
+{:toc}
+
+## Changelog
+
+The syllabus is a live document which is regularly updated. Changes and corrections are listed in the changelog below and will be announced on Blackboard and Piazza. It is your responsibility to check on announcements made online.
+
+- **2017-09-04**: Clarified details about the final exam and LTA Make-ups
+- **2017-08-29**: Office hours time added. Minor typography edits.
+- **2017-08-16**: Published on Blackboard
+
+
+## Logistics
 
 - **Meetings**: Tu/Th 2:00–3:15 pm in Kremen School of Education, room 173
 - **Instructor**: Hubert Muchalski, Ph.D., Assistant Professor of Chemistry
 - **Instructor office**: Science 1 room 352
 - **Class schedule**: [https://goo.gl/uLT1op](https://goo.gl/uLT1op)
 - **Instructor email and phone**: hmuchalski@mail.fresnostate.edu; (559) 278-2711
-- **Office Hours**: TBD
+- **Office Hours**: Monday/Wednesday 12:30–1:30
 - **Appointments**: You don’t need an appointment for office hours; just drop in. If you need a face-to-face meeting outside of office hours, there will be special times set up for appointments during the week; those will be announced once office hours are set.
 - **Instructor availability**: Please note that I do not typically check email after 5 pm and before 10 am. I do not check email at all on the weekends to devote time to family and rest. Messages received during these times will receive attention once I am back online. If you post questions to Piazza, you are likely to receive responses faster.
 
@@ -44,7 +53,7 @@ Students who successfully complete the course should be able to (1) clearly comm
 
 To be successful in the course, you need to make sure you are always giving an effort to do the following:
 
-* Prepare for the class through the pre-class learning exercises (described below).
+* Prepare for the class through the pre-class learning exercises ([described below](#pre-class-ec)).
 * Attend all class meetings and participate actively in class activities.
 * Be proactive in completing course work and avoid procrastination in all things.
 * Maintain awareness of course announcements and calendar events at all times, by regularly checking email, Piazza, and the course calendar.
@@ -74,13 +83,13 @@ Learning happens by doing, not just by listening. So to reach the learning goals
 
 ## Learning targets and assessments
 
-The content and the skills you will learn in the course are given in a list of 16 Learning Targets (LTs). The list is appended to the end of the syllabus. During the course, you’ll be expected to provide evidence that you can perform the tasks that are given in the Learning Targets by completing Learning Target Assessments (LTAs). These will be short quizzes, each addressing a single Learning Target. For example, the assessment for the Learning Target 1.4 (“I can use words and drawings to read and communicate stereochemical information”) may consist of questions that will ask you to demonstrate that skill.
+The content and the skills you will learn in the course are given in a [list of 16 Learning Targets][learning-targets] (LTs). The list is appended to the end of the syllabus. During the course, you’ll be expected to provide evidence that you can perform the tasks that are given in the Learning Targets by completing Learning Target Assessments (LTAs). These will be short quizzes, each addressing a single Learning Target. For example, the assessment for the Learning Target 1.4 (“I can use words and drawings to read and communicate stereochemical information”) may consist of questions that will ask you to demonstrate that skill.
 
-Learning Target Assessments are graded either *satisfactory* or *unsatisfactory*. What constitutes *satisfactory* or *unsatisfactory* work will be spelled out explicitly for each Learning Target and made known to you in advance. See the section below titled “Grading System” for information on how to retake Learning Target assessment that is marked *unsatisfactory*.
+Learning Target Assessments are graded either *satisfactory* or *unsatisfactory*. What constitutes *satisfactory* or *unsatisfactory* work will be spelled out explicitly for each Learning Target and made known to you in advance. See the section about the [grading system](#grading-system) for information on how to retake Learning Target assessment that is marked *unsatisfactory*.
 
-Your mastery of basic skills will also be assessed through a comprehensive final exam given during finals week. The final exam time will be divided into two one hour sessions. The first hour will be dedicated to a comprehensive exam designed by the American Chemical Society. During the second hour, you will be able to make up LTAs you haven’t passed during the semester (with some restrictions, see below).
+Your mastery of basic skills will also be assessed through a comprehensive ACS exam given during finals week. The final exam is composed of 70 multiple choice questions designed by the American Chemical Society.
 
-## Engagement credits
+## Pre-class assignments and engagement credits {#pre-class-ec}
 
 *Engagement* in the course means preparing well for class and participating productively both in and outside of class. The more engaged you are in the class, the better you will learn the material; conversely, students who disengage and try to complete the course from a distance generally have a hard time succeeding.
 
@@ -107,28 +116,34 @@ Our grading system works as follows. At the beginning of the semester, you will 
 
 Your graded work will be evaluated without using points. Instead, your work will be graded either *satisfactory* or *unsatisfactory*. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications are listed at the end of the syllabus, and you should make yourself intimately familiar with that document. Each quiz will have clear explanation how to earn *satisfactory* mark.
 
-The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level. There are no points involved and no statistical or numerical calculations (a.k.a. grading on a curve). To earn a grade you need to accomplish all aspects of the grade (see table below). For reference: there is a total of 16 LTAs, opportunity to earn at least 48 engagement credits and a final ACS exam.
+The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level. There are no points involved and no statistical or numerical calculations (a.k.a. grading on a curve). To earn a grade you need to accomplish all aspects of the grade (see table below). For reference: there is a total of 16 LTAs, opportunity to earn at least 48 engagement credits and a final ACS exam (70 multiple choice questions).
 
-| To earn | Accomplish the following                                         |
-|---------|------------------------------------------------------------------|
+| To earn | Accomplish the following                                           |
+|:-------:|--------------------------------------------------------------------|
 | A       | Earn *satisfactory* on at least 14 LTs (including all "core"); and |
-|         | Earn 36 engagement credits; and                                  |
-|         | Earn at least 60% on the final (ACS) exam                        |
+|         | Earn 36 engagement credits; and                                    |
+|         | Earn at least 50% on the final (ACS) exam                          |
 | B       | Earn *satisfactory* on at least 12 LTs (including all "core"); and |
-|         | Earn 32 engagement credits; and                                  |
-|         | Earn at least 50% on the final (ACS) exam                        |
+|         | Earn 32 engagement credits; and                                    |
+|         | Earn at least 40% on the final (ACS) exam                          |
 | C       | Earn *satisfactory* on at least 10 LTs (including all "core"); and |
-|         | Earn 28 engagement credits; and                                  |
-|         | Earn at least 40% on the final (ACS) exam                        |
+|         | Earn 28 engagement credits; and                                    |
+|         | Earn at least 30% on the final (ACS) exam                          |
 | D       | Earn *satisfactory* on at least 8 LTs (including all "core"); and  |
-|         | Earn 24 engagement credits; and                                  |
-|         | Earn at least 30% on the final (ACS) exam                        |
+|         | Earn 24 engagement credits; and                                    |
+|         | Earn at least 20% on the final (ACS) exam                          |
 
-### You will have multiple attempts to pass LTAs
+### You will have multiple attempts to pass LTAs {#retakes}
 
 At the heart of the learning process in CHEM 128A is a system of revision of your work that will allow multiple attempts to demonstrate a *satisfactory* level of learning. Grades on LTAs are not ﬁnal until the end of the semester and can be attempted again. However, some restrictions apply and are explained below.
 
-There will be times set aside during the semester for you to make up LTAs for which you didn’t earn satisfactory mark. Second attempt to pass an LTA is free. A token (see below) must be spent on each subsequent attempt. Details on how to request a retake of an LTA will be presented on Blackboard.
+There will be times set aside during the semester for you to make up LTAs for which you didn’t earn satisfactory mark. In-class make-ups are scheduled on 9/14 and 12/05. There will be additional make-up dates announced but will happen outside of class time. Make-ups will also be available during faculty consultation days (Dec. 7–8).
+
+Second attempt to pass an LTA is free.[^footnote] A [token](#tokens) must be spent on each subsequent attempt. Details on how to request a retake of an LTA will be presented on Blackboard.
+
+
+
+[^footnote]: The condition is that you complete the self-reflection paper on time. More details to follow.
 
 ### Tokens
 
@@ -141,9 +156,9 @@ Opportunities to earn more tokens may be made available during the semester.
 
 # Course policies
 
-## Quiz make-up policy
+## LTA make-up policy
 
-If you know in advance that you will miss a quiz (first attempt), and have a valid reason that can be verified by a document (e.g. a doctor's letter, or a letter from an athlete's sports team coach), I will decide on an individual basis. Notify me as soon as you confirm that you will not be able to take an LTA and I will arrange an alternative date/time, and you will take it.
+If you know in advance that you will miss an LTA (first attempt), and have a valid reason that can be verified by a document (e.g. a doctor's letter, or a letter from an athlete's sports team coach), I will decide on an individual basis. Notify me as soon as you confirm that you will not be able to take an LTA and I will arrange an alternative date/time, and you will take it.
 
 ## Dropping the course
 Students may drop classes using the on-line system through Monday, September 12. Between September 13 and 19, the Drop/Withdrawal Form, signed by instructor and department chair is needed to drop a course but no record will be registered in student transcript. Serious and compelling drop period begins Tuesday, September 20 and ends on November 14. More details on [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html)
@@ -182,135 +197,4 @@ Fresno State is not responsible for maintenance, replacement, or repair of your 
 
 
 [how-to]: http://www.masterorganicchemistry.com/blog
-
-# Learning Targets
-
-## Course Goal 1
-
-I can clearly communicate the structure and properties of organic molecules using common drawing and naming conventions.
-
-### LT1.1 Lewis structures and bonding \[CORE\]
-
-- I can describe properties of an atom (hybridization, geometry, number of non-bonding electron pairs, partial charge, formal charge)
-- I can identify the main characteristics of a given bond (type, angle, polarization)
-- I can interconvert between different drawing styles (Lewis dot structures, bond–line/zig–zag structures, condensed formulas, and composition formulas)
-- I can draw a complete Lewis structure of organic molecules
-- I can describe the basic nature of all intermolecular forces and how they affect basic physicochemical properties
-
-### LT1.2 Basic nomenclature \[CORE\]
-
-- I can draw a molecule representative of a given functional group
-- I can and use basic IUPAC nomenclature rules to convert structure to name
-- I can and use basic IUPAC nomenclature rules to convert name to structure (simple alkanes, cycloalkanes, alkyl halides, and alcohols).
-- Identify functional groups that can participate in intermolecular bonding interactions
-
-### LT1.3 Electron delocalization and basic arrow pushing \[CORE\]
-
-- I can identify areas in a molecule where resonance applies
-- I can use MO theory to illustrate electron delocalization in the allyl-type system
-- I can draw valid resonance contributors and assess their relative importance
-- I can use electron-pushing arrows to interconvert between resonance structures
-- I can classify a bond (or lone pair) as localized or delocalized
-
-### LT1.4 Stereochemistry \[CORE\]
-
-- I can identify all types of (stereo)isomeric relationship (or lack thereof) between two molecules
-- I can identify chirality centers and assign absolute configuration
-- I can predict if a liquid sample of an organic compound will rotate the plane of polarized light @lab
-- I can communicate enantiomeric enrichment using specific rotation, %ee, and er @lab
-- I can interconvert between Fisher projection and bond–line structures
-
-### LT1.5 Advanced nomenclature
-
-- I can draw a molecule given its common name
-- I can use IUPAC nomenclature rules to convert structure to name and name to structure (alkanes, alkenes, alkynes, halides, alcohols, ethers).
-- I can calculate the degree of unsaturation
-- I can draw a representative molecule with given constraints.
-
-## Course Goal 2
-
-I can analyze chemical structures and reactions to make and defend predictions about chemical processes
-
-### LT2.1 Acid–base reactions \[CORE\]
-
-- I can identify and label the components of a acid–base reaction
-- I can use cureved arrows to illustrate electron flow in an acid–base reaction
-- I am able to asses relative acidity and basicity of organic molecules by means of pKa
-- I am able to asses relative acidity and basicity of organic molecules by analyzing the stability of their conjugate bases
-- I can predict the direction of the acid–base equilibrium for a given reaction
-
-### LT2.2 Molecular conformations
-
-- I can draw different projections of conformations of acyclic molecules (wedge/dash, sawhorse, Newman projections)
-- I can assess the relative energy of conformations
-- I can draw a chair conformation of substituted cyclohexane and it's flipped conformer, and label substituents as axial and equatorial
-- I can assess the relative energy of chair conformations to predict the position of ring flip equilibrium.
-
-### LT2.3 Communicating reactivity \[CORE\]
-
-- I can recognize nucleophilic and electrophilic sites in organic molecules
-- I can identify the elementary reaction steps given the reaction and curved arrows
-- I can describe the relationship between structure and stability of reactive intermediates (carbocations, carbanions, radicals)
-- I can use curved arrows to show how bonds form and break in an ionic (2-electron) reaction
-- I can use curved arrows to show how bonds form and break in a radical (1-electron) reaction
-
-### LT2.4 Characteristics of reactions
-
-- I can identify different categories of chemical reactions (substitution, elimination, addition)
-- I can predict the sign deltaH, deltaS, and deltaG for a given reaction
-- I can deconstruct energy diagrams to extract relevant information about a chemical reaction
-- I can draw an energy diagram of a reaction with specified parameters
-- I can explain how different factors (temperature, sterics, catalysts) affect the reaction rate
-
-### LT2.5 Chemistry of free radicals
-
-- I can describe the key parts of the radical chain reaction mechanism
-- I can discriminate between common patterns in radical reactions
-- I can use thermodynamic and kinetic analysis to explain and predict the regiochemistry of radical halogenation of alkanes
-- I can use curved arrows to communicate electron flow in a radical reaction
-- I can propose a selective synthesis of an alkyl halide using a radical reaction
-
-### LT2.6 Substitution
-
-- I can identify a substitution reaction among other classes of reactions
-- I can draw a TS and a complete mechanism of a given an SN1 and SN2 process
-- I can complete a reaction scheme in which one component (reactant, reagents & conditions, or products) is missing
-- I can predict which mechanism will dominate given the reactants and reaction conditions
-- I can make predictions about the stereochemistry of reactants or products in simple nucleophilic substitution reactions
-
-### LT2.7 Elimination
-
-- I can identify an elimination reaction among other classes of reactions
-- I can draw a TS and a complete mechanism of a given E1 and E2 process
-- I can complete a reaction scheme in which one component (reactant, reagents & conditions, or products) is missing
-- I can predict which mechanism will dominate given the reactants and reaction conditions
-- I can recognize the kinetic and thermodynamic product of elimination
-- I can analyze reaction conditions and predict product(s) in cases where both substitution and elimination is possible
-
-### LT2.8 Reactions of alkenes
-
-- I can identify an addition reaction among other classes of reactions
-- I can evaluate and complete a reaction scheme in which one of the components (reactant, reagents & conditions, or products) is missing
-- I can predict and defend the regioselectivity of additions to alkenes
-- I can propose an addition–elimination sequence to transpose the double bond in an alkene
-
-### LT2.9 Reactions of alkynes
-
-- I can identify an addition to alkynes among other classes of reactions
-- I can identify a deprotonation reaction of alkynes
-- I can identify a C–C bond forming reaction
-- I can evaluate and complete a reaction scheme in which one of the components (reactant, reagents & conditions, or products) is missing for reactions that involve alkynes
-- I can predict and defend the regioselectivity of additions to alkynes
-
-### LT2.10 Stereochemistry in reactions
-
-- I can predict and defend the stereoselectivity of additions to alkenes
-- I can predict and defend the stereoselectivity of additions to alkynes
-- I can predict whether the product of a reaction will be optically active or not
-
-### LT2.11 Synthesis of complex molecules
-
-- I can develop a synthetic strategy using retrosynthetic analysis
-- I can identify problems in a flawed multitep synthesis
-- I can propose and defend a plausible synthesis of a molecule given constraints
-- I can complete a multistep synthesis scheme in which structures or reaction conditions are missing
+[learning-targets]: /teaching/learning-targets-128a

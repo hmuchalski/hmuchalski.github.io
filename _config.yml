@@ -16,7 +16,7 @@ paginate_path: /page:num
 paginate:       2
 
 # Setup
-title:          Hubert Muchalski
+title:          HMLab
 tagline:        'Fresno State University'
 description:    'Organic Chemistry Research at Fresno State'
 url:            http://
@@ -26,6 +26,11 @@ author:
 name:           'Hubert Muchalski'
 url:            http://muchalski.net
 email:          hmuchalski@csufresno.edu
+
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
 
 hubs:
   cv:           https://www.dropbox.com/s/kr5ix33ztfq36mf/curriculum-vitae-muchalski.pdf

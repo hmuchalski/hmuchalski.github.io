@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Research Opportunities
 permalink: /research/opportunities/
 ---
 
 ![](https://ak9.picdn.net/shutterstock/videos/13678460/thumb/3.jpg)
-
-# Research Opportunities
 
 The HMLab conducts research on the exciting problem in chemistry: _how to synthesize important molecules in the most efficient and sustainable way_.
 

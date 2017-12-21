@@ -9,40 +9,37 @@ breadcrumb: HMLab members
 
 <img src="/img/hm-circle2.png" width="120" />
 
-Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wrocław University of Technology][pwr] in 2006. During these studies, he investigated the diselenide catalyzed hydroperoxide oxidation of naphthalenes. In 2006, he began graduate studies at Vanderbilt with [prof. Jeffrey N. Johnston][jnj]. There Hubert developed a unique a-diazo imide reagent that enabled the development of the Brønsted acid catalyzed syn-glycolate Mannich reaction. He then used the Bronsted acid-promoted azide-alkene synthesis of _vic_-amino alcohols to develop a two directional synthesis approach to (+)-zwittermicin A. Hubert was a postdoctoral scholar with prof. Ned Porter until 2015 where he investigated kinetic isotope effect of lipid peroxidation. In 2015 he joined the [Chemistry Department][csm-chem] at [Fresno State][csuf] as an Assistant Professor of Chemistry.
+Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wrocław University of Technology][pwr] in 2006. During these studies, he investigated the diselenide catalyzed hydroperoxide oxidation of naphthalenes. In 2006, he began graduate studies at Vanderbilt with [prof. Jeffrey N. Johnston][jnj]. There Hubert developed a unique a-diazo imide reagent that enabled the development of the Brønsted acid catalyzed syn-glycolate Mannich reaction. He then used the Bronsted acid-promoted azide-alkene synthesis of _vic_-amino alcohols to develop a two directional synthesis approach to (+)-zwittermicin A. Hubert was a postdoctoral scholar with prof. Ned Porter until 2015 where he investigated kinetic isotope effect of lipid peroxidation. In 2015 he joined the [Chemistry Department][csm-chem] at [Fresno State][csuf] as Assistant Professor of Chemistry.
 
 - See [Hubert's CV][cv] for more details.
 
-## Current Students
+## Graduate Students
 
 ### Quang Le
 
-<img src="/img/birdie.png" width="120" />
+Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Golden focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016 he entered the M.S. program at Fresno State and is currently working on the synthesis of stable sulfenic acids as potential antioxidants.
 
-### Parveen Kaur
+## Undergraduate Students
 
-<img src="/img/bird2.png" width="120" />
-
-### Janay Mommer
-
-<img src="/img/tiger.png" width="120" />
-
-### Amanda Olvera
-
-<img src="/img/zebra.png" width="120" />
-
-### Melissa Sanchez
-
-<img src="/img/birdie.png" width="120" />
-
-### Ryan Watters
-
-<img src="/img/lama.png" width="120" />
+- Parveen Kaur (BS Biochemistry)
+- Janay Mommer (BS Biochemistry)
+- Amanda Olvera (BS Biology)
+- Melissa Sanchez (BS Chemistry)
+- Ryan Watters (BS Chemistry)
+- Christopher Dillon (BS Chemistry)
+- Jeremy Pisor (BS Chemistry)
+- Dana Lichtenstein (BS Biology)
+- Bagieng Keophimphone (BS Biochemistry)
+- Joseph Shin (BS Biology)
+- Alison Phasakda (BA Chemistry)
+- Inderpal Sekhon (BA Chemistry)
+<!-- - Daisy Avalos (BA Chemistry)-->
 
 ## Former Students
 
-1. Aakashdeep Singh
-2. Juan Ramos Flores
+1. Aakashdeep Singh (BS Biochemistry)
+2. Juan Ramos Flores (BS Biochemistry)
+3. Austin Dean (BS Biology 2017)
 
 [csm-chem]: http://www.fresnostate.edu/csm/chemistry
 [csuf]: http://www.fresnostate.edu

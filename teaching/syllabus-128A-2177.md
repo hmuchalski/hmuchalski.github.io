@@ -16,19 +16,21 @@ Welcome to CHEM 128A, Organic Chemistry 1. This document contains all the inform
 
 The syllabus is a live document which is regularly updated. Changes and corrections are listed in the changelog below and will be announced on Blackboard and Piazza. It is your responsibility to check on announcements made online.
 
+- **2017-11-12**: Removed LT-10 from course content and revised requirements for each grade.
+- **2017-10-01**: Increased the number of tokens from eight to twelve.
 - **2017-09-04**: Clarified details about the final exam and LTA Make-ups.
 - **2017-08-29**: Office hours time added. Minor typography edits.
-- **2017-08-16**: Published on Blackboard
+- **2017-08-16**: Published on Blackboard.
 
 
-## Logistics
+# Logistics
 
 - **Meetings**: Tu/Th 2:00–3:15 pm in Kremen School of Education, room 173
 - **Instructor**: Hubert Muchalski, Ph.D., Assistant Professor of Chemistry
 - **Instructor office**: Science 1 room 352
 - **Class schedule**: [https://goo.gl/uLT1op](https://goo.gl/uLT1op)
 - **Instructor email and phone**: hmuchalski@mail.fresnostate.edu; (559) 278-2711
-- **Office Hours**: Monday/Wednesday 12:30–1:30
+- **Office Hours**: Monday/Wednesday 12:30–2:00
 - **Appointments**: You don’t need an appointment for office hours; just drop in. If you need a face-to-face meeting outside of office hours, there will be special times set up for appointments during the week; those will be announced once office hours are set.
 - **Instructor availability**: Please note that I do not typically check email after 5 pm and before 10 am. I do not check email at all on the weekends to devote time to family and rest. Messages received during these times will receive attention once I am back online. If you post questions to Piazza, you are likely to receive responses faster.
 
@@ -84,7 +86,7 @@ Learning happens by doing, not just by listening. So to reach the learning goals
 
 ## Learning targets and assessments
 
-The content and the skills you will learn in the course are given in a [list of 16 Learning Targets][learning-targets] (LTs). The list is appended to the end of the syllabus. During the course, you’ll be expected to provide evidence that you can perform the tasks that are given in the Learning Targets by completing Learning Target Assessments (LTAs). These will be short quizzes, each addressing a single Learning Target. For example, the assessment for the Learning Target 1.4 (“I can use words and drawings to read and communicate stereochemical information”) may consist of questions that will ask you to demonstrate that skill.
+The content and the skills you will learn in the course are given in a [list of 16 Learning Targets](#learning-targets) (LTs). The list is appended to the end of the syllabus. During the course, you’ll be expected to provide evidence that you can perform the tasks that are given in the Learning Targets by completing Learning Target Assessments (LTAs). These will be short quizzes, each addressing a single Learning Target. For example, the assessment for the Learning Target 1.4 (“I can use words and drawings to read and communicate stereochemical information”) may consist of questions that will ask you to demonstrate that skill.
 
 Learning Target Assessments are graded either *satisfactory* or *unsatisfactory*. What constitutes *satisfactory* or *unsatisfactory* work will be spelled out explicitly for each Learning Target and made known to you in advance. See the section about the [grading system](#grading-system) for information on how to retake Learning Target assessment that is marked *unsatisfactory*.
 
@@ -107,7 +109,7 @@ Please note that **correctness is not factored into the grade**, so you should f
 
 ### Participation in clicker questions
 
-Research shows that student response systems (clickers) help students learn more and do better in the course. I will use the `i>clicker` student response system in class to assess your learning. Students must respond to at least 75% of questions on a particular day to earn participation in the session. Participation in at least 35% of sessions earns 1 EC, and each additional 5% of participation earns additional EC up to 12 EC for participation in 90% of sessions.
+Research shows that student response systems (clickers) help students learn more and do better in the course. I will use the `i>clicker` student response system in class to assess your learning. Students must respond to at least 75% of questions on a particular day to earn participation in the session. Participation in at least 25% of sessions earns 1 EC, and each additional 5% of participation earns additional EC up to 15 EC for participation in 90% of sessions.
 
 # Grading system
 
@@ -117,22 +119,26 @@ Our grading system works as follows. At the beginning of the semester, you will 
 
 Your graded work will be evaluated without using points. Instead, your work will be graded either *satisfactory* or *unsatisfactory*. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications are listed at the end of the syllabus, and you should make yourself intimately familiar with that document. Each quiz will have clear explanation how to earn *satisfactory* mark.
 
-The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level. There are no points involved and no statistical or numerical calculations (a.k.a. grading on a curve). To earn a grade you need to accomplish all aspects of the grade (see table below). For reference: there is a total of 16 LTAs, opportunity to earn at least 48 engagement credits and a final ACS exam (70 multiple choice questions).
+The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level. There are no points involved and no statistical or numerical calculations (a.k.a. grading on a curve). To earn a grade you need to accomplish all aspects of the grade (see table below). For reference: there is a total of 15 LTAs, opportunity to earn at least 48 engagement credits (15 for clickers) and a final ACS exam (70 multiple choice questions).
 
 | To earn | Accomplish the following                                           |
 |:-------:|--------------------------------------------------------------------|
-| A       | Earn *satisfactory* on at least 14 LTs (including all "core"); and |
+| A       | Earn *satisfactory* on at least 13 LTs (including all "core"); and |
 |         | Earn 36 engagement credits; and                                    |
 |         | Earn at least 50% on the final (ACS) exam                          |
-| B       | Earn *satisfactory* on at least 12 LTs (including all "core"); and |
+| B       | Earn *satisfactory* on at least 11 LTs (including all "core"); and |
 |         | Earn 32 engagement credits; and                                    |
 |         | Earn at least 40% on the final (ACS) exam                          |
-| C       | Earn *satisfactory* on at least 10 LTs (including all "core"); and |
+| C       | Earn *satisfactory* on at least 9 LTs (including all "core"); and  |
 |         | Earn 28 engagement credits; and                                    |
 |         | Earn at least 30% on the final (ACS) exam                          |
-| D       | Earn *satisfactory* on at least 8 LTs (including all "core"); and  |
+| D       | Earn *satisfactory* on all "core" LTs; and                         |
 |         | Earn 24 engagement credits; and                                    |
 |         | Earn at least 20% on the final (ACS) exam                          |
+
+<!-- - Add examples and a link to "calculate my grade spreadsheet"
+- break down EC opportunities
+- consider outside the class assessments. -->
 
 ### You will have multiple attempts to pass LTAs {#retakes}
 
@@ -142,13 +148,16 @@ There will be times set aside during the semester for you to make up LTAs for wh
 
 Second attempt to pass an LTA is free.[^footnote] A [token](#tokens) must be spent on each subsequent attempt. Details on how to request a retake of an LTA will be presented on Blackboard.
 
+<!-- - add LTA make-up form
+- add deadline for LTA make-ups -->
+
 
 
 [^footnote]: The condition is that you complete the self-reflection paper on time. More details to follow.
 
 ### Tokens
 
-Tokens are a “currency” in the course that you can use to purchase exceptions to some course rules, especially the rules for retakes. Each student begins the course with eight tokens, and tokens can purchase any of the following:
+Tokens are a “currency” in the course that you can use to purchase exceptions to some course rules, especially the rules for retakes. Each student begins the course with twelve tokens, and tokens can purchase any of the following:
 
 * one token buys a third, fourth, etc. attempt at passing a Learning Target Assessment; and
 * two tokens buy one engagement credit

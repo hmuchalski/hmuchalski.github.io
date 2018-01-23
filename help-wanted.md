@@ -14,4 +14,6 @@ We are constantly looking for hard-working early-career scientists to join the t
 
 Undergraduate students who are interested in conducting research for credit or as an extracurricular activity should [contact me by e-mail][mailto] or talk to me in person. My office is in Science 1, room 352. There is a small selection process because because the space in the research lab is limited. Although most students do not begin research until they have completed first semester of organic chemistry it is not a hard requirement.
 
+Don't know what to expect? [Click here](/hmlab-standards.html) to learn more.
+
 [mailto]: mailto:hmuchalski@mail.fresnostate.edu?subject=ResearchOpportunity

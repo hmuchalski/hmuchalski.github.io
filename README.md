@@ -1,16 +1,22 @@
 ## Changelog
 
-### 2016-09-13
+- 2018-01-22
+    
+    - Added operating standards page
+    - Simplified recruiting page
+    - updated the config file for the new version of Jekyll
 
-- Added research opportunities page
-- Updated publications
-- Added link to opportunities page on the Home and Research pages
+- 2016-09-13
 
-### 2015-07-31:
+    - Added research opportunities page
+    - Updated publications
+    - Added link to opportunities page on the Home and Research pages
 
-- Initial fidling
-- Git conflict resolved
+- 2015-07-31:
 
-### 2016-06-30
+    - Initial fidling
+    - Git conflict resolved
 
-Merge mess. Resolved
+- 2016-06-30
+
+    - Merge mess. Resolved

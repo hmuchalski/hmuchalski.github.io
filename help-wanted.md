@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /research/opportunities/
+breadcrumb: Opportunities
 ---
 
 ![](https://ak9.picdn.net/shutterstock/videos/13678460/thumb/3.jpg)

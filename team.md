@@ -21,25 +21,25 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## Undergraduate Students
 
-- Parveen Kaur (BS Biochemistry)
-- Janay Mommer (BS Biochemistry)
-- Amanda Olvera (BS Biology)
-- Melissa Sanchez (BS Chemistry)
-- Ryan Watters (BS Chemistry)
-- Christopher Dillon (BS Chemistry)
-- Jeremy Pisor (BS Chemistry)
-- Dana Lichtenstein (BS Biology)
-- Bagieng Keophimphone (BS Biochemistry)
-- Joseph Shin (BS Biology)
-- Alison Phasakda (BA Chemistry)
-- Inderpal Sekhon (BA Chemistry)
-<!-- - Daisy Avalos (BA Chemistry)-->
+* Parveen Kaur (BS Biochemistry)
+* Melissa Sanchez (BS Chemistry)
+* Ryan Watters (BS Chemistry)
+* Christopher Dillon (BS Chemistry)
+* Dana Lichtenstein (BA Biology)
+* Bagieng Keophimphone (BS Biochemistry)
+* Joseph Shin (BA Biochemistry)
+* Alison Phasakda (BA Chemistry)
+* Inderpal Sekhon (BA Chemistry)
+<!-- * Daisy Avalos (BA Chemistry) -->
 
 ## Former Students
 
-1. Aakashdeep Singh (BS Biochemistry)
-2. Juan Ramos Flores (BS Biochemistry)
-3. Austin Dean (BS Biology 2017)
+* Jeremy Pisor (BS Chemistry)
+* Janay Mommer (BS Biochemistry 2018)
+* Amanda Olvera (BA Biology, 2018)
+* Aakashdeep Singh (BS Biochemistry 2018)
+* Juan Ramos Flores (BS Biochemistry 2018)
+* Austin Dean (BA Biology 2017)
 
 [csm-chem]: http://www.fresnostate.edu/csm/chemistry
 [csuf]: http://www.fresnostate.edu

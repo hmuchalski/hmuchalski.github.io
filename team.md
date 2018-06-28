@@ -29,12 +29,17 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Alison Phasakda (BA Chemistry)
 * Jeremy Pisor (BS Chemistry)
 * Daisy Avalos (BA Chemistry)
-* Paul Cavanaugh (BS Chemistry) 
+* Paul Cavanaugh (BS Chemistry)
+
+## High School Students
+
+* Aliyah Lerma (ACS SEED 2018, Hoover High School)
 
 ## Former Students
 
 * Janay Mommer (BS Biochemistry 2018)
 * Amanda Olvera (BA Biology, 2018)
+* Jonathan Jimenez (ACS SEED 2017, Fresno High School)
 * Aakashdeep Singh (BS Biochemistry 2018)
 * Juan Ramos Flores (BS Biochemistry 2018)
 * Austin Dean (BA Biology 2017)

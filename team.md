@@ -35,7 +35,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
 
-## Former Students
+## Alumni
 
 * Janay Mommer (BS Biochemistry 2018)
 * Amanda Olvera (BA Biology, 2018)

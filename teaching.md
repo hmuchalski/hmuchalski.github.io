@@ -13,11 +13,15 @@ CHEM 128A is the first part of a two-semester sequence in organic chemistry, the
 
 Students who successfully complete the course should be able to (1) clearly communicate the structure and properties of organic molecules using common drawing and naming conventions; and (2) to be able to analyze chemical structures and reactions to make and defend predictions about chemical processes. Learning activities and assignments in this course are designed to help you achieve these two goals. See the [syllabus][syllabus128a] for more details about this course.
 
+## CHEM 129A (Organic chemistry laboratory 1)
 
+CHEM 129A is a two unit introductory laboratory course in organic chemistry. It is primarily concerned with introducing the tools and techniques that chemists use to synthesize and investigate the properties of organic compounds. Some of these techniques are the same or similar to those you learned in general chemistry courses but may be modified because the experiments use very small amounts of material (microscale techniques).
+
+Students who successfully complete CHEM 129A generally enroll in CHEM 129B, which further develops students' laboratory skills. Some students then continue with CHEM 190, undergraduate research or independent study. See the [syllabus][syllabus129a] for more details about this course.
 
 <!-- ## CHEM 128B (Organic chemistry 2) -->
 
 
 [syllabus128a]: /teaching/syllabus-128a/
 
-[syllabus128b]: /teaching/syllabus-128b/
+[syllabus129a]: /teaching/syllabus-129a/

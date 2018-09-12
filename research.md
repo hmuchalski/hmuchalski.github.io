@@ -15,8 +15,8 @@ Currently we have two main research project underway
 
 This project explores use of gold complexes as catalysts for a efficient addition of nucleophiles to the C–C pi bond in alkynes. Some of the questions that guide our efforts are:
 
-- What gold complexes allow for productive reaction?
-- What nucleophiles are best suited for addition reaction?
+- What gold complexes allow for a productive reaction?
+- What nucleophiles will engage in the gold-catalyzed reaction?
 - What is the scope and limitations of this reaction?
 
 ## Stable sulfenic acids

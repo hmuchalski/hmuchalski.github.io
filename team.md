@@ -12,6 +12,10 @@ breadcrumb: HMLab members
 Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wrocław University of Technology][pwr] in 2006. During these studies, he investigated the diselenide catalyzed hydroperoxide oxidation of naphthalenes. In 2006, he began graduate studies at Vanderbilt with [prof. Jeffrey N. Johnston][jnj]. There Hubert developed a unique a-diazo imide reagent that enabled the development of the Brønsted acid catalyzed syn-glycolate Mannich reaction. He then used the Bronsted acid-promoted azide-alkene synthesis of _vic_-amino alcohols to develop a two directional synthesis approach to (+)-zwittermicin A. Hubert was a postdoctoral scholar with prof. Ned Porter until 2015 where he investigated kinetic isotope effect of lipid peroxidation. In 2015 he joined the [Chemistry Department][csm-chem] at [Fresno State][csuf] as Assistant Professor of Chemistry.
 
 - See [Hubert's CV][cv] for more details.
+- Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
+- Request an appointment: [https://muchalski.page.link/book	][05195d58]
+
+  [05195d58]: https://muchalski.page.link/book "Request an appoinment"
 
 ## Graduate Students
 

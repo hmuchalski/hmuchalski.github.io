@@ -15,7 +15,6 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
 - Request an appointment: [https://muchalski.page.link/book	][05195d58]
 
-  [05195d58]: https://muchalski.page.link/book "Request an appoinment"
 
 ## Graduate Students
 
@@ -53,3 +52,4 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 [pwr]: http://pwr.edu.pl/en/
 [jnj]: http://johnstonchemistry.org/
 [cv]: /downloads/vitae.pdf
+[05195d58]: https://muchalski.page.link/book "Request an appoinment"

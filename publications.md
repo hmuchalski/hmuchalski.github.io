@@ -1,44 +1,33 @@
 ---
 layout: page
-title: Publications
+title: Refereed Publications
 permalink: /publications/
 breadcrumb: Publications
 ---
 
-[Curriculum Vitae][cv] (PDF)
+Full list of publications and conference presentations in included in Hubert's [curriculum Vitae (PDF)][cv]. A dagger (&#8224;) indicates undergraduate co-author. DOI links may require journal subscription. Feel free to [request PDF copy][mailto] by email.
 
-An asterisk (&#42;) indicates undergraduate co-author. PDF links may require journal subscription. Feel free to [request PDF copy][mailto] by email.
+1. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H., Synthesis of 2-substituted benzo[b]thiophenes via gold(i)–NHC-catalyzed cyclization of 2-alkynyl thioanisoles. _Org. Biomol. Chem._ **2018,** _16_, 9279-9284. doi:10.1039/C8OB02196A
+2. Muchalski, H., Site-specific synthesis and application of Deuterium-Labeled sterols. _Arkivoc_ **2017** , 507-533. doi:10.3998/ark.5550190.p009.755
+3. Lamberson, C. R.; Muchalski, H.; McDuffee, K. B.&#8224;; Tallman, K. A.; Xu, L.; Porter, N. A., Propagation rate constants for the peroxidation of sterols on the biosynthetic pathway to cholesterol. _Chem. Phys. Lipids_ **2017,** _207, Part B_, 51-58. doi:10.1016/j.chemphyslip.2017.01.006
+4. Muchalski, H.; Xu, L.; Porter, N. A., Tunneling in tocopherol-mediated peroxidation of 7-dehydrocholesterol. _Org. Biomol. Chem._ **2015,** _13_, 1249-1253. doi:10.1039/C4OB02377C
+5. Muchalski, H.; Levonyak, A. J.&#8224;; Xu, L.; Ingold, K. U.; Porter, N. A., Competition H(D) Kinetic Isotope Effects in the Autoxidation of Hydrocarbons. _J. Am. Chem. Soc._ **2015,** _137_, 94-97. doi:10.1021/ja511434j
+6. Lamberson, C. R.; Xu, L.; Muchalski, H.; Montenegro-Burke, J. R.; Shmanai, V. V.; Bekish, A. V.; McLean, J. A.; Clarke, C. F.; Shchepinov, M. S.; Porter, N. A., Unusual Kinetic Isotope Effects of Deuterium Reinforced Polyunsaturated Fatty Acids in Tocopherol-Mediated Free Radical Chain Oxidations. _J. Am. Chem. Soc._ **2014,** _136_, 838-841. doi:10.1021/ja410569g
+7. Giurg, M.; Muchalski, H.; Kowal, E., Oxofunctionalized trans-2-carboxycinnamic acids by catalytic domino oxidation of naphthols and hydronaphthoquinones. _Synth. Commun._ **2012,** _42_, 2526-2539. doi:10.1080/00397911.2011.561945
+8. Troyer, T.; Muchalski, H.; Hong, K.; Johnston, J., Origins of Selectivity in Bronsted Acid-Promoted Diazoalkane-Azomethine Reactions (The Aza-Darzens Aziridine Synthesis). _Org. Lett._ **2011,** _13_, 1790-1792. doi:10.1021/ol200313m
+9. Muchalski, H.; Doody, A. B.; Troyer, T. L.; Johnston, J. N., Preparation of Isopropyl 2-Diazoacetyl(Phenyl)Carbamate. _Org. Synth._ **2011,** _88_, 212-223.
+10. Muchalski, H.; Hong, K.; Johnston, J., Bronsted acid-promoted azide-olefin [3+2] cycloadditions for the preparation of contiguous aminopolyols: The importance of disiloxane ring size to a diastereoselective, bidirectional approach to zwittermicin A. _Beilstein J. Org. Chem._ **2010,** _6_, 1206-1210. doi:10.3762/bjoc.6.138
+11. Johnston, J.; Muchalski, H.; Troyer, T., To Protonate or Alkylate? Stereoselective Bronsted Acid Catalysis of C-C Bond Formation Using Diazoalkanes. _Angew. Chem. Int. Ed._ **2010,** _49_, 2290-2298. doi:10.1002/anie.200904828
+12. Troyer, T. L.; Muchalski, H.; Johnston, J. N., Bronsted acid activation of alpha-diazo imide: a syn-selective glycolate Mannich reaction. _Chem. Commun._ **2009** , 6195-6197. doi:10.1039/b913785h
+13. Adkins, C. T.; Muchalski, H.; Harth, E., Nanoparticles with Individual Site-Isolated Semiconducting Polymers from Intramolecular Chain Collapse Processes. _Macromolecules_ **2009,** _42_, 5786-5792. doi:10.1021/ma9007913
+14. Niswender, C. M.; Lebois, E. P.; Luo, Q. W.; Kim, K.; Muchalski, H.; Yin, H. Y.; Conn, P. J.; Lindsley, C. W., Positive allosteric modulators of the metabotropic glutamate receptor subtype 4 (mGluR4): Part I. Discovery of pyrazolo 3,4-d pyrimidines as novel mGluR4 positive allosteric modulators. _Bioorg. Med. Chem. Lett._ **2008,** _18_, 5626-5630. doi:10.1016/j.bmcl.2008.08.087
+15. Giurg, M.; Kowal, E.; Muchalski, H.; Syper, L.; Mlochowski, J., Catalytic Oxidative Domino Degradation of Alkyl Phenols Towards 2-and 3-Substituted Muconolactones. _Synth. Commun._ **2008,** _39_, 251-266. doi:10.1080/00397910802369687
+16. Daniels, R. N.; Kim, K.; Lebois, E. P.; Muchalski, H.; Hughes, M.; Lindsley, C. W., Microwave-assisted protocols for the expedited synthesis of pyrazolo 1,5-a and 3,4-d pyrimidines. _Tetrahedron Lett._ **2008,** _49_, 305-310. doi:10.1016/j.tetlet.2007.11.054
+17. Croce, T. A.; Hamilton, S. K.; Chen, M. L.&#8224;; Muchalski, H.; Harth, E., Alternative o-quinodimethane cross-linking precursors for intramolecular chain collapse nanoparticles. _Macromolecules_ **2007,** _40_, 6028-6031. doi:10.1021/ma071111m
 
-### Refereed Journal Articles
 
-1. Hubert Muchalski; Alexander J. Levonyak&#42;; Libin Xu; Keith U. Ingold; Ned A. Porter Competition H(D) Kinetic Isotope E ects in the Autoxidation of Hydrocarbons. *J. Am. Chem. Soc.* **2015**, *137*, 94-97. ([Abstract][jacs2015]) ([PDF][jacs2015pdf])
-2. Hubert Muchalski; Libin Xu; Ned A. Porter Tunneling in Tocopherol-Mediated Peroxidation of 7-Dehydrocholesterol. *Org. Biomol. Chem.* **2015**, *13*, 1249-1253. ([Abstract][obc2015]) ([PDF][jacs2015pdf])
-3. Connor R. Lamberson; Libin Xu; Hubert Muchalski; J. Rafael Montenegro-Burke; Vadim V. Shmanai; Andrei V. Bekish; John A. McLean; Catherine F. Clarke; Mikhail S. Shchepinov; Ned A. Porter Unusual Kinetic Isotope E ects of Deuterium Reinforced Polyunsaturated Fatty Acids in Tocopherol-Mediated Free Radical Chain Oxidations. *J. Am. Chem. Soc.* **2014**, *136*, 838-841. ([Abstract][jacs2014]) ([PDF][jacs2014pdf])
-4. Giurg, M.; Muchalski, H.; Kowal E. A. Oxofunctionalized trans-2-Carboxycinnamic Acids by Catalytic Domino Oxidation of Naphthols and Hydronaphthoquinones. _Synth. Commun._ **2012**, _42_, 2526–2539.
-5. Troyer, T. L.; Muchalski, H.; Hong, K. B.; Johnston, J. N. Origins of Selectivity in Brønsted Acid Promoted Diazoalkane–Azomethine Reactions (The aza-Darzens Aziridine Synthesis). _Org. Lett._ **2011**, _13_, 1790–1792.
-6. Muchalski, H.; Hong, K. B.; Johnston, J. N. Brønsted acid-promoted azide-olefin [3 + 2] cycloadditions for the preparation of contiguous aminopolyols: the importance of disiloxane ring size to a diastereoselective, bidirectional approach to zwittermicin A. _Beilstein J. Org. Chem._ **2011**, _6_, 1206–1210.
-7. Muchalski, H.; Troyer, T. L.; Doody, A. B.; Johnston, J. N. Preparation of isopropyl 2-diazoacetyl(phenyl)carbamate. _Org. Synth._ **2011**, _Vol. 88_, 212–223.
-8. Troyer, T. L.; Muchalski, H.; Johnston, J. N. Brønsted acid activation of α-diazo imide: a syn- glycolate Mannich reaction. _Chem. Commun._ **2009**, **32**, 6195–6197.
-9. Giurg, M.; Kowal, E. A.; Muchalski, H.; Syper, L.; Mochowski, J. Catalytic oxidative domino degradation of alkyl phenols towards 2- and 3-substituted muconolactones. _Synth. Commun._ **2009**, _39_, 251–266.
-10. Adkins, C. T.; Muchalski, H.; Harth, E. Nanoparticles with Individual Site-Isolated Semiconducting Polymers from Intramolecular Chain Collapse Processes. Macromolecules **2009**, _42_, 5786–5792.
-11. Daniels, R. N.; Kim, K.; Lebois, E. P.; Muchalski, H.; Hughes, M.; Lindsley, C. W. Microwave- assisted protocols for the expedited synthesis of pyrazolo[1,5-a] and [3,4-d]pyrimidines. _Tetrahedron Lett._ **2008**, _49_, 305–310.
-12. Niswender C. M.; Lebois E. P.; Luo Q.; Kim K.; Muchalski H.; Yin H.; Conn P. J.; Lindsley C. W. Positive allosteric modulators of the metabotropic glutamate receptor subtype 4 (mGluR4): Part I. Discovery of pyrazolo[3,4-d]pyrimidines as novel mGluR4 positive allosteric modulators. _Bioorg. Med. Chem. Lett._ **2008**, _18_, 5626–5630.
-13. Croce, T. A.; Hamilton, S. K.; Chen, M. L.; Muchalski, H.; Harth, E. M. Alternative *o*-Quinodimethane Cross-Linking Precursors for Intramolecular Chain Collapse Nanoparticles. _Macromolecules_ **2007**, _40_, 6028–6031.
 
-### Reviews and Book Chapters
-
-1. Hubert Muchalski Synthesis and Applications of Deuterium-Labeled Steroids. ARKIVOC.
-2. Muchalski, H.; Johnston, J. N. Aziridination. In Science of Synthesis: Stereoselective Synthesis; de Vries, J. G., Ed.;  Thieme: Stuttgart, **2011**; Vol. 1, pp 155–184
-3. Johnston,J.N.;Muchalski,H.;Troyer,T.L.Protonate or Alkylate: Stereoselective Brønsted Acid-Catalysis of C–C Bond Formation Using Diazoalkanes. *Angew. Chem. Int. Ed.*  **2010**, *49*, 2290–2298.
 
 
 [cv]: /downloads/vitae.pdf
-[jacs2015]: http://pubs.acs.org/doi/abs/10.1021/ja511434j
-[jacs2015pdf]: http://pubs.acs.org/doi/pdf/10.1021/ja511434j
-[obc2015]: http://dx.doi.org/10.1039/C4OB02377C
-[obc2015pdf]: http://pubs.rsc.org/en/content/articlepdf/2015/ob/c4ob02377c
-[jacs2014]: http://pubs.acs.org/doi/abs/10.1021/ja410569g
-[jacs2014pdf]: http://pubs.acs.org/doi/pdf/10.1021/ja410569g
-[syncom2012]: http://dx.doi.org/10.1080/00397911.2011.561945
-[syncom2012]: http://www.tandfonline.com/doi/pdf/10.1080/00397911.2011.561945
 [mailto]: mailto:hmuchalski@csufresno.edu?subject=PDF Request

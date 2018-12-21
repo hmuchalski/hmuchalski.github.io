@@ -18,21 +18,21 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 ## Graduate Students
 
-### Quang Le
+### Christopher C. Dillon
 
-Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Golden focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016 he entered the M.S. program at Fresno State and is currently working on the synthesis of stable sulfenic acids as potential antioxidants.
+Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019 he began his Master degree studies at Fresno State.
 
 ## Undergraduate Students
 
 * Parveen Kaur (BS Biochemistry)
-* Melissa Sanchez (BS Chemistry)
-* Christopher Dillon (BS Chemistry)
 * Dana Lichtenstein (BA Biology)
 * Bagieng Keophimphone (BS Biochemistry)
 * Alison Phasakda (BA Chemistry)
 * Jeremy Pisor (BS Chemistry)
 * Daisy Avalos (BA Chemistry)
-* Paul Cavanaugh (BS Chemistry)
+* Alexander L. Ewing (BS Biochemistry)
+* Karina N. Bustos (BS Chemistry)
+* Jamie A. Waite (BS Biochemistry)
 
 ## High School Students
 
@@ -40,12 +40,20 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## Alumni
 
-* Janay Mommer (BS Biochemistry 2018)
-* Amanda Olvera (BA Biology, 2018)
+### Quang Le, M.S.
+
+Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants.
+
+### Undergraduate Alumni
+
+* Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018)
+* Paul Cavanaugh (BS Chemistry 2019)
+* Janay Mommer (BS Biochemistry 2018; civil engineering firm)
+* Amanda Olvera (BA Biology, 2018; pharmacy school)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)
-* Aakashdeep Singh (BS Biochemistry 2018)
+* Aakashdeep Singh (BS Biochemistry 2018; M.S. program in Materials Science, the Ohio State University)
 * Juan Ramos Flores (BS Biochemistry 2018)
-* Austin Dean (BA Biology 2017)
+* Austin Dean (BS Biology 2017)
 
 [csm-chem]: http://www.fresnostate.edu/csm/chemistry
 [csuf]: http://www.fresnostate.edu

@@ -33,6 +33,8 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Alexander L. Ewing (BS Biochemistry)
 * Karina N. Bustos (BS Chemistry)
 * Jamie A. Waite (BS Biochemistry)
+* Simrit Dhindsa (BS Biochemistry)
+
 
 ## High School Students
 

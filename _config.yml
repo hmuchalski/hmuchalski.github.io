@@ -21,7 +21,7 @@ version:        '2019-04-23'
 tagline:        'Fresno State University'
 description:    'Organic Chemistry Research at Fresno State'
 url:            https://
-baseurl:        "/blog"
+baseurl:        ""
 
 author:
 name:           'Hubert Muchalski'

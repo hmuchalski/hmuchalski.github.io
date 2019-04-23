@@ -13,15 +13,15 @@ highlighter: rouge
 # Permalinks
 permalink:     pretty
 paginate_path: /page:num
-paginate:       3
+paginate:       5
 
 # Setup
 title:          HMLab
 version:        '2019-04-23'
 tagline:        'Fresno State University'
 description:    'Organic Chemistry Research at Fresno State'
-url:            http://
-baseurl:        ""
+url:            https://
+baseurl:        "blog"
 
 author:
 name:           'Hubert Muchalski'

@@ -13,7 +13,7 @@ highlighter: rouge
 # Permalinks
 permalink:     pretty
 paginate_path: /page:num
-paginate:       2
+paginate:       3
 
 # Setup
 title:          HMLab

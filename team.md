@@ -13,7 +13,7 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 - See [Hubert's CV][cv] for more details.
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
-- Request an appointment: [https://muchalski.page.link/book	][05195d58]
+<!-- - Request an appointment: [https://muchalski.page.link/book	][05195d58] -->
 
 
 ## Graduate Students
@@ -35,7 +35,6 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Jamie A. Waite (BS Biochemistry)
 * Simrit Dhindsa (BS Biochemistry)
 
-
 ## High School Students
 
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
@@ -48,8 +47,8 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
-* Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018)
-* Paul Cavanaugh (BS Chemistry 2019)
+* Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, UCSB Ph.D.)
+* Paul Cavanaugh (BS Chemistry 2019, UC Merced Ph.D.)
 * Janay Mommer (BS Biochemistry 2018; civil engineering firm)
 * Amanda Olvera (BA Biology, 2018; pharmacy school)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)
@@ -62,4 +61,4 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 [pwr]: http://pwr.edu.pl/en/
 [jnj]: http://johnstonchemistry.org/
 [cv]: /downloads/vitae.pdf
-[05195d58]: https://muchalski.page.link/book "Request an appoinment"
+[05195d58]: https://muchalski.page.link/book "Request an appointment"

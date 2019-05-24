@@ -5,7 +5,9 @@ permalink: /team/
 breadcrumb: HMLab members
 ---
 
-## Hubert Muchalski, Ph.D.
+[Go to group photo album](/team/photos)
+
+## Hubert Muchalski, Ph.D. (PI)
 
 <img src="/img/hm-circle2.png" width="120" />
 
@@ -14,6 +16,7 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 - See [Hubert's CV][cv] for more details.
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
 <!-- - Request an appointment: [https://muchalski.page.link/book	][05195d58] -->
+
 
 
 ## Graduate Students
@@ -32,8 +35,12 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Daisy Avalos (BA Chemistry)
 * Alexander L. Ewing (BS Biochemistry)
 * Karina N. Bustos (BS Chemistry)
-* Jamie A. Waite (BS Biochemistry)
 * Simrit Dhindsa (BS Biochemistry)
+* Angel Rojas (BS Biochemistry)
+* Alicia Paulsen (BS Biology)
+<!-- * Monaster Ahmad  (BS Biochemistry)-->
+<!-- * Hamza Haq (BS Bioloby)-->
+<!-- * Lizzie Herren (BS Chemistry) -->
 
 ## High School Students
 
@@ -47,6 +54,8 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
+* Jamie Waite (BS Biochemistry 2019)
+* Armando DeAlba (BS Biology, BA Chemistry 2019; MS Biotechnology program)
 * Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, UCSB Ph.D.)
 * Paul Cavanaugh (BS Chemistry 2019, UC Merced Ph.D.)
 * Janay Mommer (BS Biochemistry 2018; civil engineering firm)

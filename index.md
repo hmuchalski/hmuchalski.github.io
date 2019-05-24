@@ -12,6 +12,11 @@ breadcrumb: Home
 
 ## Recent News
 
+**2019-05-17**: Congratulations to Class of 2019 - Melissa Sanchez, Jamie Waite, Armando DeAlba, and Paul Cavanaugh.
+
+**2019-05-01**: We were very well represented at the 40th Annual Central California Research Symposium. Jamie, Karina, Alex, Alison, Dana, Quang, Chris, Jeremy, and Daisy showcased our recent discoveries. Jamie Waite and co-authors received the *Best Chemistry Presentation* award from the
+San Joaquin Valley Local Section of American Chemical Society.
+
 **2019-04-23**: Melissa is heading to UC Santa Barbara Ph.D. program. Congratulations!
 
 **2019-04-01**: Melissa and Chris presented their work at the National Meeting of the American Chemical Society in Orlando.
@@ -33,3 +38,5 @@ breadcrumb: Home
 **2018-06-11**: Bagieng Keophimphone was selected as 2018 CSUPERB Presidents’ Commission Scholar. Congratulations!
 
 **2018-03-16**: Melissa Sanchez was selected as to carry out research at the University of Louisville in laboratory of prof. G. B. Hammond. The fellowship is sponsored by the Camille Dreyfus Foundation. Way to go, Melissa!
+
+[News archive](/archive)

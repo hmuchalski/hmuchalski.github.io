@@ -28,7 +28,7 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 ## Undergraduate Students
 
 * Parveen Kaur (BS Biochemistry)
-* Dana Lichtenstein (BA Biology)
+* Dana Lichtenstein (BS Biology)
 * Bagieng Keophimphone (BS Biochemistry)
 * Alison Phasakda (BA Chemistry)
 * Jeremy Pisor (BS Chemistry)
@@ -38,13 +38,9 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
 * Alicia Paulsen (BS Biology)
-<!-- * Monaster Ahmad  (BS Biochemistry)-->
-<!-- * Hamza Haq (BS Bioloby)-->
+* Monaster Ahmad  (BS Biochemistry)
+* Hamza Haq (BS Biology)
 <!-- * Lizzie Herren (BS Chemistry) -->
-
-## High School Students
-
-* Aliyah Lerma (ACS SEED 2018, Hoover High School)
 
 ## Alumni
 
@@ -60,10 +56,14 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Paul Cavanaugh (BS Chemistry 2019, UC Merced Ph.D.)
 * Janay Mommer (BS Biochemistry 2018; civil engineering firm)
 * Amanda Olvera (BA Biology, 2018; pharmacy school)
-* Jonathan Jimenez (ACS SEED 2017, Fresno High School)
 * Aakashdeep Singh (BS Biochemistry 2018; M.S. program in Materials Science, the Ohio State University)
 * Juan Ramos Flores (BS Biochemistry 2018)
 * Austin Dean (BS Biology 2017)
+
+## High School Students
+
+* Aliyah Lerma (ACS SEED 2018, Hoover High School)
+* Jonathan Jimenez (ACS SEED 2017, Fresno High School)
 
 [csm-chem]: http://www.fresnostate.edu/csm/chemistry
 [csuf]: http://www.fresnostate.edu

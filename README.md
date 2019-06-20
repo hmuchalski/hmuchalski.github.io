@@ -1,5 +1,10 @@
 ## Changelog
 
+- 2019-06-19
+    
+    - updated group members page
+    - added photos from CCRS
+
 - 2018-01-22
     
     - Added operating standards page

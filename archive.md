@@ -5,6 +5,8 @@ breadcrumb: News Archive
 permalink: /archive/
 ---
 
+<!-- # 2019 -->
+
 # 2018
 
 **2018-12-14**: Poster presentation on our collaborative project with Dr. Eric Person about treatment of laboratory waste received _Best Poster Award_ at the STEM CURE Symposium. Congratulations to Paul, Jeremy, Chris, and Melissa!

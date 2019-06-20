@@ -13,4 +13,5 @@ breadcrumb: photobook
 
 ![Alison presenting at CCRS 2019](/img/alison-ccrs-2019.jpg)
 ![Jamie, Karina, and Alex presenting at CCRS 2019](/img/jamie-ccrs-2019.jpg)
-![Quant and Dana presenting at CCRS 2019](/img/dana-ccrs-2019.jpg)
+![Jeremy presenting at CCRS 2019](/img/jeremy-ccrs-2019.jpg)
+![Quang and Dana presenting at CCRS 2019](/img/dana-ccrs-2019.jpg)

@@ -38,7 +38,7 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
 * Alicia Paulsen (BS Biology)
-* Monaster Ahmad  (BS Biochemistry)
+* Montaser Ahmad  (BS Biochemistry)
 * Hamza Haq (BS Biology)
 <!-- * Lizzie Herren (BS Chemistry) -->
 

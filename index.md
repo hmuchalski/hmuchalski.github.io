@@ -4,13 +4,17 @@ title: Welcome to HMLab Pages
 breadcrumb: Home
 ---
 
-<img src="/img/hmlab-photo-2018.jpg" />
+<img src="/img/hmlab-photo-2019.jpg" />
+
+
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry and Biochemistry at Fresno State. We aim to discover and develop new reactions for more efficient and environmentally sustainable synthesis of agrochemicals, medicines, and materials.</p>
 
-<p class="lead">We have openings for motivated undergraduate and post-baccalaureate student researchers in my laboratory. <a href="/research/opportunities/">Learn more…</a></p>
+<p class="lead">We have openings for motivated undergraduate and post-baccalaureate student researchers in our laboratory. <a href="/research/opportunities/">Learn more…</a></p>
 
 ## Recent News
+
+**2019-09-01**: New semester, new members. Welcome Monty, Hamza, Lizzie, and Angel to the group!
 
 **2019-05-17**: Congratulations to Class of 2019 - Melissa Sanchez, Jamie Waite, Armando DeAlba, and Paul Cavanaugh. Good luck to Melissa and Paul in their doctoral studies at UC Santa Barbara (Melissa) and UC Merced (Paul)
 

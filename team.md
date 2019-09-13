@@ -25,9 +25,12 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019 he began his Master degree studies at Fresno State.
 
+<!-- ### Jeremy W. Pisor
+
+Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on gold(I)-catalyzed cyclizations. In January 2020 he joined the M.S. program at Fresno State.  -->
+
 ## Undergraduate Students
 
-* Parveen Kaur (BS Biochemistry)
 * Dana Lichtenstein (BS Biology)
 * Bagieng Keophimphone (BS Biochemistry)
 * Alison Phasakda (BA Chemistry)
@@ -40,7 +43,7 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 * Alicia Paulsen (BS Biology)
 * Montaser Ahmad  (BS Biochemistry)
 * Hamza Haq (BS Biology)
-<!-- * Lizzie Herren (BS Chemistry) -->
+* Lizzie Herren (BS Chemistry)
 
 ## Alumni
 
@@ -50,6 +53,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
+<!-- * Parveen Kaur (BS Biochemistry) -->
 * Jamie Waite (BS Biochemistry 2019)
 * Armando DeAlba (BS Biology, BA Chemistry 2019; MS Biotechnology program)
 * Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, UCSB Ph.D.)

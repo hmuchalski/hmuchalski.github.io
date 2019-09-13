@@ -4,9 +4,7 @@ title: Welcome to HMLab Pages
 breadcrumb: Home
 ---
 
-<img src="/img/hmlab-photo-2019.jpg" />
-
-
+<img src="/img/hmlab-photo-2019.JPG" />
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry and Biochemistry at Fresno State. We aim to discover and develop new reactions for more efficient and environmentally sustainable synthesis of agrochemicals, medicines, and materials.</p>
 

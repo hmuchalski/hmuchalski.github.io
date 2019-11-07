@@ -53,7 +53,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
-<!-- * Parveen Kaur (BS Biochemistry) -->
+* Parveen Kaur (BS Biochemistry)
 * Jamie Waite (BS Biochemistry 2019)
 * Armando DeAlba (BS Biology, BA Chemistry 2019; MS Biotechnology program)
 * Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, UCSB Ph.D.)

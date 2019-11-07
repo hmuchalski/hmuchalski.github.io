@@ -3,14 +3,16 @@ layout: homepage
 title: Welcome to HMLab Pages
 breadcrumb: Home
 ---
-
+<!-- Be careful. Image extension is case sensitive. -->
 <img src="/img/hmlab-photo-2019.JPG" />
 
-<p class="lead">We are organic chemistry research group in the Department of Chemistry and Biochemistry at Fresno State. We aim to discover and develop new reactions for more efficient and environmentally sustainable synthesis of agrochemicals, medicines, and materials.</p>
+<p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
 
 <p class="lead">We have openings for motivated undergraduate and post-baccalaureate student researchers in our laboratory. <a href="/research/opportunities/">Learn more…</a></p>
 
 ## Recent News
+
+**2019-11-01**: Dana Lichtenstein was selected as Michigan GSSPC travel grant recipient for travel to the ACS Meeting in Philadelphia. Angel Rojas was selected as 2019 RISE Fellow. Congratulations! 
 
 **2019-09-01**: New semester, new members. Welcome Monty, Hamza, Lizzie, and Angel to the group!
 

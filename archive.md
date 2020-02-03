@@ -7,6 +7,17 @@ permalink: /archive/
 
 <!-- # 2019 -->
 
+# 2019
+
+**2019-04-01**: Melissa and Chris presented their work at the National Meeting of the American Chemical Society in Orlando.
+
+**2019-02-15**: Our recent publication was voted as Outstanding Faculty Publication and will be displayed at the library. Congratulations to all co-authors!
+
+**2019-02-14**: Christopher received a Graduate Travel Award to attend the ACS National Meeting in Orlando, FL. Congratulations!
+
+**2019-01-15**: Melissa Sanchez was awarded a ACS Organic Division travel grant in the amount of $600.00 to attend the ACS meeting in Orlando, FL.
+
+
 # 2018
 
 **2018-12-14**: Poster presentation on our collaborative project with Dr. Eric Person about treatment of laboratory waste received _Best Poster Award_ at the STEM CURE Symposium. Congratulations to Paul, Jeremy, Chris, and Melissa!

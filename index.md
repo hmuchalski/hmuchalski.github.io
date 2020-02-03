@@ -12,7 +12,15 @@ breadcrumb: Home
 
 ## Recent News
 
-**2019-11-01**: Dana Lichtenstein was selected as Michigan GSSPC travel grant recipient for travel to the ACS Meeting in Philadelphia. Angel Rojas was selected as 2019 RISE Fellow. Congratulations! 
+**2020-02-01**: Quang will soon begin working for the California Department of Toxic Substances Control as environmental scientist. Way to go, Quang!
+
+**2020-01-18**: Dana and Chris generated lively discussions while presenting their poster (new sleek design) at the 32nd Annual CSUPERB Symposium in Santa Clara, CA.
+
+**2020-01-10**: Karina, Chris, and Simrit received Faculty Sponsored Student Research Awards (FSSRA) to support their research projects. Also, Chris and Dana secured funding from the university (IRA) to present their work at the upcoming Spring meeting of the American Chemical Society in Philadelphia.
+
+**2020-01-01**: Alycia was accepted to the Forensic Chemistry program at Rutgers University in New Jersey. Best of luck on the new endeavors.
+
+**2019-11-01**: Dana Lichtenstein was selected as Michigan GSSPC travel grant recipient for travel to the ACS Meeting in Philadelphia. Angel Rojas was selected as 2019 RISE Fellow. Congratulations!
 
 **2019-09-01**: New semester, new members. Welcome Monty, Hamza, Lizzie, and Angel to the group!
 

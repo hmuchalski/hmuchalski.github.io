@@ -33,8 +33,8 @@ Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fre
 
 * Dana Lichtenstein (BS Biology)
 * Bagieng Keophimphone (BS Biochemistry)
-* Alison Phasakda (BA Chemistry)
-* Daisy Avalos (BA Chemistry)
+<!-- * Alison Phasakda (BA Chemistry) -->
+<!-- * Daisy Avalos (BA Chemistry) -->
 * Alexander L. Ewing (BS Biochemistry)
 * Karina N. Bustos (BS Chemistry)
 * Simrit Dhindsa (BS Biochemistry)

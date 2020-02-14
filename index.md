@@ -31,13 +31,4 @@ San Joaquin Valley Local Section of American Chemical Society.
 
 **2019-04-23**: Melissa is heading to UC Santa Barbara Ph.D. program. Congratulations!
 
-**2019-04-01**: Melissa and Chris presented their work at the National Meeting of the American Chemical Society in Orlando.
-
-**2019-02-15**: Our recent publication was voted as Outstanding Faculty Publication and will be displayed at the library. Congratulations to all co-authors!
-
-**2019-02-14**: Christopher received a Graduate Travel Award to attend the ACS National Meeting in Orlando, FL. Congratulations!
-
-**2019-01-15**: Melissa Sanchez was awarded a ACS Organic Division travel grant in the amount of $600.00 to attend the ACS meeting in Orlando, FL.
-
-
 [News archive](/archive)

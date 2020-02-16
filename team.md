@@ -32,19 +32,19 @@ Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fre
 ## Undergraduate Students
 
 * Dana Lichtenstein (BS Biology)
-* Alexander L. Ewing (BS Biochemistry)
 * Karina N. Bustos (BS Chemistry)
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
+* Alexander L. Ewing (BS Biochemistry)
+* Lizzie Herren (BS Chemistry)
 * Montaser Ahmad  (BS Biochemistry)
 * Hamza Haq (BS Biology)
-* Lizzie Herren (BS Chemistry)
 
 ## Alumni
 
 ### Quang Le, M.S.
 
-Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. 
+Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants.
 
 ### Undergraduate Alumni
 

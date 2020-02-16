@@ -17,8 +17,8 @@ paginate:       3
 
 # Setup
 title:          HMLab
-version:        '2020-02-03'
-tagline:        'Fresno State University'
+version:        '2020-02-16'
+tagline:        'California State University, Fresno'
 description:    'Organic Chemistry Research at Fresno State'
 url:            https://
 baseurl:        ""

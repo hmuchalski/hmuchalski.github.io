@@ -7,7 +7,7 @@ permalink: /archive/
 
 <!-- # 2019 -->
 
-# 2019
+## 2019
 
 **2019-11-01**: Dana Lichtenstein was selected as Michigan GSSPC travel grant recipient for travel to the ACS Meeting in Philadelphia. Angel Rojas was selected as 2019 RISE Fellow. Congratulations!
 
@@ -29,7 +29,7 @@ San Joaquin Valley Local Section of American Chemical Society.
 **2019-01-15**: Melissa Sanchez was awarded a ACS Organic Division travel grant in the amount of $600.00 to attend the ACS meeting in Orlando, FL.
 
 
-# 2018
+## 2018
 
 **2018-12-14**: Poster presentation on our collaborative project with Dr. Eric Person about treatment of laboratory waste received _Best Poster Award_ at the STEM CURE Symposium. Congratulations to Paul, Jeremy, Chris, and Melissa!
 

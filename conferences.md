@@ -39,3 +39,6 @@ breadcrumb: Presentations
 21. Croce, Teresa A.; Muchalski, Hubert; Adkins, Chinessa T.; Huang, Kui; Hamilton, Sharon K.; van der Ende, Alice; Harth, Eva *Approaches in the development of 3-D nanoscopic, multimodal vectors*, Abstracts of Papers, 231st ACS National Meeting, Atlanta, GA, United States, March 26-30, 2006, PMSE-171
 22. Croce, Teresa A.; Muchalski, Hubert; Adkins, Chinessa T.; Huang, Kui; Hamilton, Sharon K.; van der Ende, Alice; Harth, Eva *Approaches in the development of 3-D nanoscopic, multimodal vectors*, Polymer Preprints **2006**, *94*, 270
 23. Muchalski, H.; Giurg. M.; Mlochowski, J. *Fluorinated diaryl diselenides as catalysts for hydroperoxide oxidation of hydroxyarenes*, 14th International Symposium on Fluorine Chemistry, 2004
+
+[cv]: /downloads/vitae.pdf
+[mailto]: mailto:hmuchalski@csufresno.edu?subject=PDF Request

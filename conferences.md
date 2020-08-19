@@ -11,8 +11,9 @@ breadcrumb: Presentations
 
 ## Oral presentations
 
-1. Olvera, A.C.&#8224;; Ramos Flores, J.&#8224;; Muchalski, H. *Towards Understanding of Peroxidation of Mammalian Sterols: Microwave-Assisted Synthesis of 7-Dehydrocholesterol Isomers*, 38th Annual Central California Research Symposium, Fresno, CA, United States, April 18--19, 2017. 
-2. Muchalski, H.; Lamberson, C. R.; Levonyak, A. J.&#8224;; Xu, L.; Porter, N. A. *Does quantum mechanical tunneling make free radical peroxidation favorable?*, Abstracts of Papers, 248th ACS National Meeting, San Francisco, CA, United States, August 10-14, 2014, AEI-60
+1. Dillon, C. C. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H.; *Gold(I)-Nhc-Catalyzed Synthesis Of Benzo[B]Thiophenes From 2-Alkynylthioanisoles* 30th Annual Central California Research Symposium, Fresno, CA, United States, May 1, 2019. 
+2. Olvera, A. C.&#8224;; Ramos Flores, J.&#8224;; Muchalski, H. *Towards Understanding of Peroxidation of Mammalian Sterols: Microwave-Assisted Synthesis of 7-Dehydrocholesterol Isomers*, 38th Annual Central California Research Symposium, Fresno, CA, United States, April 18--19, 2017. 
+3. Muchalski, H.; Lamberson, C. R.; Levonyak, A. J.&#8224;; Xu, L.; Porter, N. A. *Does quantum mechanical tunneling make free radical peroxidation favorable?*, Abstracts of Papers, 248th ACS National Meeting, San Francisco, CA, United States, August 10-14, 2014, AEI-60
 
 ## Poster presentations
 

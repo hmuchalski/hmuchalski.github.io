@@ -9,6 +9,17 @@ permalink: /archive/
 
 # 2019
 
+**2019-11-01**: Dana Lichtenstein was selected as Michigan GSSPC travel grant recipient for travel to the ACS Meeting in Philadelphia. Angel Rojas was selected as 2019 RISE Fellow. Congratulations!
+
+**2019-09-01**: New semester, new members. Welcome Monty, Hamza, Lizzie, and Angel to the group!
+
+**2019-05-17**: Congratulations to Class of 2019 - Melissa Sanchez, Jamie Waite, Armando DeAlba, and Paul Cavanaugh. Good luck to Melissa and Paul in their doctoral studies at UC Santa Barbara (Melissa) and UC Merced (Paul)
+
+**2019-05-01**: We were very well represented at the 40th Annual Central California Research Symposium. Jamie, Karina, Alex, Alison, Dana, Quang, Chris, Jeremy, and Daisy showcased our recent discoveries. Jamie Waite and co-authors received the *Best Chemistry Presentation* award from the
+San Joaquin Valley Local Section of American Chemical Society.
+
+**2019-04-23**: Melissa is heading to UC Santa Barbara Ph.D. program. Congratulations!
+
 **2019-04-01**: Melissa and Chris presented their work at the National Meeting of the American Chemical Society in Orlando.
 
 **2019-02-15**: Our recent publication was voted as Outstanding Faculty Publication and will be displayed at the library. Congratulations to all co-authors!

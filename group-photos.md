@@ -8,7 +8,6 @@ breadcrumb: photobook
 <!-- ## Class of 2019 -->
 
 
-
 ## 40th Annual CCRS (2019)
 
 ![Alison presenting at CCRS 2019](/img/alison-ccrs-2019.jpg)

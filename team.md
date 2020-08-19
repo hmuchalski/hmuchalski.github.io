@@ -15,9 +15,6 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 - See [Hubert's CV][cv] for more details.
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
-<!-- - Request an appointment: [https://muchalski.page.link/book	][05195d58] -->
-
-
 
 ## Graduate Students
 
@@ -27,18 +24,19 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 
 ### Jeremy W. Pisor
 
-Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on gold(I)-catalyzed cyclizations. In January 2020 he joined the M.S. program at Fresno State.
+Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State. 
+
+### Karina Bustos
+
+Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program.
 
 ## Undergraduate Students
 
-* Dana Lichtenstein (BS Biology)
-* Karina N. Bustos (BS Chemistry)
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
 * Alexander L. Ewing (BS Biochemistry)
 * Lizzie Herren (BS Chemistry)
 * Montaser Ahmad  (BS Biochemistry)
-* Hamza Haq (BS Biology)
 
 ## Alumni
 
@@ -48,20 +46,22 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
-* Bagieng Keophimphone (BS Biochemistry)
+* Dana Lichtenstein (BS Biology, 2020, medical program)
+* Bagieng Keophimphone (BS Biochemistry, 2020, medical program)
 * Alison Phasakda (BA Chemistry)
-* Daisy Avalos (BA Chemistry)
-* Parveen Kaur (BS Biochemistry)
+* Daisy Avalos (BA Chemistry, 2020)
+* Parveen Kaur (BS Biochemistry, 2020, Pharmacy School)
 * Jamie Waite (BS Biochemistry 2019)
-* Armando DeAlba (BS Biology, BA Chemistry 2019; MS Biotechnology program)
-* Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, UCSB Ph.D.)
-* Paul Cavanaugh (BS Chemistry 2019, UC Merced Ph.D.)
+* Alicia Paulsen (BS Biology 2019, Forensic Program, Rutgers)
+* Armando DeAlba (BS Biology, BA Chemistry 2019; currently: MS Biotechnology program)
+* Melissa Sanchez (BS Chemistry 2019; Camille Dreyfus Scholar 2018, currently: UCSB Ph.D.)
+* Paul Cavanaugh (BS Chemistry 2019, currently: UC Merced Ph.D. program)
 * Janay Mommer (BS Biochemistry 2018; civil engineering firm)
 * Amanda Olvera (BA Biology, 2018; pharmacy school)
 * Aakashdeep Singh (BS Biochemistry 2018; M.S. program in Materials Science, the Ohio State University)
 * Juan Ramos Flores (BS Biochemistry 2018)
 * Austin Dean (BS Biology 2017)
-* Alicia Paulsen (BS Biology)
+
 
 ## High School Students
 
@@ -73,4 +73,3 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 [pwr]: http://pwr.edu.pl/en/
 [jnj]: http://johnstonchemistry.org/
 [cv]: /downloads/vitae.pdf
-[05195d58]: https://muchalski.page.link/book "Request an appointment"

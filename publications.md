@@ -5,9 +5,13 @@ permalink: /publications/
 breadcrumb: Publications
 ---
 
-Full list of publications and conference presentations in included in Hubert's [curriculum Vitae (PDF)][cv]. A dagger (&#8224;) indicates undergraduate co-author. DOI links may require journal subscription. Feel free to [request PDF copy][mailto] by email.
+* A dagger (&#8224;) indicates undergraduate co-author. 
+* DOI links may require journal subscription. Feel free to [request PDF copy][mailto] by email.
+* For a full list of conference presentations go to [this page](/presentations)
 
-1. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H., Synthesis of 2-substituted benzo[b]thiophenes via gold(i)–NHC-catalyzed cyclization of 2-alkynyl thioanisoles. _Org. Biomol. Chem._ **2018,** _16_, 9279-9284. doi:10.1039/C8OB02196A
+
+1. Le, Q.; Dillon, C. C.; Lichtenstein, D.A..&#8224; Pisor, J.W.; Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers. _Org. Biomol. Chem._ **2018,** _Submitted_ 
+2. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H., Synthesis of 2-substituted benzo[b]thiophenes via gold(i)–NHC-catalyzed cyclization of 2-alkynyl thioanisoles. _Org. Biomol. Chem._ **2018,** _16_, 9279-9284. doi:10.1039/C8OB02196A
 2. Muchalski, H., Site-specific synthesis and application of Deuterium-Labeled sterols. _Arkivoc_ **2017** , 507-533. doi:10.3998/ark.5550190.p009.755
 3. Lamberson, C. R.; Muchalski, H.; McDuffee, K. B.&#8224;; Tallman, K. A.; Xu, L.; Porter, N. A., Propagation rate constants for the peroxidation of sterols on the biosynthetic pathway to cholesterol. _Chem. Phys. Lipids_ **2017,** _207, Part B_, 51-58. doi:10.1016/j.chemphyslip.2017.01.006
 4. Muchalski, H.; Xu, L.; Porter, N. A., Tunneling in tocopherol-mediated peroxidation of 7-dehydrocholesterol. _Org. Biomol. Chem._ **2015,** _13_, 1249-1253. doi:10.1039/C4OB02377C
@@ -24,10 +28,6 @@ Full list of publications and conference presentations in included in Hubert's [
 15. Giurg, M.; Kowal, E.; Muchalski, H.; Syper, L.; Mlochowski, J., Catalytic Oxidative Domino Degradation of Alkyl Phenols Towards 2-and 3-Substituted Muconolactones. _Synth. Commun._ **2008,** _39_, 251-266. doi:10.1080/00397910802369687
 16. Daniels, R. N.; Kim, K.; Lebois, E. P.; Muchalski, H.; Hughes, M.; Lindsley, C. W., Microwave-assisted protocols for the expedited synthesis of pyrazolo 1,5-a and 3,4-d pyrimidines. _Tetrahedron Lett._ **2008,** _49_, 305-310. doi:10.1016/j.tetlet.2007.11.054
 17. Croce, T. A.; Hamilton, S. K.; Chen, M. L.&#8224;; Muchalski, H.; Harth, E., Alternative o-quinodimethane cross-linking precursors for intramolecular chain collapse nanoparticles. _Macromolecules_ **2007,** _40_, 6028-6031. doi:10.1021/ma071111m
-
-
-
-
 
 [cv]: /downloads/vitae.pdf
 [mailto]: mailto:hmuchalski@csufresno.edu?subject=PDF Request

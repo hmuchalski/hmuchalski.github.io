@@ -17,7 +17,7 @@ paginate:       3
 
 # Setup
 title:          HMLab
-version:        '2020-08-19'
+version:        '2020-08-28'
 tagline:        'California State University, Fresno'
 description:    'Organic Chemistry Research at Fresno State'
 url:            https://
@@ -35,5 +35,3 @@ breadcrumbs:
 
 hubs:
   cv:           /downloads/vitae.pdf
-  bbmain:       https://bbl-app.learn.fresnostate.edu/webapps/login/?useCas
-  bb128a:       https://bbl-app.learn.fresnostate.edu/webapps/blackboard/content/launchLink.jsp?course_id=_48640_1

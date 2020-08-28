@@ -19,6 +19,8 @@ CHEM 129A is a two unit introductory laboratory course in organic chemistry. It 
 
 Students who successfully complete CHEM 129A generally enroll in CHEM 129B, which further develops students' laboratory skills. Some students then continue with CHEM 190, undergraduate research or independent study. See the [syllabus][syllabus129a] for more details about this course.
 
+{{ site.time | date: "%B %d, %Y" }}
+
 <!-- ## CHEM 128B (Organic chemistry 2) -->
 
 

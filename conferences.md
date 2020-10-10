@@ -17,7 +17,6 @@ breadcrumb: Presentations
 
 ## Poster presentations
 
-2. Lichtenstein, D.A.&#8224;; Dillon, C.C.; Le, Q.; Muchalski, H. *Gold(I)--NHC-catalyzed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers*, Abstracts of Papers, 257th ACS National Meeting & Exposition, Philadelphia, PA (Accepted)
 1. Lichtenstein, D.A.&#8224;; Dillon, C.C.; Le, Q.; Muchalski, H. *Gold(I)--NHC-catalyzed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers*, Abstracts of Papers, 257th ACS National Meeting & Exposition, Philadelphia, PA (Accepted)
 2. Lichtenstein, D.A.&#8224;; Dillon, C.C.; Le, Q.; Muchalski, H. *Gold(I)--NHC-catalyzed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers*, 33rd CSU Annual Biotechnology Symposium, Santa Clara, CA, United States, January 16--18, 2020.
 3. Phasakda, A.&#8224;; Muchalski, H. *Studies of directed gold(I)-catalyzed hydrocarboxylation of usymmetrical alkynes* 40th Annual Central California Research Symposium, Fresno, CA, United States, May 1, 2019.

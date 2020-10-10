@@ -12,6 +12,8 @@ breadcrumb: Home
 
 ## Recent News
 
+**2020-09-17** Hot off the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)
+
 **2020-07-24** Our recent work on gold-catalyzed synthesis of benzofurans was submitted for publication in _Organic & Biomolecular Chemistry_
 
 **2020-05-17** Congratulations to Bagieng for being selected as President's Medalist!

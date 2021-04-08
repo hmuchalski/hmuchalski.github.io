@@ -28,12 +28,12 @@ Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 202
 
 ## Undergraduate Students
 
-* Madison Williams (BS Chemistry)
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
 * Alexander L. Ewing (BS Biochemistry)
 * Lizzie Herren (BS Chemistry)
 * Montaser Ahmad  (BS Biochemistry)
+* Madison Williams (BS Chemistry)
 
 ## Alumni
 

@@ -18,20 +18,17 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 ## Graduate Students
 
-### Christopher C. Dillon
-
-Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019 he began his Master degree studies at Fresno State.
-
 ### Jeremy W. Pisor
 
-Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State. 
+Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. 
 
 ### Karina Bustos
 
-Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program.
+Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina is in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. 
 
 ## Undergraduate Students
 
+* Madison Williams (BS Chemistry)
 * Simrit Dhindsa (BS Biochemistry)
 * Angel Rojas (BS Biochemistry)
 * Alexander L. Ewing (BS Biochemistry)
@@ -40,12 +37,19 @@ Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 202
 
 ## Alumni
 
+### Christopher C. Dillon, M.S.
+
+Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans.
+
 ### Quang Le, M.S.
 
 Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants.
 
 ### Undergraduate Alumni
 
+<!-- * Simrit Dhindsa (BS Biochemistry)
+* Angel Rojas (BS Biochemistry)
+* Alexander L. Ewing (BS Biochemistry) -->
 * Dana Lichtenstein (BS Biology, 2020, medical program)
 * Bagieng Keophimphone (BS Biochemistry, 2020, medical program)
 * Alison Phasakda (BA Chemistry)

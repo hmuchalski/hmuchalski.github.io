@@ -12,7 +12,7 @@ breadcrumb: Home
 
 ## Recent News
 
-<!-- **2021-03-31** Good luck to group alumni Dana Lichtenstein and Bagieng Keophimphone on their new journey with the UCSF SJV Medical Program.  -->
+<!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
 **2021-06-01** Karina Bustos begins her 10-week visit at UC Davis working in the lab of [Prof. Annaliese Franz](https://franz.faculty.ucdavis.edu/)
 

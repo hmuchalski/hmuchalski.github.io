@@ -14,6 +14,10 @@ breadcrumb: Home
 
 <!-- **2021-03-31** Good luck to group alumni Dana Lichtenstein and Bagieng Keophimphone on their new journey with the UCSF SJV Medical Program.  -->
 
+**2021-06-01** Karina Bustos begins her 10-week visit at UC Davis working in the lab of [Prof. Annaliese Franz](https://franz.faculty.ucdavis.edu/)
+
+**2021-05-15** Congratulation to class off 2021: Alex, Simrit, and Angel.
+
 **2021-03-26** Chrisopher Dillon successfully defended his M.S. degree thesis. Congratulations Chris!
 
 **2020-09-17** Hot off the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)

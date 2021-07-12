@@ -28,9 +28,6 @@ Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 202
 
 ## Undergraduate Students
 
-* Simrit Dhindsa (BS Biochemistry)
-* Angel Rojas (BS Biochemistry)
-* Alexander L. Ewing (BS Biochemistry)
 * Lizzie Herren (BS Chemistry)
 * Montaser Ahmad  (BS Biochemistry)
 * Madison Williams (BS Chemistry)
@@ -47,11 +44,11 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ### Undergraduate Alumni
 
-<!-- * Simrit Dhindsa (BS Biochemistry)
-* Angel Rojas (BS Biochemistry)
-* Alexander L. Ewing (BS Biochemistry) -->
+* Simrit Dhindsa (BS Biochemistry 2021 => UCLA School of Dentistry)
+* Angel Rojas (BS Biochemistry 2021)
+* Alexander L. Ewing (BS Biochemistry 2021 => Ph.D. Baylor College of Medicine)
 * Dana Lichtenstein (BS Biology, 2020, medical program)
-* Bagieng Keophimphone (BS Biochemistry, 2020, medical program)
+* Bagieng Keophimphone (BS Biochemistry, 2020 => UCSF medical program)
 * Alison Phasakda (BA Chemistry)
 * Daisy Avalos (BA Chemistry, 2020)
 * Parveen Kaur (BS Biochemistry, 2020, Pharmacy School)

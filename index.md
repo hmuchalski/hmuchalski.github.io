@@ -14,6 +14,8 @@ breadcrumb: Home
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2021-08-16** The University Committees and Leadership concluded a 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him.  
+
 **2021-06-01** Karina Bustos begins her 10-week visit at UC Davis working in the lab of [Prof. Annaliese Franz](https://franz.faculty.ucdavis.edu/)
 
 **2021-05-15** Congratulation to class off 2021: Alex, Simrit, and Angel.

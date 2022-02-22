@@ -26,11 +26,18 @@ Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fre
 
 Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina is in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. 
 
+### Michael Stevens
+
+Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. Michael is a recipient of the Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation.
+
 ## Undergraduate Students
 
-<!-- * Lizzie Herren (BS Chemistry) -->
+* Lizzie Herren (BS Chemistry)
 * Montaser Ahmad  (BS Biochemistry)
 * Madison Williams (BS Chemistry)
+* Kirubel Mamo (BS Biochemistry)
+* Isabella Garcia (BS Biochemistry)
+* Hailey Sharton (BS Biology)
 
 ## Alumni
 

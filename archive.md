@@ -7,6 +7,20 @@ permalink: /archive/
 
 ## 2020
 
+**2020-08-01** Karina Bustos will begin M.S. degree work in our group supported by the NSF Bridges to Doctorate Program.
+
+**2020-05-17** Congratulations to Bagieng for being selected as President's Medalist!
+
+**2020-05-15** Congratulations to class off 2020: Dana, Karina, Bagieng, Parveen, Daisy!
+
+**2020-04-30** Dana, Chris, and Quang presented their poster at the Virtual ACS Meeting. Go see for yourself: 
+
+* [Gold(I)–NHC-catalyzed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers](https://www.morressier.com/article/goldinhccatalyzed-synthesis-benzofurans-via-migratory-cyclization-2alkynylaryl-benzyl-ethers/5e73d6ce139645f83c22a1a5)
+
+**2020-03-02** Karina is a receipient of 2020 Travel Award from the San Joaquin Valley Section of ACS
+
+**2020-02-01**: Quang will soon begin working for the California Department of Toxic Substances Control as environmental scientist. Way to go, Quang!
+
 **2020-03-02** Karina is a receipient of 2020 Travel Award from the San Joaquin Valley Section of ACS
 
 **2020-02-01**: Quang will soon begin working for the California Department of Toxic Substances Control as environmental scientist. Way to go, Quang!

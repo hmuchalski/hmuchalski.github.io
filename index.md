@@ -4,7 +4,9 @@ title: Welcome to HMLab Pages
 breadcrumb: Home
 ---
 <!-- Be careful. Image extension is case sensitive. -->
-<img src="/img/hmlab-photo-2022.jpeg" />
+<figure>
+<img src="/img/hmlab-photo-2022.jpeg" alt="group photo" />
+<figcaption>Group photo (AY21-22 Spring). From left: Dr. M., Kirubel Mamo, Karina Bustos, Michael Stevens, Jeremy Pisor, Monty Ahmad, Isabella Garcia, Madison Williams, Lizzie Herren, Hailey Sharton.</figcaption>
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
 
@@ -13,6 +15,8 @@ breadcrumb: Home
 ## Recent News
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
+
+**2022-03-09** After long deliberations the group agreed on the location of 2022 edition of group photo. 
 
 **2022-01-15** After long period of drought in recruiting, we're welcoming new student researchers: Isabella, Kirubel, Hailey, and Michael.
 

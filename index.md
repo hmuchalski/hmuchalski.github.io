@@ -16,9 +16,9 @@ figcaption {
   background-color: black;
   color: white;
   font-style: italic;
-  padding: 2px;
+  padding: 3px;
   text-align: center;
-  font-size: 5pt;
+  font-size: 10pt;
 }
 </style>
 

@@ -24,7 +24,7 @@ figcaption {
 
 <figure>
 <img src="/img/hmlab-photo-2022.jpeg" alt="group photo" />
-<figcaption>Group photo (AY21-22 Spring). From left: Dr. M., Kirubel Mamo, Karina Bustos, Michael Stevens, Jeremy Pisor, Monty Ahmad, Isabella Garcia, Madison Williams, Lizzie Herren, Hailey Sharton.</figcaption>
+<figcaption>Group photo (AY21-22 Spring). From left: Dr. M., Kirubel Mamo, Karina Bustos, Michael Stevens, Jeremy Pisor, Monty Ahmad, Isabella Garcia, Madison Williams, Lizzie Herren, Hailey Scharton.</figcaption>
 </figure>
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>

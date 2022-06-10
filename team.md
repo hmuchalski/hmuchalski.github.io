@@ -22,40 +22,41 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. 
 
-### Karina Bustos
-
-Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina is in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. 
-
 ### Michael Stevens
 
 Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. Michael is a recipient of the Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation.
 
 ## Undergraduate Students
 
-* Lizzie Herren (BS Chemistry)
-* Montaser Ahmad  (BS Biochemistry)
-* Madison Williams (BS Chemistry)
 * Kirubel Mamo (BS Biochemistry)
 * Isabella Garcia (BS Biochemistry)
 * Hailey Sharton (BS Biology)
+* Jorge Aguilar (BS Chemistry)
 
 ## Alumni
 
-### Christopher C. Dillon, M.S.
-
-Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans.
-
 ### Quang Le, M.S.
 
-Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants.
+Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. After successful defense of his thesis, Quang joined the chemistry branch of the local government. 
+
+### Christopher C. Dillon, M.S.
+
+Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans. After successful defense of his theses, Chris joined the lab at USDA (Parlier). 
+
+### Karina Bustos
+
+Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina was in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. After successful defense of her thesis, Karina plans to join the private sector of chemistry workforce, preferably in cosmetics chemistry.
 
 ### Undergraduate Alumni
 
-* Simrit Dhindsa (BS Biochemistry 2021 => UCLA School of Dentistry)
+* Lizzie Herren (BS Chemistry)
+* Montaser Ahmad  (BS Biochemistry --> University of Georgia medical school)
+* Madison Williams (BS Chemistry --> Ph.D.; University of Toledo)
+* Simrit Dhindsa (BS Biochemistry 2021 --> UCLA School of Dentistry)
 * Angel Rojas (BS Biochemistry 2021)
-* Alexander L. Ewing (BS Biochemistry 2021 => Ph.D. Baylor College of Medicine)
+* Alexander L. Ewing (BS Biochemistry 2021 --> Ph.D. Baylor College of Medicine)
 * Dana Lichtenstein (BS Biology, 2020, medical program)
-* Bagieng Keophimphone (BS Biochemistry, 2020 => UCSF medical program)
+* Bagieng Keophimphone (BS Biochemistry, 2020 --> UCSF medical program)
 * Alison Phasakda (BA Chemistry)
 * Daisy Avalos (BA Chemistry, 2020)
 * Parveen Kaur (BS Biochemistry, 2020, Pharmacy School)
@@ -70,9 +71,9 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Juan Ramos Flores (BS Biochemistry 2018)
 * Austin Dean (BS Biology 2017)
 
-
 ## High School Students
 
+* Jasmine Ortigoza (ACS SEED 2022, Bullard High School)
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)
 

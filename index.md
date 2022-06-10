@@ -35,6 +35,12 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2022-06-01** Welcome to new students in the lab: Jorge and Jasmine (ACS SEED). 
+
+**2022-05-20** Congratulations to Class off 2022: Madison, Lizzie, and Monty!
+
+**2022-04-01** Karina Bustos successfully defended her M.S. thesis. Congratulations to Karina! 
+
 **2022-03-09** After long deliberations the group agreed on the location of 2022 edition of group photo. 
 
 **2022-01-15** After long period of drought in recruiting, we're welcoming new student researchers: Isabella, Kirubel, Hailey, and Michael.

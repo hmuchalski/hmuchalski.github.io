@@ -7,7 +7,10 @@ breadcrumb: Publications
 
 * A dagger (&#8224;) indicates undergraduate co-author; a double dagger (&#8225;) indicates graduate (MS degree candidate) co-author.
 * DOI links may require journal subscription. Feel free to request PDF copy by email.
-* For a full list of conference presentations go to [this page](/presentations).
+* [Click this link](/presentations) for a full list of conference presentations.
+
+---
+
 
 1. Pisor, J. W.&#8225;; Garcia, I. C.&#8224;; Mamo, K.†; Muchalski, H. Synthesis of benzofurans from THP acetals of 2-alkynylphenols catalyzed by gold(I)-NHC complexes _In Preparation_
 2. Le, Q.; Dillon, C. C.; Lichtenstein, D.A..&#8224; Pisor, J.W.; Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers. _Org. Biomol. Chem._ **2018,** _28_, 8186–8191; DOI: [10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e).

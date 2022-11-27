@@ -18,13 +18,13 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 ## Graduate Students
 
-### Jeremy W. Pisor
-
-Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. 
-
 ### Michael Stevens
 
 Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. Michael is a recipient of the Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation.
+
+<!-- ### Kiersten Friesen -->
+
+<!-- ### Jason Datsko -->
 
 ## Undergraduate Students
 
@@ -32,8 +32,14 @@ Michael Stevens graduated from California State University, Bakersfield in Sprin
 * Isabella Garcia (BS Biochemistry)
 * Hailey Sharton (BS Biology)
 * Jorge Aguilar (BS Chemistry)
+* Gurmannat Chalotra (BS Biochemistry)
+* Franklin Gauthier-Parker (BS Biochemistry)
 
 ## Alumni
+
+### Jeremy W. Pisor
+
+Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. 
 
 ### Quang Le, M.S.
 

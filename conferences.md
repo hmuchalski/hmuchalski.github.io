@@ -6,8 +6,7 @@ breadcrumb: Presentations
 ---
 
 * A dagger (&#8224;) indicates undergraduate co-author; a double dagger (&#8225;) indicates graduate (MS degree candidate) co-author.
-* DOI links may require journal subscription. Feel free to [request PDF copy][mailto] by email.
-* For a full list of conference presentations go to [this page](/publications)
+* [Click this link](/publications) for a full list of conference presentations
 
 ## Oral presentations
 
@@ -45,4 +44,3 @@ breadcrumb: Presentations
 26. Muchalski, H.; Giurg. M.; Mlochowski, J. *Fluorinated diaryl diselenides as catalysts for hydroperoxide oxidation of hydroxyarenes*, 14th International Symposium on Fluorine Chemistry, 2004
 
 [cv]: /downloads/vitae.pdf
-[mailto]: mailto:hmuchalski@csufresno.edu?subject=PDF Request

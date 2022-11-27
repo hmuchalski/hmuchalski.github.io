@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Welcome to HMLab Pages
+title: Welcome to HMLab Website
 breadcrumb: Home
 ---
 <!-- Be careful. Image extension is case sensitive. -->
@@ -35,24 +35,28 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2022-11-10** Kirubel Mamo wins an award for his presentation at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in Anaheim, CA. Way to go, Kirubel! 
+
+**2022-11-01** Isabella Garcia 2022 Fellow of Research Training Initiative for Scientific Enhancement ([RISE](https://csm.fresnostate.edu/rise/index.html))Program. Congratulations!
+
+**2022-10-31** Warm welcome to new graduate students: Kiersten Friesen, Jason Datsko, Gurmannat Chalotra, and Franklin Gauthier-Parker. 
+
+**2022-10-27** Kirubel Mamo makes his way to Puerto Rico to present our work on gold(I)-catalyzed synthesis of benzofurans at the meeting of Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS). 
+
+**2022-10-21** Jeremy Pisor presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graudate faculty committee. Congratulations to Jeremy!
+
+**2022-08-02** Jasmine presents the results of ACS Project SEED research. 
+
 **2022-06-01** Welcome to new students in the lab: Jorge and Jasmine (ACS SEED). 
 
 **2022-05-20** Congratulations to Class off 2022: Madison, Lizzie, and Monty!
 
-**2022-04-01** Karina Bustos successfully defended her M.S. thesis. Congratulations to Karina! 
+**2022-04-01** Karina Bustos successfully defended her MS thesis. Congratulations to Karina! 
 
 **2022-03-09** After long deliberations the group agreed on the location of 2022 edition of group photo. 
 
 **2022-01-15** After long period of drought in recruiting, we're welcoming new student researchers: Isabella, Kirubel, Hailey, and Michael.
 
-**2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him.  
-
-**2021-06-01** Karina Bustos begins her 10-week visit at UC Davis working in the lab of [Prof. Annaliese Franz](https://franz.faculty.ucdavis.edu/)
-
-**2021-05-15** Congratulation to class off 2021: Alex, Simrit, and Angel.
-
-**2021-03-26** Chrisopher Dillon successfully defended his M.S. degree thesis. Congratulations Chris!
-
-**2020-09-17** Hot off the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)
+**2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him to the rank of Associate Professor. Committee assignment soon followed. 
 
 [News archive](/archive)

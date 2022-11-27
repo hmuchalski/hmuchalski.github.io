@@ -5,6 +5,18 @@ breadcrumb: News Archive
 permalink: /archive/
 ---
 
+## 2021
+
+**2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him to the rank of Associate Professor. Committee assignment soon followed. 
+
+**2021-06-01** Karina Bustos begins her 10-week visit at UC Davis working in the lab of [Prof. Annaliese Franz](https://franz.faculty.ucdavis.edu/)
+
+**2021-05-15** Congratulation to class off 2021: Alex, Simrit, and Angel.
+
+**2021-03-26** Chrisopher Dillon successfully defended his M.S. degree thesis. Congratulations Chris!
+
+**2020-09-17** Hot off the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)
+
 ## 2020
 
 **2020-08-01** Karina Bustos will begin M.S. degree work in our group supported by the NSF Bridges to Doctorate Program.

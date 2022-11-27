@@ -37,19 +37,19 @@ Michael Stevens graduated from California State University, Bakersfield in Sprin
 
 ## Alumni
 
-### Jeremy W. Pisor
+### Jeremy W. Pisor, MS Chemistry
 
 Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. In 2022 he presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graudate faculty committee.
 
-### Karina Bustos
+### Karina Bustos, MS Chemistry
 
 Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina was in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. After successful defense of her thesis, Karina plans to join the private sector of chemistry workforce, preferably in cosmetics chemistry.
 
-### Christopher C. Dillon, M.S.
+### Christopher C. Dillon, MS Chemistry
 
 Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans. After successful defense of his theses, Chris joined the lab at USDA (Parlier). In 2022 he took a job at the California State Government.
 
-### Quang Le, M.S.
+### Quang Le, MS Chemistry
 
 Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. After successful defense of his thesis, Quang joined the chemistry branch of the local government. 
 

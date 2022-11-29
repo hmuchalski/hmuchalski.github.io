@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HMLab Photobook
+title: HMLab Photo Album
 permalink: /team/photos/
 breadcrumb: photobook
 ---

@@ -11,7 +11,7 @@ breadcrumb: HMLab members
 
 <img src="/img/hm-circle2.png" width="120" />
 
-Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wrocław University of Technology][pwr] in 2006. During these studies, he investigated the diselenide catalyzed hydroperoxide oxidation of naphthalenes. In 2006, he began graduate studies at Vanderbilt with [prof. Jeffrey N. Johnston][jnj]. There Hubert developed a unique a-diazo imide reagent that enabled the development of the Brønsted acid catalyzed syn-glycolate Mannich reaction. He then used the Bronsted acid-promoted azide-alkene synthesis of _vic_-amino alcohols to develop a two directional synthesis approach to (+)-zwittermicin A. Hubert was a postdoctoral scholar with prof. Ned Porter until 2015 where he investigated kinetic isotope effect of lipid peroxidation. In 2015 he joined the [Chemistry Department][csm-chem] at [Fresno State][csuf] as Assistant Professor of Chemistry. In 2021 he was promoted to the rank of Associate Professor with tenure. 
+Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wrocław University of Technology][pwr] in 2006. During these studies, he investigated the diselenide catalyzed hydroperoxide oxidation of naphthalenes. In 2006, he began graduate studies at Vanderbilt with [prof. Jeffrey N. Johnston][jnj]. There Hubert developed a unique a-diazo imide reagent that enabled the development of the Brønsted acid catalyzed syn-glycolate Mannich reaction. He then used the Bronsted acid-promoted azide-alkene synthesis of _vic_-amino alcohols to develop a two directional synthesis approach to (+)-zwittermicin A. Hubert was a postdoctoral scholar with prof. Ned Porter until 2015 where he investigated kinetic isotope effect of lipid peroxidation. In 2015 he joined the [Chemistry and Biochemistry Department][csm-chem] at [Fresno State][csuf] as Assistant Professor of Chemistry. In 2021 he was promoted to the rank of Associate Professor with tenure. 
 
 - See [Hubert's CV][cv] for more details.
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
@@ -20,11 +20,15 @@ Hubert is a native of Poland where he received his B.S./M.S. in Chemistry at [Wr
 
 ### Michael Stevens
 
-Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. Michael is a recipient of the Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation.
+Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. He is currently working on a green chemistry approach to benzothiophene heterocycles. Michael is also a recipient of the Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation. 
 
-<!-- ### Kiersten Friesen -->
+### Kiersten Friesen
 
-<!-- ### Jason Datsko -->
+Kiersten Friesen graduated from Westmont College in Spring 2021 with a B.S. degree in Chemistry. Her undergraduate research focused on method development in the synthesis of iridium complexes for dendrimer coupling of nanoparticles under the supervision of Dr. Steven M. Contakes. Kiersten joined the M.S. program at Fresno State in August 2022.
+
+### Jason Datsko
+
+Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from Fresno Pacific University in Spring 2022. Under the supervision of Dr. Maria Soria, his undergraduate research focused on transformation and isolation of the d. melanogaster amyloid-like memory protein ORB2. Jason currently works in the private sector as a quality control chemist, but hopes to eventually transition to academia after a successful thesis defense.
 
 ## Undergraduate Students
 
@@ -43,15 +47,15 @@ Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fre
 
 ### Karina Bustos, MS Chemistry
 
-Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina was in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. After successful defense of her thesis, Karina plans to join the private sector of chemistry workforce, preferably in cosmetics chemistry.
+Karina graduated with a B.S. degree in Chemistry from Fresno State in Spring 2020. Her undergraduate research focused on synthesis of fluorine-labeled standards for our top secret NMR experiments. We could not afford losing Karina with her vast knowledge and expertise and promptly recruited her to the graduate program. Karina was in the 2020 cohort of the Bridges to Doctorate Program in partnership with UC Davis. Karina successfully defended her thesis in Spring 2022 and is currently working for Agro Plantae.
 
 ### Christopher C. Dillon, MS Chemistry
 
-Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans. After successful defense of his theses, Chris joined the lab at USDA (Parlier). In 2022 he took a job at the California State Government.
+Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His undergraduate research (in HMLab) focused on development of gold(I)-catalyzed synthesis of benzo[b]thiophenes. In 2019--2021 he conducted his thesis research in our lab focusing on gold(I)-catalyzed synthesis of benzofurans. After successful defense of his theses, Chris joined the lab at USDA (Parlier). In 2022 he took a job as Environmental Scientist with California Department of Food and Agriculture.
 
 ### Quang Le, MS Chemistry
 
-Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. After successful defense of his thesis, Quang joined the chemistry branch of the local government. 
+Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. After successful defense of his thesis, Quang joined the science arm of the local government working as Senior Environmental Scientist for the Department of Toxic Substances Control.
 
 ### Undergraduate Alumni
 

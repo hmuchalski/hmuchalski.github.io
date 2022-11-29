@@ -43,7 +43,7 @@ Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from F
 
 ### Jeremy W. Pisor, MS Chemistry
 
-Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State and continues to investigate reactions catalyzed by gold complexes. In 2022 he presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graudate faculty committee.
+Jeremy is our homegrown talent. He graduated with B.S. Chemistry degree from Fresno State in Fall 2019. His undergraduate research focused on reactions catalyzed by organometallic complexes. In January 2020 he joined the M.S. program at Fresno State. His thesis research focused on gold-catalyzed synthesis of benzofurans and application of quantitative NMR in methodology development. In 2022 he presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graudate faculty committee.
 
 ### Karina Bustos, MS Chemistry
 

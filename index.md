@@ -39,7 +39,7 @@ figcaption {
 
 **2022-11-01** Isabella Garcia 2022 Fellow of Research Training Initiative for Scientific Enhancement ([RISE](https://csm.fresnostate.edu/rise/index.html))Program. Congratulations!
 
-**2022-10-31** Warm welcome to new graduate students: Kiersten Friesen, Jason Datsko, Gurmannat Chalotra, and Franklin Gauthier-Parker. 
+**2022-10-31** Warm welcome to new graduate students, Kiersten Friesen and Jason Datsko, and undergraduate students Gurmannat Chalotra and Franklin Gauthier-Parker. 
 
 **2022-10-27** Kirubel Mamo makes his way to Puerto Rico to present our work on gold(I)-catalyzed synthesis of benzofurans at the meeting of Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS). 
 

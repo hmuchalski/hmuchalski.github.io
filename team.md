@@ -78,9 +78,3 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Jasmine Ortigoza (ACS SEED 2022, Bullard High School)
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)
-
-[csm-chem]: http://www.fresnostate.edu/csm/chemistry
-[csuf]: http://www.fresnostate.edu
-[pwr]: http://pwr.edu.pl/en/
-[jnj]: http://johnstonchemistry.org/
-[cv]: /downloads/vitae.pdf

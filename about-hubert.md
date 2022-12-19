@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dr. Hubert Muchalski
-permalink: /hubert/
-breadcrumb: Dr. Muchalski
+permalink: team/dr-muchalski/
+breadcrumb: "Dr. Muchalski"
 ---
 
 <img src="/img/hm-circle2.png" width="120" />
@@ -11,3 +11,10 @@ Dr. Hubert Muchalski is a native of Poland where he received his B.S./M.S. in Ch
 
 - See [Hubert's CV][cv] for more details.
 - Email: hmuchalski[at]mail[dot]fresnostate[dot]edu
+
+[opportunities]: /research/opportunities/
+[csm-chem]: http://www.fresnostate.edu/csm/chemistry
+[csuf]: http://www.fresnostate.edu
+[pwr]: http://pwr.edu.pl/en/
+[jnj]: http://johnstonchemistry.org/
+[cv]: /downloads/vitae.pdf

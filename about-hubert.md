@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Hubert Muchalski
 permalink: team/dr-muchalski/
-breadcrumb: "Dr. Muchalski"
+breadcrumb: Dr. Muchalski
 ---
 
 <img src="/img/hm-circle2.png" width="120" />

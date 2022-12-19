@@ -5,7 +5,7 @@ permalink: /research/
 breadcrumb: Research
 ---
 
-> Students interested in joining the lab should [go to this page][opportunities].
+> Students interested in joining the lab should [visit this page][opportunities].
 
 Our research aims to develop new organic reactions and synthetic strategies for preparation of small organic molecules. The molecules we make are used as agrochemicals as well as probes that help us answer questions in molecular biology.
 

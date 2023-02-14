@@ -35,6 +35,8 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2023-01-14** Isabella, Kirubel, and Michael successfully navigated the CSUPERB Symposium and presented their work in the infamous tent. However, 49ers fans were not interested. 
+
 **2022-11-10** Kirubel Mamo wins an award for his presentation at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in Anaheim, CA. Way to go, Kirubel! 
 
 **2022-11-01** Isabella Garcia 2022 Fellow of Research Training Initiative for Scientific Enhancement ([RISE](https://csm.fresnostate.edu/rise/index.html))Program. Congratulations!

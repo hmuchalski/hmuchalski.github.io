@@ -29,6 +29,7 @@ Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from F
 * Jorge Aguilar (BS Chemistry)
 * Gurmannat Chalotra (BS Biochemistry)
 * Franklin Gauthier-Parker (BS Biochemistry)
+* Ani Abajian (BS Biochemistry)
 * Karen Medina (BS Biology)
 
 ## Alumni

@@ -5,7 +5,17 @@ breadcrumb: News Archive
 permalink: /archive/
 ---
 
+## 2022
+
+**2022-04-01** Karina Bustos successfully defended her MS thesis. Congratulations to Karina! 
+
+**2022-03-09** After long deliberations the group agreed on the location of 2022 edition of group photo. 
+
+**2022-01-15** After long period of drought in recruiting, we're welcoming new student researchers: Isabella, Kirubel, Hailey, and Michael.
+
 ## 2021
+
+**2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him to the rank of Associate Professor. Committee assignment soon followed. 
 
 **2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him to the rank of Associate Professor. Committee assignment soon followed. 
 

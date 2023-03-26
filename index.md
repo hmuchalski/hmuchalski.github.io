@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Welcome to HMLab Website
+title: Welcome to Muchalski Research Lab Website | HMLab Pages
 breadcrumb: Home
 ---
 <!-- Be careful. Image extension is case sensitive. -->
@@ -23,8 +23,8 @@ figcaption {
 </style>
 
 <figure>
-<img src="/img/hmlab-photo-2022.jpeg" alt="group photo" />
-<figcaption>Group photo (AY21-22 Spring). From left: Dr. M., Kirubel Mamo, Karina Bustos, Michael Stevens, Jeremy Pisor, Monty Ahmad, Isabella Garcia, Madison Williams, Lizzie Herren, Hailey Scharton.</figcaption>
+<img src="/img/hmlab-photo-2023.jpeg" alt="group photo" />
+<figcaption>Group photo (AY22-23 Spring; left to right): Hailey Scharton, Ani Abajian, Franklin Gauthier-Parker, Kirubel Mamo, Michael Stevens, Jeremy Pisor, Jorge Aguilar, Gurmannat Chalotra, Isabella Garcia, Hubert Muchalski, Karen Medina, Celine Irasusta.</figcaption>
 </figure>
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
@@ -35,7 +35,13 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
-**2023-01-14** Isabella, Kirubel, and Michael successfully navigated the CSUPERB Symposium and presented their work in the infamous tent. However, 49ers fans were not interested. 
+**2023-03-26** Work by Jeremy, Kirubel, and Isabella was presented (two times---regular session and Sci-Mix) at the Spring National Meeting of the American Chemical Society in Indianapolis, IN. 
+
+**2023-03-13** Karen Medina has been selected by the Executive Committee of the Division of Organic Chemistry to receive an ACS Division of Organic Chemistry Summer Undergraduate Research Fellowship (SURF). 
+
+**2023-03-12** Jeremy and Chris help out at the Fresno County Science Fair
+
+**2023-01-14** Isabella, Kirubel, and Michael successfully navigated the CSUPERB Symposium and presented their work in the infamous tent. However, the 49ers fans, who stayed at the same hotel, were not interested. 
 
 **2022-11-10** Kirubel Mamo wins an award for his presentation at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in Anaheim, CA. Way to go, Kirubel! 
 
@@ -52,13 +58,5 @@ figcaption {
 **2022-06-01** Welcome to new students in the lab: Jorge and Jasmine (ACS SEED). 
 
 **2022-05-20** Congratulations to Class off 2022: Madison, Lizzie, and Monty!
-
-**2022-04-01** Karina Bustos successfully defended her MS thesis. Congratulations to Karina! 
-
-**2022-03-09** After long deliberations the group agreed on the location of 2022 edition of group photo. 
-
-**2022-01-15** After long period of drought in recruiting, we're welcoming new student researchers: Isabella, Kirubel, Hailey, and Michael.
-
-**2021-08-16** The University Committees and Leadership completed their 6-year long investigation and concluded that it is worth keeping Dr. Muchalski around and promote him to the rank of Associate Professor. Committee assignment soon followed. 
 
 [News archive](/archive)

@@ -34,4 +34,4 @@ Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from F
 
 ## Alumni
 
-Click here to view [group alumni](alumni)
+Click here to view [group alumni](/team/alumni)

@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Welcome to Muchalski Research Lab Website | HMLab Pages
+title: Muchalski Research Group at Fresno State
 breadcrumb: Home
 ---
 <!-- Be careful. Image extension is case sensitive. -->
@@ -29,7 +29,7 @@ figcaption {
 
 <p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
 
-<p class="lead">We are always looking for motivated undergraduate and post-baccalaureate student researchers. <a href="/research/opportunities/">Learn more about research opportunities in our lab.</a></p>
+<p class="lead">We are always looking for motivated undergraduate and post-baccalaureate student researchers. <a href="/research/opportunities/">Click here</a> to learn more about research opportunities in our lab.</p>
 
 ## Recent News
 

@@ -6,7 +6,7 @@ breadcrumb: Presentations
 ---
 
 * A dagger (&#8224;) indicates undergraduate co-author; a double dagger (&#8225;) indicates graduate (MS degree candidate) co-author.
-* [Click this link](/publications) for a full list of conference presentations
+* [Click this link](/publications) for a full list of peer-reviewed publications
 
 ## Oral presentations
 

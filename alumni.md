@@ -5,7 +5,7 @@ permalink: /team/alumni
 breadcrumb: HMLab Alumni
 ---
 
-## Graduate Alumni
+## Graduate
 
 ### Jeremy W. Pisor, MS Chemistry
 
@@ -23,7 +23,7 @@ Chris graduated with a B.S. degree in chemistry from Fresno State in 2018. His u
 
 Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergraduate research with Dr. Melissa Garret focused on the syntheses of macrocyclic nickel complexes as metalloprotein models. In 2016--2018 he conducted his thesis research in out lab working on the synthesis of stable sulfenic acids as potential antioxidants. After successful defense of his thesis, Quang joined the science arm of the local government working as Senior Environmental Scientist for the Department of Toxic Substances Control.
 
-### Undergraduate Alumni
+## Undergraduate
 
 * Lizzie Herren (BS Chemistry --> Fresno State MS Program)
 * Montaser Ahmad  (BS Biochemistry --> University of Georgia medical school)
@@ -47,7 +47,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Juan Ramos Flores (BS Biochemistry 2018)
 * Austin Dean (BS Biology 2017)
 
-## High School Students
+## High School
 
 * Jasmine Ortigoza (ACS SEED 2022, Bullard High School)
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)

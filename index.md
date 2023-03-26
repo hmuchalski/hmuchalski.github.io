@@ -37,6 +37,10 @@ figcaption {
 
 **2023-03-26** Work by Jeremy, Kirubel, and Isabella was presented (two times---regular session and Sci-Mix) at the Spring National Meeting of the American Chemical Society in Indianapolis, IN. 
 
+**2023-03-21** Jeremy Pisor is the 2023 Graduate Dean's Medal Nominee from the Department. Congratulations to Jeremy!
+
+**2023-03-15** Kirubel Mamo is the 2023 Undergraduate Dean's Medal Nominee from the Department. Congratulations to Kirubel!
+
 **2023-03-13** Karen Medina has been selected by the Executive Committee of the Division of Organic Chemistry to receive an ACS Division of Organic Chemistry Summer Undergraduate Research Fellowship (SURF). 
 
 **2023-03-12** Jeremy and Chris help out at the Fresno County Science Fair

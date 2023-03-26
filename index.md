@@ -22,14 +22,14 @@ figcaption {
 }
 </style>
 
+<p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
+
+<p class="lead">We are always looking for motivated undergraduate and post-baccalaureate student researchers. <a href="/research/opportunities/">Click here</a> to learn more about research opportunities in our lab.</p>
+
 <figure>
 <img src="/img/hmlab-photo-2023.jpeg" alt="group photo" />
 <figcaption>Group photo (AY22-23 Spring; left to right): Hailey Scharton, Ani Abajian, Franklin Gauthier-Parker, Kirubel Mamo, Michael Stevens, Jeremy Pisor, Jorge Aguilar, Gurmannat Chalotra, Isabella Garcia, Hubert Muchalski, Karen Medina, Celine Irasusta.</figcaption>
 </figure>
-
-<p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
-
-<p class="lead">We are always looking for motivated undergraduate and post-baccalaureate student researchers. <a href="/research/opportunities/">Click here</a> to learn more about research opportunities in our lab.</p>
 
 ## Recent News
 

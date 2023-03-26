@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Members
+title: Group Alumni
 permalink: /team/alumni
 breadcrumb: HMLab Alumni
 ---

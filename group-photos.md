@@ -7,8 +7,8 @@ breadcrumb: photobook
 
 ## Group Photos Archive
 
-![Group Photo 2022](/img/hmlab-photo-2023.jpg)
-![Group Photo 2022](/img/hmlab-photo-2022.jpg)
+![Group Photo 2023](/img/hmlab-photo-2023.jpeg)
+![Group Photo 2022](/img/hmlab-photo-2022.jpeg)
 ![Group Photo 2020](/img/hmlab-photo-2020.png)
 ![Group Photo 2019](/img/hmlab-photo-2019.jpg)
 ![Group Photo 2018](/img/hmlab-photo-2018.jpg)

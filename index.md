@@ -3,7 +3,7 @@ layout: homepage
 title: Muchalski Research Group at Fresno State
 breadcrumb: Home
 ---
-<!-- Be careful. Image extension is case sensitive. -->
+<!-- Be careful. Image extensions are case sensitive and jpg is not the same as jpeg. -->
 
 <style>
 figure {
@@ -34,6 +34,8 @@ figcaption {
 ## Recent News
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
+
+<!-- **2023-07-XX** Jeremy secures employment with -->
 
 **2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged. 
 

@@ -16,13 +16,13 @@ breadcrumb: photobook
 
 ## ACS Meeting Archive
 
-![ACS Photo 2023 Spring](/img/acs-2023-spring.jpg)
-![ACS Photo 2019 Spring](/img/acs-2019-spring.jpg)
+![ACS Photo 2023 Spring](/img/acs-2023-spring.jpeg)
+![ACS Photo 2019 Spring](/img/acs-2019-spring.jpeg)
 
 ## CSU Biotechnology Symposium Archive
 
-![Presentation of work by Jeremy, Isabella, and Kirubel](/img/isabella-kirubel-CSUPERB-2023.jpg)
-![Michael presents his work at 2023 CSU Biotechnology Symposium](/img/michael-CSUPERB-2023.jpg)
+![Presentation of work by Jeremy, Isabella, and Kirubel](/img/isabella-kirubel-CSUPERB-2023.jpeg)
+![Michael presents his work at 2023 CSU Biotechnology Symposium](/img/michael-CSUPERB-2023.jpeg)
 
 ## 40th Annual CCRS (2019)
 

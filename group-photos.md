@@ -7,6 +7,7 @@ breadcrumb: photobook
 
 ## Group Photos Archive
 
+![Group Photo 2022](/img/hmlab-photo-2023.jpg)
 ![Group Photo 2022](/img/hmlab-photo-2022.jpg)
 ![Group Photo 2020](/img/hmlab-photo-2020.png)
 ![Group Photo 2019](/img/hmlab-photo-2019.jpg)
@@ -15,7 +16,7 @@ breadcrumb: photobook
 
 ## ACS Meeting Archive
 
-
+![ACS Photo 2023 Spring](/img/acs-2023-spring.jpg)
 ![ACS Photo 2019 Spring](/img/acs-2019-spring.jpg)
 
 ## CSU Biotechnology Symposium Archive

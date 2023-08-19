@@ -5,7 +5,29 @@ breadcrumb: News Archive
 permalink: /archive/
 ---
 
+> in reverse chronological order
+
+## 2023
+
+
+
 ## 2022
+
+**2022-11-10** Kirubel Mamo wins an award for his presentation at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in Anaheim, CA. Way to go, Kirubel! 
+
+**2022-11-01** Isabella Garcia 2022 Fellow of Research Training Initiative for Scientific Enhancement ([RISE](https://csm.fresnostate.edu/rise/index.html))Program. Congratulations!
+
+**2022-10-31** Warm welcome to new graduate students, Kiersten Friesen and Jason Datsko, and undergraduate students Gurmannat Chalotra and Franklin Gauthier-Parker. 
+
+**2022-10-27** Kirubel Mamo makes his way to Puerto Rico to present our work on gold(I)-catalyzed synthesis of benzofurans at the meeting of Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS). 
+
+**2022-10-21** Jeremy Pisor presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graduate faculty committee. Congratulations to Jeremy!
+
+**2022-08-02** Jasmine presents the results of ACS Project SEED research. 
+
+**2022-06-01** Welcome to new students in the lab: Jorge and Jasmine (ACS SEED). 
+
+**2022-05-20** Congratulations to Class of 2022: Madison, Lizzie, and Monty!
 
 **2022-04-01** Karina Bustos successfully defended her MS thesis. Congratulations to Karina! 
 
@@ -33,7 +55,7 @@ permalink: /archive/
 
 **2020-05-17** Congratulations to Bagieng for being selected as President's Medalist!
 
-**2020-05-15** Congratulations to class off 2020: Dana, Karina, Bagieng, Parveen, Daisy!
+**2020-05-15** Congratulations to class of 2020: Dana, Karina, Bagieng, Parveen, Daisy!
 
 **2020-04-30** Dana, Chris, and Quang presented their poster at the Virtual ACS Meeting. Go see for yourself: 
 

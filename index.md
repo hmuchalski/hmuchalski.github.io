@@ -22,7 +22,7 @@ figcaption {
 }
 </style>
 
-<p class="lead">We are organic chemistry research group in the Department of Chemistry at Fresno State. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
+<p class="lead">We are organic chemistry research group in the Department of Chemistry and Biochemistry at California State University, Fresno. We aim to discover and develop new reactions for more efficient and sustainable synthesis of agrochemicals, medicines, and materials.</p>
 
 <p class="lead">We are always looking for motivated undergraduate and post-baccalaureate student researchers. <a href="/research/opportunities/">Click here</a> to learn more about research opportunities in our lab.</p>
 
@@ -35,32 +35,30 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged. 
+
+**2023-06-13** Hubert reports on his efforts to infuse more green chemistry into organic chemistry laboratory curriculum at the 2023 Green Chemistry and Engineering Conference in Long Beach, CA.
+
+**2023-06-01** Summer of travel for many HMLab members. Microbiology of Low Oxygen Ecosystems (MLOxE) REU at Montana State (Ani), internship at federal government offices in Washington, DC (Gurmannat).
+
+**2023-05-11** Awards, recognitions, and bitter-sweet farewells. Best of luck to Class of '23: Jeremy (MS), Michael (MS), Kirubel, Jorge, and Hailey.
+
+**2023-05-05** Michael Stevens presented his thesis research on gold-catalyzed cyclization reactions in water to a room packed with spectators and observers. Then he successfully defended the work in front of the committee. Congratulations to Michael!
+
+**2023-04-19** Isabella, Kirubel, Michael, and Jasmine presented their research at the Central California Research Symposium. Isabella and Kirubel were the recipients of the San Joaquin Valley ACS Local Section Award. Congratulations!
+
+**2023-04-15** Group alumnus [gets married](/img/alex-married.jpg). Congratulations to Alex and Nathalie!
+
 **2023-03-26** Work by Jeremy, Kirubel, and Isabella was presented (two times---regular session and Sci-Mix) at the Spring National Meeting of the American Chemical Society in Indianapolis, IN. 
 
 **2023-03-21** Jeremy Pisor is the 2023 Graduate Dean's Medal Nominee from the Department. Congratulations to Jeremy!
 
 **2023-03-15** Kirubel Mamo is the 2023 Undergraduate Dean's Medal Nominee from the Department. Congratulations to Kirubel!
 
-**2023-03-13** Karen Medina has been selected by the Executive Committee of the Division of Organic Chemistry to receive an ACS Division of Organic Chemistry Summer Undergraduate Research Fellowship (SURF). 
+**2023-03-13** Karen Medina has been selected by the Executive Committee of the Division of Organic Chemistry to receive an ACS Division of Organic Chemistry Summer Undergraduate Research Fellowship (SURF). Way to go, Karen!
 
 **2023-03-12** Jeremy and Chris help out at the Fresno County Science Fair
 
 **2023-01-14** Isabella, Kirubel, and Michael successfully navigated the CSUPERB Symposium and presented their work in the infamous tent. However, the 49ers fans, who stayed at the same hotel, were not interested. 
-
-**2022-11-10** Kirubel Mamo wins an award for his presentation at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in Anaheim, CA. Way to go, Kirubel! 
-
-**2022-11-01** Isabella Garcia 2022 Fellow of Research Training Initiative for Scientific Enhancement ([RISE](https://csm.fresnostate.edu/rise/index.html))Program. Congratulations!
-
-**2022-10-31** Warm welcome to new graduate students, Kiersten Friesen and Jason Datsko, and undergraduate students Gurmannat Chalotra and Franklin Gauthier-Parker. 
-
-**2022-10-27** Kirubel Mamo makes his way to Puerto Rico to present our work on gold(I)-catalyzed synthesis of benzofurans at the meeting of Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS). 
-
-**2022-10-21** Jeremy Pisor presented his thesis research to a room packed with spectators and observers. Then he successfully defended the work in front of the graudate faculty committee. Congratulations to Jeremy!
-
-**2022-08-02** Jasmine presents the results of ACS Project SEED research. 
-
-**2022-06-01** Welcome to new students in the lab: Jorge and Jasmine (ACS SEED). 
-
-**2022-05-20** Congratulations to Class off 2022: Madison, Lizzie, and Monty!
 
 [News archive](/archive)

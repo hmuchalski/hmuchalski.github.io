@@ -21,12 +21,13 @@ Kiersten Friesen graduated from Westmont College in Spring 2021 with a B.S. degr
 
 * Isabella Garcia (BS Biochemistry)
 * Jorge Aguilar (BS Chemistry)
-* Gurmannat Chalotra (BS Biochemistry)
 * Franklin Gauthier-Parker (BS Biochemistry)
 * Ani Abajian (BS Biochemistry)
 * Karen Medina (BS Biology)
-<!-- * Jacqueline Aguilar () 
-* Celine Irasusta (BS Biology) -->
+* Jacqueline Aguilar 
+* Celine Irasusta (BS Biology)
+* Angelia Leggett (BS Biochemistry)
+* Katelyn Tripp (BS Biochemistry)
 
  [Link to photo album](/team/photos)
 

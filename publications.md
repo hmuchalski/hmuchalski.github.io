@@ -5,9 +5,9 @@ permalink: /publications/
 breadcrumb: Publications
 ---
 
+* [Go to full list of conference presentations](/presentations)
 * A dagger (&#8224;) indicates undergraduate co-author; a double dagger (&#8225;) indicates graduate (MS degree candidate) co-author.
 * DOI links may require journal subscription. Feel free to request PDF copy by email.
-* [Click this link](/presentations) for a full list of conference presentations.
 
 ---
 

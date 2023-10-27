@@ -37,6 +37,8 @@ figcaption {
 
 <!-- **2023-07-XX** Jeremy secures employment with -->
 
+**2023-08-21** 
+
 **2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged. 
 
 **2023-06-13** Hubert reports on his efforts to infuse more green chemistry into organic chemistry laboratory curriculum at the 2023 Green Chemistry and Engineering Conference in Long Beach, CA.

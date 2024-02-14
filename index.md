@@ -35,9 +35,11 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
-<!-- **2023-07-XX** Jeremy secures employment with -->
+<!-- **2024-01-17** AY 23-24 Spring semester begins. We have new students joining the group. Warm welcome to Angelia, Carlo, Chelsea, and Mariah.  -->
 
-**2023-08-21** 
+**2023-08-21** AY 23-24 Fall semester begins. 
+
+**2023-08-01** Jeremy secures employment as a chemist in the private sector. Congratulations!
 
 **2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged. 
 

@@ -17,17 +17,18 @@ Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from F
 
 Kiersten Friesen graduated from Westmont College in Spring 2021 with a B.S. degree in Chemistry. Her undergraduate research focused on method development in the synthesis of iridium complexes for dendrimer coupling of nanoparticles under the supervision of Dr. Steven M. Contakes. Kiersten joined the M.S. program at Fresno State in August 2022.
 
+### Jorge Aguilar
+
+### Jacqueline Aguilar
+
 ## Undergraduate Students
 
 * Isabella Garcia (BS Biochemistry)
-* Jorge Aguilar (BS Chemistry)
-* Franklin Gauthier-Parker (BS Biochemistry)
 * Ani Abajian (BS Biochemistry)
 * Karen Medina (BS Biology)
-* Jacqueline Aguilar 
 * Celine Irasusta (BS Biology)
 * Angelia Leggett (BS Biochemistry)
-* Katelyn Tripp (BS Biochemistry)
+* Mariah Sadeddin (BS Chemistry)
 
  [Link to photo album](/team/photos)
 

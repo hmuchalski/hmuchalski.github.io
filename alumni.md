@@ -29,13 +29,15 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## Undergraduate
 
+* Franklin Gauthier-Parker (BS Biochemistry 2024)
+* Katelyn Tripp (BS Biochemistry 2023)
 * Hailey Sharton (BS Biology 2023)
 * Kirubel Mamo (BS Biochemistry 2023 --> PhD at UC Santa Barbara with B. Lipshutz)
 * Lizzie Herren (BS Chemistry 2022 --> Fresno State MS Program)
 * Montaser Ahmad  (BS Biochemistry 2022 --> University of Georgia medical school)
-* Madison Williams (BS Chemistry 2022 --> Ph.D.; University of Toledo)
+* Madison Williams (BS Chemistry 2022 --> Ph.D.; University of Toledo--> SUNY Buffalo)
 * Simrit Dhindsa (BS Biochemistry 2021 --> UCLA School of Dentistry)
-* Angel Rojas (BS Biochemistry 2021 --> Fresno State MS Program)
+* Angel Rojas (BS Biochemistry 2021)
 * Alexander L. Ewing (BS Biochemistry 2021 --> Ph.D. Baylor College of Medicine)
 * Dana Lichtenstein (BS Biology, 2020, medical program)
 * Bagieng Keophimphone (BS Biochemistry, 2020 --> UCSF medical program)

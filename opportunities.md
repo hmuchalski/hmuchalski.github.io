@@ -12,11 +12,11 @@ We conduct research on the most exciting problems in organic chemistry: _how to 
 
 ## Are You Interested?
 
-Undergraduate students who are interested in conducting research for credit or as an extracurricular activity should [contact me by e-mail][mailto] or talk to me in person. My office is in room 352 of the Science Building (Science 1). There is a selection process because the space in the research lab is limited. Although most students do not begin research until they have completed first semester of organic chemistry it is not a hard requirement.
+Undergraduate students who are interested in conducting research for credit should visit me during office hours (preferred) or contact me by e-mail. My office is in room 352 of the Science Building (Science 1). Although most students do not begin research until they have completed first semester of organic chemistry it is not a hard requirement.
 
 ## Expectations
 
-[Read this page][hmlab-os] to learn more about lab culture and what you can expect when you join our team. If you have questions, don't hesitate to ask Dr. Muchalski.
+To learn more about lab culture and what you can expect when you join our team [read this page][hmlab-os] ([PDF][hmlab-os-pdf]). If you have questions, don't hesitate to ask Dr. Muchalski.
 
-[mailto]: mailto:hmuchalski@mail.fresnostate.edu?subject=ResearchOpportunity
 [hmlab-os]: /hmlab-standards.html
+[hmlab-os-pdf]: /HMLab-Operating-System.pdf

@@ -9,6 +9,10 @@ permalink: /archive/
 
 ## 2023
 
+**2023-06-01** Summer of travel for many HMLab members. Microbiology of Low Oxygen Ecosystems (MLOxE) REU at Montana State (Ani), internship at federal government offices in Washington, DC (Gurmannat).
+
+**2023-05-11** Awards, recognitions, and bittersweet farewells. Best of luck to Class of '23: Jeremy (MS), Michael (MS), Kirubel, Jorge, and Hailey.
+
 **2023-05-05** Michael Stevens presented his thesis research on gold-catalyzed cyclization reactions in water to a room packed with spectators and observers. Then he successfully defended the work in front of the committee. Congratulations to Michael!
 
 **2023-04-19** Isabella, Kirubel, Michael, and Jasmine presented their research at the Central California Research Symposium. Isabella and Kirubel were the recipients of the San Joaquin Valley ACS Local Section Award. Congratulations!

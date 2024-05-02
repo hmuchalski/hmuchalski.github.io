@@ -11,7 +11,7 @@ breadcrumb: HMLab members
 
 ### Jason Datsko
 
-Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from Fresno Pacific University in Spring 2022. Under the supervision of Dr. Maria Soria, his undergraduate research focused on transformation and isolation of the d. melanogaster amyloid-like memory protein ORB2. Jason currently works in the private sector as a quality control chemist, but hopes to eventually transition to academia after a successful thesis defense.
+Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from Fresno Pacific University in Spring 2022. Under the supervision of Dr. Maria Soria, his undergraduate research focused on transformation and isolation of the d. melanogaster amyloid-like memory protein ORB2. Jason currently works in the private sector as a quality control chemist, but hopes to eventually transition to R&D after a successful thesis defense.
 
 ### Kiersten Friesen
 
@@ -28,8 +28,11 @@ Kiersten Friesen graduated from Westmont College in Spring 2021 with a B.S. degr
 * Karen Medina (BS Biology)
 * Celine Irasusta (BS Biology)
 * Angelia Leggett (BS Biochemistry)
+* Joseph Bernardo (BS Biology)
 * Chelsea Lim (BS Biochemistry)
 * Mariah Sadeddin (BS Chemistry)
+* Felix Breine (FCC Chemistry Professional Certificate Intern)
+* Analeigha Ayala (BS Biochemistry)
 
  [Link to photo album](/team/photos)
 

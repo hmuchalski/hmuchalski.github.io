@@ -7,6 +7,7 @@ breadcrumb: photobook
 
 ## Group Photos Archive
 
+![Group Photo 2023](/img/hmlab-photo-2024.jpeg)
 ![Group Photo 2023](/img/hmlab-photo-2023.jpeg)
 ![Group Photo 2022](/img/hmlab-photo-2022.jpeg)
 ![Group Photo 2020](/img/hmlab-photo-2020.png)
@@ -24,8 +25,11 @@ breadcrumb: photobook
 ![Presentation of work by Jeremy, Isabella, and Kirubel](/img/isabella-kirubel-CSUPERB-2023.jpeg)
 ![Michael presents his work at 2023 CSU Biotechnology Symposium](/img/michael-CSUPERB-2023.jpeg)
 
-## 40th Annual CCRS (2019)
+## Central California Research Symposium
 
+![Isabella and Jorge present their work at CCRS 2024](/img/ccrs-2024-isabella-jorge.jpg)
+![Ani and Karen present their work at CCRS 2024](/img/ccrs-2024-ani-karen.jpg)
+![Angelia presents her work at CCRS 2024](/img/ccrs-2024-angelia.jpg)
 ![Alison presenting at CCRS 2019](/img/alison-ccrs-2019.jpg)
 ![Jamie, Karina, and Alex presenting at CCRS 2019](/img/jamie-ccrs-2019.jpg)
 ![Jeremy presenting at CCRS 2019](/img/jeremy-ccrs-2019.jpg)

@@ -29,10 +29,12 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## Undergraduate
 
+* Isabella Garcia (BS Biochemistry 2024; Dean's Medal Nominee --> MD at Wayne State)
+* Ani Abajian (BS Biochemistry 2024)
 * Franklin Gauthier-Parker (BS Biochemistry 2024)
 * Katelyn Tripp (BS Biochemistry 2023)
 * Hailey Sharton (BS Biology 2023)
-* Kirubel Mamo (BS Biochemistry 2023 --> PhD at UC Santa Barbara with B. Lipshutz)
+* Kirubel Mamo (BS Biochemistry 2023; Dean's Medal Nominee --> PhD at UC Santa Barbara with B. Lipshutz)
 * Lizzie Herren (BS Chemistry 2022 --> Fresno State MS Program)
 * Montaser Ahmad  (BS Biochemistry 2022 --> University of Georgia medical school)
 * Madison Williams (BS Chemistry 2022 --> Ph.D.; University of Toledo--> SUNY Buffalo)
@@ -40,7 +42,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Angel Rojas (BS Biochemistry 2021)
 * Alexander L. Ewing (BS Biochemistry 2021 --> Ph.D. Baylor College of Medicine)
 * Dana Lichtenstein (BS Biology, 2020, medical program)
-* Bagieng Keophimphone (BS Biochemistry, 2020 --> UCSF medical program)
+* Bagieng Keophimphone (BS Biochemistry, 2020; President Medalist --> UCSF medical program)
 * Alison Phasakda (BA Chemistry)
 * Daisy Avalos (BA Chemistry, 2020)
 * Parveen Kaur (BS Biochemistry, 2020, Pharmacy School)
@@ -57,6 +59,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## High School
 
+* Gurmannat Chalotra (Lemoore High School)
 * Jasmine Ortigoza (ACS SEED 2022, Bullard High School)
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)

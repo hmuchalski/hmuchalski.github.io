@@ -11,16 +11,21 @@ breadcrumb: Presentations
 ## Oral presentations
 
 1. Muchalski H. *In with the old, In with the new: Lowering the barriers to incorporation of green chemistry into organic chemistry laboratory*, 27th Annual Green Chemistry & Engineering Conference that will be held in Long Beach, CA, June 13-15, 2023.
-2. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H.; *Gold(I)-Nhc-Catalyzed Synthesis Of Benzo[B]Thiophenes From 2-Alkynylthioanisoles* 30th Annual Central California Research Symposium, Fresno, CA, United States, May 1, 2019. 
-3. Olvera, A. C.&#8224;; Ramos Flores, J.&#8224;; Muchalski, H. *Towards Understanding of Peroxidation of Mammalian Sterols: Microwave-Assisted Synthesis of 7-Dehydrocholesterol Isomers*, 38th Annual Central California Research Symposium, Fresno, CA, United States, April 18--19, 2017. 
-4. Muchalski, H.; Lamberson, C. R.; Levonyak, A. J.&#8224;; Xu, L.; Porter, N. A. *Does quantum mechanical tunneling make free radical peroxidation favorable?*, Abstracts of Papers, 248th ACS National Meeting, San Francisco, CA, United States, August 10-14, 2014, AEI-60
+2. Closser, K. D.; Hawker, M. J.; Muchalski, H. *Quantized Grading: An Ab Initio Approach to Using Specifications-Based Grading in Physical Chemistry*; West Lafayette, IN, 2022.
+3. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H.; *Gold(I)-Nhc-Catalyzed Synthesis Of Benzo[B]Thiophenes From 2-Alkynylthioanisoles* 30th Annual Central California Research Symposium, Fresno, CA, United States, May 1, 2019. 
+4. Olvera, A. C.&#8224;; Ramos Flores, J.&#8224;; Muchalski, H. *Towards Understanding of Peroxidation of Mammalian Sterols: Microwave-Assisted Synthesis of 7-Dehydrocholesterol Isomers*, 38th Annual Central California Research Symposium, Fresno, CA, United States, April 18--19, 2017. 
+5. Muchalski, H.; Lamberson, C. R.; Levonyak, A. J.&#8224;; Xu, L.; Porter, N. A. *Does quantum mechanical tunneling make free radical peroxidation favorable?*, Abstracts of Papers, 248th ACS National Meeting, San Francisco, CA, United States, August 10-14, 2014, AEI-60
 
 ## Poster presentations
 
-1. Pisor, J.W.&#8225;; Mamo, K.&#8224;; Garcia, I.C.&#8224;; Muchalski, H.; *Synthesis of Benzofurans via Au(I)-Catalyzed Cyclization of 2-Alkynyl Phenol Derivatives*, Abstracts of Papers, ACS Spring Meeting 2023, Indianapolis, IN, United States, March 26-30, 2023
-2. Stevens, M.D.&#8225;; Muchalski, H.; *Synthesis of Benzothiophenes in Water Catalyzed by Gold(I)–NHC Complexes*,  35th CSU Annual Biotechnology Symposium, Santa Clara, CA, United States, January 13--14, 2020.
-3. Pisor, J.W.&#8225;; Mamo, K.&#8224;; Garcia, I.C.&#8224;; Muchalski, H.; *Synthesis of Benzofurans via Au(I)-Catalyzed Cyclization of 2-Alkynyl Phenol Derivatives*,  35th CSU Annual Biotechnology Symposium, Santa Clara, CA, United States, January 13--14, 2020.
-4. Pisor, J.W.&#8225;; Garcia, I.C.&#8224;; Mamo, K.&#8224;; Muchalski, H.; *Synthesis Of 2-Substituted Benzofurans From 2-Alkynyl Aryl Ethers Catalyzed By Gold(I)–N-Heterocyclic Carbene Complexes*, Annual Biomedical Research Conference for Minority Students (ABRCMS), Long Beach, CA, November 9--12, 2022.  
+1. Datsko, J.J.; CCRS 2024
+2. Aguilar, J.; Garcia, I.C.; CCRS 2024
+3. Medina, K.G.; Abajian, A.G. CCRS
+4. Legget, A.A. CCRS
+5. Pisor, J.W.&#8225;; Mamo, K.&#8224;; Garcia, I.C.&#8224;; Muchalski, H.; *Synthesis of Benzofurans via Au(I)-Catalyzed Cyclization of 2-Alkynyl Phenol Derivatives*, Abstracts of Papers, ACS Spring Meeting 2023, Indianapolis, IN, United States, March 26-30, 2023
+6. Stevens, M.D.&#8225;; Muchalski, H.; *Synthesis of Benzothiophenes in Water Catalyzed by Gold(I)–NHC Complexes*,  35th CSU Annual Biotechnology Symposium, Santa Clara, CA, United States, January 13--14, 2020.
+7. Pisor, J.W.&#8225;; Mamo, K.&#8224;; Garcia, I.C.&#8224;; Muchalski, H.; *Synthesis of Benzofurans via Au(I)-Catalyzed Cyclization of 2-Alkynyl Phenol Derivatives*,  35th CSU Annual Biotechnology Symposium, Santa Clara, CA, United States, January 13--14, 2020.
+8. Pisor, J.W.&#8225;; Garcia, I.C.&#8224;; Mamo, K.&#8224;; Muchalski, H.; *Synthesis Of 2-Substituted Benzofurans From 2-Alkynyl Aryl Ethers Catalyzed By Gold(I)–N-Heterocyclic Carbene Complexes*, Annual Biomedical Research Conference for Minority Students (ABRCMS), Long Beach, CA, November 9--12, 2022.  
 **Award**: ABRCMS 2022 Steering Committee Presentation Award.
 1. Pisor, J.W.&#8225;; Garcia, I.C.&#8224;; Mamo, K.&#8224;; Muchalski, H.; *Synthesis Of 2-Substituted Benzofurans From 2-Alkynyl Aryl Ethers Catalyzed By Gold(I)–N-Heterocyclic Carbene Complexes*, Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS), Puerto Rico, October 27-29, 2022.
 2. Lichtenstein, D.A.&#8224;; Dillon, C.C.&#8225;; Le, Q.&#8225;; Muchalski, H. *Gold(I)--NHC-catalyzed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers*, College or Science and Mathematics Virtual Research Showcase, May 8--15, 2020.

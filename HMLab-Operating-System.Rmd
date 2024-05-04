@@ -1,0 +1,145 @@
+---
+title: "HMLab Operating Standards"
+subtitle: "Orientation guide for research students"
+author: "Hubert Muchalski"
+date: "Last updated: `r Sys.Date()`"
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_html: default
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+# bibliography: skeleton.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+# Introduction
+
+Our mission is to contribute to the understanding of the natural world by doing and disseminating high quality science that advances the field of organic chemistry. We gain satisfaction by doing high quality work on important problems that are significant and relevant. We focus on developing new reactions for more efficient and sustainable synthesis of agrochemicals, materials, and molecules of biological importance.
+
+It is important that students who want to do research in my lab are familiar with the standards and the culture of the group before joining. The purpose of this document is to clarify and communicate those standards.^[Inspired by Kent R. Wilson's memoir. See *J. Phys. Chem. A* **1999**, *103*, 10022--10027]
+
+# Shared values
+
+It is my goal to provide exceptional research experience for students and create an environment that fosters lifelong learning. To accomplish that all lab members do their best to live the set of shared values: 
+
+- *Curiosity & Creativity.* We are curious and seek out challenging problems. We think deeply about chemistry and ask questions that help us come up with creative solutions to the problems we choose. 
+- *Integrity & Responsibility.* We are honest, trustworthy, and truthful with each other. We speak directly with each other rather than speaking indirectly about each other. We are responsible for ourselves, for the team, and for the tools that we share.
+- *Teamwork & Leadership.* We are a caring and supportive team in which leadership is earned by serving the needs of others and gaining their trust and respect. 
+
+# Levels of involvement
+
+The level of involvement in research will depend on available space, your prior lab experience, and long-term professional goals. Initially, students interested in research will have the opportunity to get a sense of the lab culture by shadowing, observing, and interacting with students in the lab. The only condition is that you are not disrupting the work. If you decide to continue you will be invited to join the lab and enter the Chemistry Individual Development Plan (ChemIDP) as outlined below. 
+
+## Pre-Catalyst
+
+Pre-catalyst is a molecule that can, after activation be an active catalyst in a chemical reaction. All students begin their involvement in the lab at this level. The goal of this period is to go beyond shadowing and to prototype the research experience to see if it is the right fit for all. You will assist me or other students in the lab while learning the standard operating procedures (SOPs) commonly used in the lab. This period will take from several weeks to several months, depending on how well we know each other^[Maybe we just met, maybe you were student in my class.] and how quickly you learn the key techniques. Expected time commitment is minimum 4 hours per week of in-lab work. 
+
+After a few weeks, you and I will have a discussion on the nature of your future involvement in the lab and only if it is a good fit for everyone involved.^[I seek input from my students before making the final decision.] 
+
+## Catalyst
+
+Catalyst increases the rate of a reaction. Student research assistants are the catalysts of my research program. The role of a research assistant is to make a meaningful contribution to the research project. Training takes a lot of time and effort for everyone involved and a reasonable contribution to a research project can take several semesters. This is a long-term commitment for students who are serious about research, Honors Program students, and those who plan to pursue an advanced degree in the chemical sciences. We will discuss the goals of your research project and draft a document that specifies key results, learning objectives, time commitment, and deliverables. The experience is typically formalized by enrollment in _Independent Study (CHEM 190)_ and you will be encouraged to apply for research and travel grants to support your research. Expected time commitment is minimum 4 hours per week of in-lab work per unit of CHEM 190. 
+
+`r newthought('For students in the M.S. Program')`, thesis research is one of the degree requirements. The scope of M.S. thesis research is broader because it should allow the student to develop technical skills as well as independence in research. Therefore, the time needed to make progress is difficult to estimate. ^[One of my research advisors, paraphrasing Sir Derek Barton, often said to me: "Time in lab is a poor predictor of success in research. To make discoveries you need a lot of luck but the more you work the luckier you get."] 
+
+`r newthought('The more time and effort you put into research')`, the more you can expect me to be involved. No matter what is your role in my lab, I am committed to your education and training. It is my goal to provide a research environment that is intellectually stimulating, supportive, safe, and free from harassment.
+
+# Advisor's expectations
+
+## I expect you to take intellectual ownership of your research project
+
+My role is to encourage you to think deeply about chemistry you are doing and take intellectual ownership of the project as early as possible.^[Be the doughnut. The hole is the problem, the knowledge gap. You need to surround that problem in order to solve it.] This means asking a lot of questions, taking detailed notes, reading about the project, and discussing it with others (not only the research advisor). Think about what you are doing and why you are doing it. I expect that over time you will understand the conceptual framework related to the project and work to learn all aspects of even the simplest lab techniques.
+
+## I expect you to develop your research skills
+
+Each experiment is an opportunity to improve your working knowledge of chemistry in general and organic chemistry in particular. I expect that you will maintain and expand your knowledge of reactions, mechanisms, analytical methods, and improve your technical repertoire.  
+
+The main ingredient to scientist's development is reading journal articles. Read the papers I suggest, learn how to use scientific databases (SciFinder, Web of Science) to look up information, or ask others for reading recommendations.
+
+Making (honest) mistakes is an integral part of the training in any lab. Don't freak out when they happen. I expect that you will learn from those mistakes and not make them again. Also, *failed experiments are not measure of personal worth.* If everything worked as expected, research would be dull.
+
+## I expect you to contribute to the lab and be a good citizen
+
+Science is a community. You will meet people who will help you along the way and you should return the favor. Senior students are expected to help train new students in the ways of the world (i.e. lab procedures, how individual/group meetings work, literature searching, etc.).
+
+You will have designated lab jobs such as inventory, general maintenance, taking care of one of the instruments, etc. Failure to do your lab jobs not only affects you, it can impede the entire lab and will not be tolerated. Everyone is expected to maintain general lab cleanliness, help wash abandoned glassware, and making sure that supplies do not run out.
+
+## Reasons for dismissal
+
+1. Lying/cheating on your results. Scientific fraud usually starts with a small lie that needs to be proped up by more lies which eventually snowballs into something that you cannot control anymore. Don't do it. You're surrounded by scientists with well developed BS detectors. 
+2. Lack of commitment. If you are not really committed to our science it’s is better for you and the group if you put your time toward other activities. For everyone's best interest, you should communicate this sooner rather than later. No hard feelings---organic synthesis is not for everyone. 
+3. Unsafe or messy working habits. Chemistry involves hazards and it is essential that we trust in each other’s ability to deal with them properly. 
+
+# Responsible Conduct of Research
+
+Research is an enterprise to acquire knowledge. Our discipline places a high premium on honest, ethical reporting. There are stakes associated with the products of research such as grant funding, travel support, career placement, patent royalties, licensing income, revenue from products, employment, etc. The temptation to be dishonest is high. Therefore, remember that…
+
+`r newthought('We make observations,')` and do our best to understand and convey what we observe. We don't make stuff up. There are no compounds worth preparing, yields worth calculating, catalysis worth performing, or observations worth noting that are not genuine or accurate. *I will not put pressure on you* to make things happen that solid data tell us that they don't. If you are putting in an honest effort and make a reasonable number of rational attempts to make the experiment a success, we will acknowledge the failure of our understanding of the system and pivot to another hypothesis. No one’s thesis, graduation, grade, or anything will depend on making a reaction work or preparing a compound. The outcome will depend, however, on how you do the experiments, your lab technique and how you care for the data you collect.
+
+`r newthought('Our reputation is at stake.')` We are part of a community that expects us to provide reproducible procedures and accurate data when we publish our work. You have probably already experienced reactions that don't work as described or literature experimental procedures that are missing important details. We only publish information that reflects reality: compounds that are fully characterized and procedures that work. This requires that you keep an accurate, detailed record of the experiment in laboratory notebook and not memory. It also requires that we reproduce experiments and synthesis to verify the procedure and yield. 
+
+## Attribution of Contribution and Authorship
+
+One of the most important tasks in science is disseminating your research through publications and presentations; therefore, authorship on these items is an important indicator to the outside world of your role. Authorship implies a significant contribution to a paper such as intellectual ideas that direct the research or experimental contributions.^[Just following instructions and not actively participating in the experimental design or data interpretation will be acknowledged, but likely would not result in an authorship.] 
+
+Not everyone who contributes to a research project should necessarily be granted co-authorship on the resulting papers. Every listed author should have contributed substantially to the project with respect to its conception, the design and/or performance of the experiments, the analysis of the results, and/or the drafting of the manuscript describing the project. All authors (and especially students) should participate in critical reading and approval of the final manuscript submitted for publication. Each author should understand the research problem and should be able to offer an intelligent discussion of the entire project from the perspective of their own involvement in it. There should never be any “courtesy authors,” who may have been selected because of previous or future efforts in this research area or who are considered to add credibility or prestige to the publication.^[Adapted from Dr. Dirk Trauner's adaptation of Peter Wipf’s adaptation of Hanawalt, P. C., "Research collaborations: Trial, trust, and truth." Cell 2006, 126, 823-825] In most cases we will use Contributor Roles Taxonomy ([CRediT](https://credit.niso.org/)) to represent the roles typically played by contributors to research outputs.
+
+# Laboratory Safety
+
+## I expect that you will follow chemical safety rules
+
+Laboratory safety is everyone's responsibility. Chemicals and equipment in organic chemistry laboratory are hazardous. Unsafe practices can increase the risk of hazards. You can begin working in the lab only after you complete the department safety training (Canvas). 
+
+Here are some general guidelines related to laboratory safety:
+
+* Take appropriate and reasonable precaution in lab to protect yourself and your lab mates.
+* Avoid working alone.
+* Keep food and drink outside the lab.
+* Familiarize yourself with the lab. Know where are exits, eye wash, safety shower, fire blanket, and fire extinguishers.
+* Always wear your glasses in the lab and remind others when they forget to do so^[That includes me. If I fail to wear safety glasses, I expect you to remind me that I should.].  All other safety equipment (heavy gloves, lab coats, face shields, etc.) are always available. Don't start your experiment until you have the safety equipment you need.
+* Keep the lab neat. Label samples and waste properly. Do not let stuff accumulate.
+* Plan experiments carefully and anticipate potential problems. Mentally prepare for experiments. For example, anticipate that when you are using a pyrophoric reagent that the worst-case scenario would be fire that cannot be easily contained. Make sure you know what to do in case of an emergency.
+* Label your compounds properly (name or structure and notebook page at minimum). Use and maintain the inventory.
+* Large scale reactions can be particularly dangerous. Don't attempt them without consultation. 
+
+`r newthought('Accidents will happen.')` Glassware breaks and causes spills, cuts, or other emergencies. Human body reacts to chemicals. *It is critical to know how to respond in case of an emergency that happens in the lab.*
+
+* If I am in my office, notify me immediately even if there is someone in my office. 
+* If it is a minor accident and I am not around, notify Alan Preston or any faculty member who is present on our floor.
+* In case of a serious, health or life-threatening emergency, immediately call the **campus police (559-278-8400) from your cell phone**. Then, call me (615-481-2799) and notify Alan Preston or any faculty member that is present on our floor.
+
+# The Nitty Gritty
+
+## Work hours
+
+Time commitment levels outlined above are just a guideline. I believe that work hours are not a good measure of progress in research. I am more interested to see results of experiments you carry out than the time you spend in the lab. That being said, experimental science can be time-consuming and sooner or later you will recognize that some experiments require your attention outside of standard working hours or during weekends.
+
+At the beginning of each semester we will meet and schedule your active time in the lab like you would do for other classes. The time you commit to research is mostly up to you. However, *if you are taking research for credit*, you must commit to at least 3 hours/unit/week^[CHEM 190 is like any other lab class. One unit equals 3 hours per week of in-lab time. Some projects benefit from few hours dispersed throughout the week, others require a solid 3-4-hour block.] of active in-lab time.^[This means being in the lab and carrying out experiments which can take different forms. For example, preparing the documentation and the notebook, counts as active lab time. Feel free to ask me what is considered *active* vs. *passive* time in the lab.] The culminating assignment is a written research report that is submitted to me and the department chair at the end of the semester.
+
+## Paid research positions during summer
+
+Sometimes I am able to offer paid student assistant positions during summer. Because Fresno State is not a research university, the amount of funding that is available for paid positions is limited and irregular. It is in your interest to seek funding opportunities that can support your research. If funding is available, I will hire selected students for summer research positions based on experience, technique, and work ethic. I will not discuss the details of my hiring decisions.
+
+## Vacation time and absences
+
+I ask that you discuss with me your extended absences from the lab at least 2 weeks before. This helps me better decide the direction of research in the group on before you leave for extended period.
+
+## Conflict resolution
+
+If a conflict arises with another lab member during your time in my lab, I will work with you to find a resolution. If the conflict fails to be resolved or you do not feel comfortable involving me, I encourage you to consult with the Department Chair to settle the disagreement.
+
+- [Go back to HMLab main web page](https://muchalski.net)
+
+<!-- 1. Did I do my best to make meaningful progress in my research? -->
+<!-- 2. Did I do my best to learn something new related to my project? -->
+<!-- 3. Did I do my best to look after the lab space? -->

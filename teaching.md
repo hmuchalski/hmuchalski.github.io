@@ -24,6 +24,6 @@ Students who successfully complete CHEM 129A generally enroll in CHEM 129B, whic
 <!-- ## CHEM 128B (Organic chemistry 2) -->
 
 
-[syllabus128a]: /teaching/syllabus-128a/
+<!-- [syllabus128a]: /teaching/syllabus-128a/
 
-[syllabus129a]: /teaching/syllabus-129a/
+[syllabus129a]: /teaching/syllabus-129a/ -->

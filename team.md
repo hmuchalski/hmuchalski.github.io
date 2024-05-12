@@ -23,14 +23,12 @@ Kiersten Friesen graduated from Westmont College in Spring 2021 with a B.S. degr
 
 ## Undergraduate Students
 
-* Isabella Garcia (BS Biochemistry)
-* Ani Abajian (BS Biochemistry)
 * Karen Medina (BS Biology)
-* Celine Irasusta (BS Biology)
 * Angelia Leggett (BS Biochemistry)
-* Joseph Bernardo (BS Biology)
 * Chelsea Lim (BS Biochemistry)
 * Mariah Sadeddin (BS Chemistry)
+* Celine Irasusta (BS Biology)
+* Joseph Bernardo (BS Biology)
 * Felix Breine (FCC Chemistry Professional Certificate Intern)
 * Analeigha Ayala (BS Biochemistry)
 

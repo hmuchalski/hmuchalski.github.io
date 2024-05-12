@@ -35,7 +35,7 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
-<!-- **2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to Class of '24: Isabella and Ani.-->
+**2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to Class of '24: Isabella, Ani, and Franklin.
 
 **2024-04-10** Isabella Garcia is the Department Nominee for 2024 Dean's Medal. Mariah was awarded Kenneth Chan Memorial Scholarship. Congratulations to Isabella and Mariah!
 

@@ -32,6 +32,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Isabella Garcia (BS Biochemistry 2024; Dean's Medal Nominee --> MD at Wayne State)
 * Ani Abajian (BS Biochemistry 2024)
 * Franklin Gauthier-Parker (BS Biochemistry 2024)
+* Celine Irasusta (BS Biology)
 * Katelyn Tripp (BS Biochemistry 2023)
 * Hailey Sharton (BS Biology 2023)
 * Kirubel Mamo (BS Biochemistry 2023; Dean's Medal Nominee --> PhD at UC Santa Barbara with B. Lipshutz)

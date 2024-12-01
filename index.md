@@ -35,6 +35,8 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2024-08-20** The new academic year is just around the corner. We're starting it strong. Hubert's collaboration with the Lipshutz's group at UCSB on [preparation of DPDTC was published in *Organic Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified by awesome chemists in at the University of Oxford). Jason and Karen presented their work at the Fall ACS National Meeting 
+
 **2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to Class of '24: Isabella, Ani, and Franklin.
 
 **2024-04-10** Isabella Garcia is the Department Nominee for 2024 Dean's Medal. Mariah was awarded Kenneth Chan Memorial Scholarship. Congratulations to Isabella and Mariah!

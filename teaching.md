@@ -5,6 +5,16 @@ permalink: /teaching/
 breadcrumb: Teaching
 ---
 
+- [How to register and access SciFinder-n (via Library proxy)][Scifinder-n]
+<!-- 
+- [How to obtain ChemDraw Prime (faculty and staff)][ChemDrawPrime]
+- How to obtain and apply licenses for processing NMR/IR/UV spectra with MestReNova software
+ -->
+
+[Scifinder-n]: https://docs.google.com/document/d/1WSgke5mCnQ5pHCDM3XWMMLiLtHqKrP2rIVlWFEm5Ngk/edit?usp=sharing
+[ChemDrawPrime]: 
+[MestReNova]: 
+
 ## CHEM 128A (Organic chemistry 1)
 
 CHEM 128A is the first part of a two-semester sequence in organic chemistry, the chemistry of carbon-containing compounds. Topics in this course will be focused on the principles of bonding, structure, reactivity, and synthesis of organic materials. Also, a significant portion of this course will address the analytical techniques routinely used by organic chemists in their research. While learning these fundamental aspects of organic chemistry, I hope it will become apparent that this science is central to the practice and understanding of many other disciplines. Lectures and problems will often feature organic compounds and reactions in the context of biology, pharmacy, medicine, materials, and energy and fuel science.

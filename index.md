@@ -35,6 +35,10 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+**2024-10-15** Congratulations to Mariah who will join the 2024 cohort of NIH RISE Scholars!
+
+**2024-09-17** Congratulations to Jorge who will join the 2024 cohort of NIH Bridges to Doctorate (B2D) UC Davis Fellows!
+
 **2024-08-20** The new academic year is just around the corner. We're starting it strong. Hubert's collaboration with the Lipshutz's group at UCSB on [preparation of DPDTC was published in *Organic Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified by awesome chemists in at the University of Oxford). Jason and Karen presented their work at the Fall ACS National Meeting 
 
 **2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to Class of '24: Isabella, Ani, and Franklin.

@@ -9,6 +9,8 @@ breadcrumb: HMLab Alumni
 
 ### Jason Datsko, MS Chemistry
 
+Jason Datsko graduated with a B.S. in Chemistry and minor in Biology from from Fresno Pacific University in Spring 2022. Under the supervision of Dr. Maria Soria, his undergraduate research focused on transformation and isolation of the d. melanogaster amyloid-like memory protein ORB2. Jason currently works in the private sector as a quality control chemist, but hopes to eventually transition to R&D after a successful thesis defense.
+
 ### Michael Stevens, MS Chemistry
 
 Michael Stevens graduated from California State University, Bakersfield in Spring 2020 with a B.S degree in Chemistry with ACS Certification. He conducted undergraduate research, under the supervision of Dr. Danielle Solano, which focused  on synthesis involving reductive amination of 4-bromo-2-hydroxybenzaldehyde. In 2021, supported by Gates Millennium Scholarship funded by the Bill and Melinda Gates Foundation, he joined the MS Program at Fresno State. Michael worked on developing green chemistry approach to benzothiophene heterocycles.
@@ -33,7 +35,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 * Isabella Garcia (BS Biochemistry 2024; Dean's Medal Nominee --> MD at Wayne State)
 * Ani Abajian (BS Biochemistry 2024)
-* Franklin Gauthier-Parker (BS Biochemistry 2024 --> )
+* Franklin Gauthier-Parker (BS Biochemistry 2024)
 * Celine Irasusta (BS Biology)
 * Katelyn Tripp (BS Biochemistry 2023)
 * Hailey Sharton (BS Biology 2023)

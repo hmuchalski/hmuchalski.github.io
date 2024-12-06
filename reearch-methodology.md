@@ -13,7 +13,7 @@ This project explores use of palladium and gold complexes as catalysts for prepa
 
 <!-- picture of gold-catalyzed cyclization and N-heterocyclic carbenes -->
 
-## Green and Sustainable Chemistry 
+## Green and Sustainable Chemistry
 
 More recently we put greater emphasis on sustainability of the reactions we do. Some of the questions that guide our efforts are:
 
@@ -25,6 +25,8 @@ More recently we put greater emphasis on sustainability of the reactions we do. 
 
 We are currently looking for ways to do this chemistry in ways that aligns with the Principles of Green and Sustainable Chemistry. Our strategies include aqueous micellar media, development of robust catalysts, and combining multiple reactions into one-pot processes.
 
-![Green Chemistry Dad Joke](/img/alkynes-catastrophies-480.jpg)
+![Green Chemistry Dad Joke][alkynes-catastrophies]
 
 <!-- scheme with a one-pot in water sequence -->
+
+[alkynes-catastrophies]: /img/alkynes-catastrophies-480.jpg

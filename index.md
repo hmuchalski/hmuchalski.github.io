@@ -35,7 +35,7 @@ figcaption {
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
-<!-- **2024-12-04** Kiersten Friesen defended her thesis research on the development of one-pot synthesis of benzothiophenes. Congratulations to Kiersten. -->
+**2024-12-04** Kiersten Friesen defended her thesis research on the development of one-pot synthesis of benzothiophenes. Congratulations to Kiersten.
 
 **2024-10-21** Jason Datsko presented the results of his thesis research and then successfully defended the work in front of the graduate faculty committee. He returned with the shield. Congratulations to Jason!
 
@@ -49,19 +49,19 @@ figcaption {
 
 **2024-04-10** Isabella Garcia is the Department Nominee for 2024 Dean's Medal. Mariah was awarded Kenneth Chan Memorial Scholarship. Congratulations to Isabella and Mariah!
 
-**2024-04-05** Strong representation from the HMLab at the [45th Central California Research Symposium](https://academics.fresnostate.edu/drgs/grants/students/ccrshome.html). Angelia, Karen, Ani, Jason, Jorge, and Isabella presented their work. Poster by Karen and Ani was selected as Outstanding Poster Presentation. Talk by Jason was recognized as UCSF Outstanding Graduate Oral Presentation. Congratulations! 
+**2024-04-05** Strong representation from the HMLab at the [45th Central California Research Symposium](https://academics.fresnostate.edu/drgs/grants/students/ccrshome.html). Angelia, Karen, Ani, Jason, Jorge, and Isabella presented their work. Poster by Karen and Ani was selected as Outstanding Poster Presentation. Talk by Jason was recognized as UCSF Outstanding Graduate Oral Presentation. Congratulations!
 
 **2024-03-20** Hubert's role on the Committee for Professional Training is highlighted in a [profile on the ACS website](https://www.acs.org/education/policies/acs-approval-program/news/cpt-profiles-anna-irwin-muchalski.html).
 
 **2024-03-06** Group alumnus, Kirubel Mamo, co-authored a paper in the [*Journal of Organic Chemistry*](https://doi.org/10.1021/acs.joc.3c02855) on preparation of anti-HIV drug. Way to go, Kirubel!
 
-**2024-01-17** AY 23-24 Spring semester begins and we have new students joining the group. Warm welcome to Angelia, Carlo, Chelsea, and Mariah. Also, Jorge is back (he never really left), now a student in the MS program. 
+**2024-01-17** AY 23-24 Spring semester begins and we have new students joining the group. Warm welcome to Angelia, Carlo, Chelsea, and Mariah. Also, Jorge is back (he never really left), now a student in the MS program.
 
-**2023-08-21** AY 23-24 Fall semester begins. 
+**2023-08-21** AY 23-24 Fall semester begins.
 
 **2023-08-01** Jeremy secures employment as a chemist in the private sector. Congratulations!
 
-**2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged. 
+**2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa Barbara. Support from [NSF ROA award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false) is warmly acknowledged.
 
 **2023-06-13** Hubert reports on his efforts to infuse more green chemistry into organic chemistry laboratory curriculum at the 2023 Green Chemistry and Engineering Conference in Long Beach, CA.
 

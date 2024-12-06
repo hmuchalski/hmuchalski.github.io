@@ -7,20 +7,45 @@ breadcrumb: Research
 
 > Students interested in joining the lab should [visit this page][opportunities].
 
-Our research aims to develop new organic reactions and synthetic strategies for preparation of small organic molecules. The molecules we make are used as agrochemicals as well as probes that help us answer questions in molecular biology.
+Our main goal is to increase the body of knowledge in the area of organic chemistry while also training the next generation of scientists. Our research aims can be bundled in three areas:
 
-Currently we have two main research project underway
+1. Understanding of reaction mechanisms and their kinetic profiles.
+2. Discovery and development of new reactions.
+3. Design and development of experiments for organic chemistry laboratory courses.
 
-## Gold catalyzed synthesis of heterocycles
+## Kinetics of Peroxidation
 
-This project explores use of gold complexes as catalysts for a efficient addition of nucleophiles to the C–C pi bond in alkynes. Our recent publications focused on synthesis of benzothiophenes and benzofurans. More recently we are focusing on green chemistry aspects of this methodology. Some of the questions that guide our efforts are:
+The free radical reaction of molecular oxygen with weak C–H bonds that leads to hydroperoxides (ROOH), known as autoxidation to chemists and peroxidation to biochemists, is the key reaction that leads to oxidative degradation of hydrocarbon-rich materials. Knowledge of rate constants of autoxidation is key in development of antioxidants, molecules that trap the chain-propagating peroxyl radical and inhibit or terminate autoxidation. 
+
+<figure>
+<img src="/img/foggy-headlights.JPG" alt="foggy headlights" width="240"/>
+<figcaption>Autoxidation causes plastics to become ‘cloudy’ over time due to exposure to UV light and oxygen in air.</figcaption>
+</figure>
+
+### Peroxyl Radical Clocks
+
+Use of peroxyl radical clocks is one of the leading experimental approaches used in determination of rate constants of H-atom transfer from substrate to peroxyl radical. Current peroxyl radical clocks rely exclusively on chromatography-based analytical tools where resolution of analytes depends on many instrument-dependent factors (adsorbent, mobile phase, detector, analyte volatility, UV absorption, etc.). In recent years quantitative NMR (qNMR) spectroscopy has emerged as an attractive analytical method due to the fact that it is simple to adopt and is non-destructive to the sample. The aim of this project is to develop a peroxyl radical clock method that uses quantitative heteronuclear NMR for compound analysis.
+
+## Synthetic Methodology Projects
+
+This research area focuses on the process of discovery and development of new reactions and synthetic strategies for preparation of important molecular motifs. Our interest lies in compounds that find application as pharmaceuticals, agrochemicals, and materials. More recently we put greater emphasis on sustainability of the reactions we do. Some of the questions that guide our efforts are:
 
 - How can we limit or eliminate the use of hazardous solvents?
-- Can we significantly recuce the amount of catalyst needed to effectively activate the alkyne for nucleophilic attack?
-- What is the mechanism of the reaction and what are the scope and limitations of this reaction?
+- Can we reduce the amount of catalyst needed to carry out the reaction?
+- What is the scope and limitations of the reaction?
+- What is the mechanism?
+- How can we leverage our understanding of the mechanism to improve the reaction?
 
-## Kinetics of preoxidation reactions
+### Metal-Catalyzed Synthesis of Heterocycles
 
-The free radical reaction of molecular oxygen with weak C–H bonds that leads to hydroperoxides (ROOH), known as autoxidation to chemists and peroxidation to biochemists, is the key reaction that leads to oxidative degradation of hydrocarbon-rich materials. Knowledge of rate constants of autoxidation is key in development of antioxidants, molecules that trap the chain-propagating peroxyl radical and inhibit or terminate autoxidation. Use of peroxyl radical clocks is currently the leading experimental approach used in determination of rate constants of H-atom transfer from substrate to peroxyl radical. The main limitation of peroxyl radical clocks developed to date is that they rely exclusively on chromatography-based analytical tools where resolution of analytes depends on a variety of instrument-specific factors (adsorbent, mobile phase, detector, analyte volatility, UV absorption, etc.). In recent years quantitative NMR (qNMR) spectroscopy has emerged as an attractive analytical method due to the fact that it is simple to adopt and is non-destructive to the sample. The aim of this project is to develop a peroxyl radical clock method that uses quantitative heteronuclear NMR for compound analysis.
+This project explores use of palladium and gold complexes as catalysts for preparation of benzo-fused heterocycles. Our past publications focused on synthesis of benzothiophenes and benzofurans from diaryl alkynes that carry nucleophilic functional groups (sulfides, ethers, etc.). These groups can be *‘encouraged’* to engage with the alkyne in a cyclization reaction and we found that cationic gold complexes with *N*-heterocyclic carbene ligands are particularly persuasive.
+
+<!-- picture of gold-catalyzed cyclization and N-heterocyclic carbenes -->
+
+We are currently looking for ways to do this chemistry in ways that aligns with the Principles of Green and Sustainable Chemistry. Our strategies include aqueous micellar media, development of robust catalysts, and combining multiple reactions into one-pot processes.
+
+<!-- scheme with a one-pot in water sequence -->
+
+<!-- ## Experiment for OChem Labs -->
 
 [opportunities]: /research/opportunities/

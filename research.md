@@ -17,10 +17,12 @@ Our main goal is to increase the body of knowledge in the area of organic chemis
 
 The free radical reaction of molecular oxygen with weak C–H bonds that leads to hydroperoxides (ROOH), known as autoxidation to chemists and peroxidation to biochemists, is the key reaction that leads to oxidative degradation of hydrocarbon-rich materials. For example, autoxidation causes plastics to become ‘cloudy’ over time due to exposure to UV light and oxygen in air (image below). 
 
-<figure>
+![Foggy headlights](img/foggy-headlights.JPG)
+
+<!-- <figure>
 <img src="/img/foggy-headlights.JPG" alt="foggy headlights" width="320"/>
 <figcaption>How do headlights look on your car?</figcaption>
-</figure>
+</figure> -->
 
 Autoxidation is a radical chain reaction. Carbon-centered radicals (R•) rapidly react with molecular oxygen to form a peroxyl radical (R-OO•). Peroxyl radical is capable of removing a hydrogen atom from a susceptible organic molecule to form organic hydroperoxide (R-OOH) and regenerate the carbon-centered radical (R•). 
 

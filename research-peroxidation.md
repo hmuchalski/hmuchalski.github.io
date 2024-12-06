@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research Projects - Peroxidation and Radical Clocks
+title: Kinetics of Autoxidation
 permalink: /research/peroxidation/
-breadcrumb: Peroxidation
+breadcrumb: Peroxidation Kinetics
 ---
 
-## Kinetics of Peroxidation
+## What is Autoxidation (Peroxidation)?
 
 The free radical reaction of molecular oxygen with weak C–H bonds that leads to hydroperoxides (ROOH), known as autoxidation to chemists and peroxidation to biochemists, is the key reaction that leads to oxidative degradation of hydrocarbon-rich materials. For example, autoxidation causes plastics to become ‘cloudy’ over time due to exposure to UV light and oxygen in air (image below).
 

@@ -11,7 +11,7 @@ Our main goal is to increase the body of knowledge in the area of organic chemis
 
 1. [Understanding of reaction mechanisms and their kinetic profiles.][kinetics]
 2. [Discovery and development of new reactions.][methodology]
-3. [Design and development of experiments for organic chemistry laboratory courses.][ochem-labs]
+3. Design and development of experiments for organic chemistry laboratory courses.
 
 [opportunities]: /research/opportunities/
 [kinetics]: /research/peroxidation/

@@ -7,25 +7,24 @@ breadcrumb: Research
 
 > Students interested in joining the lab should [visit this page][opportunities].
 
-Our main goal is to increase the body of knowledge in the area of organic chemistry while also training the next generation of scientists. Our research aims can be bundled in three areas:
+Our main goal is to increase the body of knowledge in the area of organic chemistry while also training the next generation of scientists. Our research efforts go toward the following areas (click on links to learn more):
 
-1. Understanding of reaction mechanisms and their kinetic profiles.
-2. Discovery and development of new reactions.
-3. Design and development of experiments for organic chemistry laboratory courses.
+1. [Understanding of reaction mechanisms and their kinetic profiles.][kinetics]
+2. [Discovery and development of new reactions.][methodology]
+3. [Design and development of experiments for organic chemistry laboratory courses.][ochem-labs]
 
-## Kinetics of Peroxidation
+[opportunities]: /research/opportunities/
+[kinetics]: /research/peroxidation/
+[methodology]: /research/methodology/
+[ochem-labs]: /research/ochem-labs/
+
+<!-- ## Kinetics of Peroxidation
 
 The free radical reaction of molecular oxygen with weak C–H bonds that leads to hydroperoxides (ROOH), known as autoxidation to chemists and peroxidation to biochemists, is the key reaction that leads to oxidative degradation of hydrocarbon-rich materials. For example, autoxidation causes plastics to become ‘cloudy’ over time due to exposure to UV light and oxygen in air (image below). 
 
 ![Foggy headlights](img/foggy-headlights.JPG)
 
-<!-- <figure>
-<img src="/img/foggy-headlights.JPG" alt="foggy headlights" width="320"/>
-<figcaption>How do headlights look on your car?</figcaption>
-</figure> -->
-
 Autoxidation is a radical chain reaction. Carbon-centered radicals (R•) rapidly react with molecular oxygen to form a peroxyl radical (R-OO•). Peroxyl radical is capable of removing a hydrogen atom from a susceptible organic molecule to form organic hydroperoxide (R-OOH) and regenerate the carbon-centered radical (R•). 
-
 
 Peroxidation can be inhibited by providing a competitive substrate (antioxidant) that breaks the chain process. Knowledge of rate constants of autoxidation is key in development of antioxidants, molecules that trap the chain-propagating peroxyl radical and inhibit or terminate autoxidation. 
 
@@ -49,10 +48,8 @@ This project explores use of palladium and gold complexes as catalysts for prepa
 
 <!-- picture of gold-catalyzed cyclization and N-heterocyclic carbenes -->
 
-We are currently looking for ways to do this chemistry in ways that aligns with the Principles of Green and Sustainable Chemistry. Our strategies include aqueous micellar media, development of robust catalysts, and combining multiple reactions into one-pot processes.
+<!-- We are currently looking for ways to do this chemistry in ways that aligns with the Principles of Green and Sustainable Chemistry. Our strategies include aqueous micellar media, development of robust catalysts, and combining multiple reactions into one-pot processes. -->
 
 <!-- scheme with a one-pot in water sequence -->
 
 <!-- ## Experiment for OChem Labs -->
-
-[opportunities]: /research/opportunities/

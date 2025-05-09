@@ -7,7 +7,27 @@ permalink: /archive/
 
 > in reverse chronological order
 
+## 2024
+
+**2024-01-17** AY 23-24 Spring semester begins and we have new students joining
+the group. Warm welcome to Angelia, Carlo, Chelsea, and Mariah. Also, Jorge is
+back (he never really left), now a student in the MS program. 
+
 ## 2023
+
+**2023-08-21** AY 23-24 Fall semester begins.
+
+**2023-08-01** Jeremy secures employment as a chemist in the private sector. Congratulations!
+
+**2023-06-26** Hubert goes back to [the bench](/img/hubert-rahul.jpeg) to work
+on catalytic reactions in water in the labs of prof. Bruce Lipshutz at UC Santa
+Barbara. Support from [NSF ROA
+award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152566&HistoricalAwards=false)
+is warmly acknowledged.
+
+**2023-06-13** Hubert reports on his efforts to infuse more green chemistry into
+organic chemistry laboratory curriculum at the 2023 Green Chemistry and
+Engineering Conference in Long Beach, CA.
 
 **2023-06-01** Summer of travel for many HMLab members. Microbiology of Low Oxygen Ecosystems (MLOxE) REU at Montana State (Ani), internship at federal government offices in Washington, DC (Gurmannat).
 
@@ -67,7 +87,7 @@ permalink: /archive/
 
 **2021-03-26** Chrisopher Dillon successfully defended his M.S. degree thesis. Congratulations Chris!
 
-**2020-09-17** Hot off the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)
+**2020-09-17** Hot of the press: our recent work, "Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl ethers" was published in _Organic & Biomolecular Chemistry_. Congratulations to Quang, Chris, Dana, Jeremy, and Dr. Closser. [http://dx.doi.org/10.1039/d0ob01538e](http://dx.doi.org/10.1039/d0ob01538e)
 
 ## 2020
 

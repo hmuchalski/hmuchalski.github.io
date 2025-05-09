@@ -5,7 +5,9 @@ permalink: /research/
 breadcrumb: Research
 ---
 
-Our main goal is to increase the body of knowledge in the area of organic chemistry while also training the next generation of scientists. Our research efforts go toward the following areas (click on links to learn more):
+Our main goal is to increase the body of knowledge in the area of organic
+chemistry while also training the next generation of scientists. Our research
+efforts go toward the following areas (click on links to learn more):
 
 1. [Understanding of reaction mechanisms and their kinetic profiles.][kinetics]
 2. [Discovery and development of new reactions.][methodology]

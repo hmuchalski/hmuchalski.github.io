@@ -37,9 +37,13 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## Undergraduate
 
+* Karen Medina (BS Biology 2025 --> PhD at University of Rochester)
+* Chelsea Lim (BS Biochemistry 2025)
+* Analeigha Ayala (BS Biochemistry 2025)
 * Isabella Garcia (BS Biochemistry 2024; Dean's Medal Nominee --> MD at Wayne State)
 * Ani Abajian (BS Biochemistry 2024)
 * Franklin Gauthier-Parker (BS Biochemistry 2024)
+* Carlo Joseph Bernardo (BS Biology)
 * Celine Irasusta (BS Biology)
 * Katelyn Tripp (BS Biochemistry 2023)
 * Hailey Sharton (BS Biology 2023)
@@ -68,7 +72,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 
 ## High School
 
-* Gurmannat Chalotra (Lemoore High School)
-* Jasmine Ortigoza (ACS SEED 2022, Bullard High School)
+* Gurmannat Chalotra (Lemoore High School --> Fresno State)
+* Jasmine Ortigoza (ACS SEED 2022, Bullard High School --> Fresno City College)
 * Aliyah Lerma (ACS SEED 2018, Hoover High School)
 * Jonathan Jimenez (ACS SEED 2017, Fresno High School)

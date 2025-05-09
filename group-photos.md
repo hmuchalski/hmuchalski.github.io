@@ -7,7 +7,7 @@ breadcrumb: photobook
 
 ## Group Photos Archive
 
-![Group Photo 2023](/img/hmlab-photo-2024.jpeg)
+![Group Photo 2024](/img/hmlab-photo-2024.jpeg)
 ![Group Photo 2023](/img/hmlab-photo-2023.jpeg)
 ![Group Photo 2022](/img/hmlab-photo-2022.jpeg)
 ![Group Photo 2020](/img/hmlab-photo-2020.png)
@@ -17,6 +17,7 @@ breadcrumb: photobook
 
 ## ACS Meeting Archive
 
+![ACS Photo 2025 Spring](/img/acs-2025-spring.jpeg)
 ![ACS Photo 2023 Spring](/img/acs-2023-spring.jpeg)
 ![ACS Photo 2019 Spring](/img/acs-2019-spring.jpeg)
 
@@ -27,7 +28,10 @@ breadcrumb: photobook
 
 ## Central California Research Symposium
 
-![Isabella and Jorge present their work at CCRS 2024](/img/ccrs-2024-isabella-jorge.jpg)
+![Mariah presents her work at CCRS 2025](/img/ccrs-2025-mariah.jpg)
+![Jorge presents his work at CCRS 2025](/img/ccrs-2025-jorge.jpg)
+![Jacqueline and Aaron present their work at CCRS](/img/ccrs-2025-jacqueline-aaron.jpg)
+![Felix and Chelsea present their work at CCRS 2025](/img/ccrs-2025-felix-chelsea.jpg)
 ![Ani and Karen present their work at CCRS 2024](/img/ccrs-2024-ani-karen.jpg)
 ![Angelia presents her work at CCRS 2024](/img/ccrs-2024-angelia.jpg)
 ![Alison presenting at CCRS 2019](/img/alison-ccrs-2019.jpg)

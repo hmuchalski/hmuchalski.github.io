@@ -40,12 +40,12 @@ breadcrumb: photobook
 
 ## Central California Research Symposium
 
-![Mariah presents her work at CCRS 2025](/img/ccrs-2025-mariah.jpg)
-![Jorge presents his work at CCRS 2025](/img/ccrs-2025-jorge.jpg)
-![Jacqueline and Aaron present their work at CCRS](/img/ccrs-2025-jacqueline-aaron.jpg)
-![Felix and Chelsea present their work at CCRS 2025](/img/ccrs-2025-felix-chelsea.jpg)
-![Ani and Karen present their work at CCRS 2024](/img/ccrs-2024-ani-karen.jpg)
-![Angelia presents her work at CCRS 2024](/img/ccrs-2024-angelia.jpg)
+![Mariah presents her work at CCRS 2025](/img/ccrs-2025-mariah.jpeg)
+![Jorge presents his work at CCRS 2025](/img/ccrs-2025-jorge.jpeg)
+![Jacqueline and Aaron present their work at CCRS](/img/ccrs-2025-jacqueline-aaron.jpeg)
+![Felix and Chelsea present their work at CCRS 2025](/img/ccrs-2025-felix-chelsea.jpeg)
+![Ani and Karen present their work at CCRS 2024](/img/ccrs-2024-ani-karen.jpeg)
+![Angelia presents her work at CCRS 2024](/img/ccrs-2024-angelia.jpeg)
 ![Alison presenting at CCRS 2019](/img/alison-ccrs-2019.jpg)
 ![Jamie, Karina, and Alex presenting at CCRS 2019](/img/jamie-ccrs-2019.jpg)
 ![Jeremy presenting at CCRS 2019](/img/jeremy-ccrs-2019.jpg)

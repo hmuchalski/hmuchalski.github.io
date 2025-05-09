@@ -32,7 +32,7 @@ post-baccalaureate student researchers. Learn more about <a
 href="/research/opportunities/">research opportunities</a> in the HMLab.</p>
 
 <figure> <img src="/img/hmlab-photo-2025.jpeg" alt="group photo" />
-<figcaption>Group photo (AY24-25 Spring; left to right): Some
+<figcaption>Group photo (AY 24-25 Spring; left to right): Some
 Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 (no, they are not related), Chelsea Lim, Karen Medina, Felix Breine, Analeigha Ayala, Aaron Cano.</figcaption> </figure>
 

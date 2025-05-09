@@ -43,7 +43,7 @@ Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 <!-- **2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
 Class of '25: Chelsea and Analeigha! -->
 
-**2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. [[text](https://doi.org/10.1002/asia.202500093)](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
+**2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. [10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
 
 **2025-04-25** We were very well represented at the 2025 Central California Research Symposium. Felix, Chelsea, Mariah, Jacqueline, and Aaron showcased our recent discoveries. Mariah's work was recognized as Outstanding Poster Presentation Winner. Congratulations!
 
@@ -70,29 +70,5 @@ it strong. Hubert's collaboration with the Lipshutz's group at UCSB on
 Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified
 by awesome chemists in at the University of Oxford). Jason and Karen presented
 their work at the Fall ACS National Meeting.
-
-**2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to
-Class of '24: Isabella, Ani, and Franklin.
-
-**2024-04-10** Isabella Garcia is the Department Nominee for 2024 Dean's Medal.
-Mariah was awarded Kenneth Chan Memorial Scholarship. Congratulations to
-Isabella and Mariah!
-
-**2024-04-05** Strong representation from the HMLab at the [45th Central
-California Research
-Symposium](https://academics.fresnostate.edu/drgs/grants/students/ccrshome.html).
-Angelia, Karen, Ani, Jason, Jorge, and Isabella presented their work. Poster by
-Karen and Ani was selected as Outstanding Poster Presentation. Talk by Jason was
-recognized as UCSF Outstanding Graduate Oral Presentation. Congratulations!
-
-**2024-03-20** Hubert's role on the Committee for Professional Training is
-highlighted in a [profile on the ACS
-website](https://www.acs.org/education/policies/acs-approval-program/news/cpt-profiles-anna-irwin-muchalski.html).
-
-**2024-03-06** Group alumnus, Kirubel Mamo, co-authored a paper in the [*Journal
-of Organic Chemistry*](https://doi.org/10.1021/acs.joc.3c02855) on preparation
-of anti-HIV drug. Way to go, Kirubel!
-
-
 
 [News archive](/archive)

@@ -9,6 +9,28 @@ permalink: /archive/
 
 ## 2024
 
+**2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to
+Class of '24: Isabella, Ani, and Franklin.
+
+**2024-04-10** Isabella Garcia is the Department Nominee for 2024 Dean's Medal.
+Mariah was awarded Kenneth Chan Memorial Scholarship. Congratulations to
+Isabella and Mariah!
+
+**2024-04-05** Strong representation from the HMLab at the [45th Central
+California Research
+Symposium](https://academics.fresnostate.edu/drgs/grants/students/ccrshome.html).
+Angelia, Karen, Ani, Jason, Jorge, and Isabella presented their work. Poster by
+Karen and Ani was selected as Outstanding Poster Presentation. Talk by Jason was
+recognized as UCSF Outstanding Graduate Oral Presentation. Congratulations!
+
+**2024-03-20** Hubert's role on the Committee for Professional Training is
+highlighted in a [profile on the ACS
+website](https://www.acs.org/education/policies/acs-approval-program/news/cpt-profiles-anna-irwin-muchalski.html).
+
+**2024-03-06** Group alumnus, Kirubel Mamo, co-authored a paper in the [*Journal
+of Organic Chemistry*](https://doi.org/10.1021/acs.joc.3c02855) on preparation
+of anti-HIV drug. Way to go, Kirubel!
+
 **2024-01-17** AY 23-24 Spring semester begins and we have new students joining
 the group. Warm welcome to Angelia, Carlo, Chelsea, and Mariah. Also, Jorge is
 back (he never really left), now a student in the MS program. 

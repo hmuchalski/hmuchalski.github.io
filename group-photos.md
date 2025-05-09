@@ -7,18 +7,30 @@ breadcrumb: photobook
 
 ## Group Photos Archive
 
-![Group Photo 2024](/img/hmlab-photo-2024.jpeg)
-![Group Photo 2023](/img/hmlab-photo-2023.jpeg)
-![Group Photo 2022](/img/hmlab-photo-2022.jpeg)
-![Group Photo 2020](/img/hmlab-photo-2020.png)
-![Group Photo 2019](/img/hmlab-photo-2019.jpg)
-![Group Photo 2018](/img/hmlab-photo-2018.jpg)
-![Group Photo 2017](/img/hmlab-photo-2017.jpg)
+![Group Photo 2024](/img/hmlab-photo-2024.jpeg "Group Photo 2024")
+![Group Photo 2023](/img/hmlab-photo-2023.jpeg "Group Photo 2023")
+![Group Photo 2022](/img/hmlab-photo-2022.jpeg "Group Photo 2022")
+![Group Photo 2020](/img/hmlab-photo-2020.png "Group Photo 2020")
+![Group Photo 2019](/img/hmlab-photo-2019.JPG "Group Photo 2019")
+![Group Photo 2018](/img/hmlab-photo-2018.jpg "Group Photo 2018")
+![Group Photo 2017](/img/hmlab-photo-2017.JPG "Group Photo 2017")
 
 ## ACS Meeting Archive
 
+2025 Spring ACS National Meeting (San Diego, CA)
+
 ![ACS Photo 2025 Spring](/img/acs-2025-spring.jpeg)
+
+2024 Spring ACS National Meeting (Denver, CO)
+
+![ACS Photo 2024 Spring](/img/acs-2024-spring.jpeg)
+
+2023 Spring ACS National Meeting (Indianapolis, IN)
+
 ![ACS Photo 2023 Spring](/img/acs-2023-spring.jpeg)
+
+2019 Spring ACS National Meeting (Orlando, FL)
+
 ![ACS Photo 2019 Spring](/img/acs-2019-spring.jpeg)
 
 ## CSU Biotechnology Symposium Archive

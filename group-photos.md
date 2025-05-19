@@ -21,9 +21,9 @@ breadcrumb: photobook
 
 ![ACS Photo 2025 Spring](/img/acs-2025-spring.jpeg)
 
-2024 Spring ACS National Meeting (Denver, CO)
+2024 Fall ACS National Meeting (Denver, CO)
 
-![ACS Photo 2024 Spring](/img/acs-2024-spring.jpeg)
+![ACS Photo 2024 Fall](/img/acs-2024-fall.jpeg)
 
 2023 Spring ACS National Meeting (Indianapolis, IN)
 

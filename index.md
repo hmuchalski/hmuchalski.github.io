@@ -24,7 +24,7 @@ figcaption {
 
 <p class="lead">We are organic chemistry research group in the Department of
 Chemistry and Biochemistry at California State University, Fresno. We aim
-todiscover and develop new reactions for more efficient and sustainable
+to discover and develop new reactions for more efficient and sustainable
 synthesis of agrochemicals, medicines, and materials.</p>
 
 <p class="lead">We are always looking for motivated undergraduate and
@@ -40,8 +40,8 @@ Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
-<!-- **2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
-Class of '25: Chelsea and Analeigha! -->
+**2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
+Class of '25: Karen, Chelsea, and Analeigha!
 
 **2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. [10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
 
@@ -68,7 +68,7 @@ Bridges to Doctorate (B2D) UC Davis Fellows!
 it strong. Hubert's collaboration with the Lipshutz's group at UCSB on
 [preparation of DPDTC was published in *Organic
 Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified
-by awesome chemists in at the University of Oxford). Jason and Karen presented
+by awesome chemists at the University of Oxford). Jason and Karen presented
 their work at the Fall ACS National Meeting.
 
 [News archive](/archive)

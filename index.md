@@ -40,10 +40,12 @@ Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
+<!-- **2025-05-19** Construction in the Science Building forced fume hood shut down in our lab but students were not deterred.  -->
+
 **2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
 Class of '25: Karen, Chelsea, and Analeigha!
 
-**2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. [10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
+**2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. DOI: [10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
 
 **2025-04-25** We were very well represented at the 2025 Central California Research Symposium. Felix, Chelsea, Mariah, Jacqueline, and Aaron showcased our recent discoveries. Mariah's work was recognized as Outstanding Poster Presentation Winner. Congratulations!
 

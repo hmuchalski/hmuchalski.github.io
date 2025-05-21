@@ -11,7 +11,7 @@ breadcrumb: Publications
 
 ---
 
-1. Pisor, J. W.&#8225;; Garcia, I. C.&#8224;; Mamo, K.†; Muchalski, H. Synthesis of benzofurans from THP acetals of 2-alkynylphenols catalyzed by gold(I)-NHC complexes _In Preparation_
+1. Pisor, J. W.&#8225;; Garcia, I. C.&#8224;; Mamo, K.†; Muchalski, H. Synthesis of benzofurans from THP acetals of 2-alkynylphenols catalyzed by gold(I)-NHC complexes. *Chem. Asian J.*, **2025**, *Early View*. [https://doi.org/10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093)
 2. Ilyer, K. S.; Yirak, J. R.&#8224;; Muchalski, H.; Lipshutz, B. H. Synthesis of S,S-Di(pyridin-2-yl)carbonodithioate (DPDTC) for the Reduction of Carboxylic Acids _Org. Synth_, **2024**, _101_, 274-294. [(http://www.orgsyn.org/demo.aspx?prep=v101p0274)](http://www.orgsyn.org/demo.aspx?prep=v101p0274)
 3. Closser, K. D.; Hawker, M. J.; Muchalski, H. Quantized Grading: An Ab Initio Approach to Using Specifications Grading in Physical Chemistry. _J. Chem. Educ._ **2024**, _101_ (2), 474–482. [(https://doi.org/10.1021/acs.jchemed.3c00872)](https://doi.org/10.1021/acs.jchemed.3c00872).
 4. Le, Q.; Dillon, C. C.; Lichtenstein, D.A..&#8224; Pisor, J.W.; Gold(I)–NHC-catalysed synthesis of benzofurans via migratory cyclization of 2-alkynylaryl benzyl ethers. _Org. Biomol. Chem._ **2020,** _18_, 8186–8191; DOI: [10.1039/D0OB01538E](http://dx.doi.org/10.1039/d0ob01538e).

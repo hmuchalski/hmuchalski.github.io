@@ -19,7 +19,7 @@ breadcrumb: Presentations
 
 ## Poster presentations
 
-1. Sadeddin, M. J.&#207D; *Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock*; 46th Annual Central California Research Symposium; April 23, 2025.
+1. Sadeddin, M. J.; *Determination of H-atom transfer rate constants of phenolic antioxidants using &#xb9;&#x2079;F NMR peroxyl radical clock*; 46th Annual Central California Research Symposium; April 23, 2025.
 2. Breine, F. J. &#8224;, Lim, C. C.&#8224;; *Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses*; 46th Annual Central California Research Symposium; April 23, 2025.
 3. Aguilar, J.&#8225;, Cano, A.S.&#8224; *Synthesis and evaluation of 2-pyridyl thioester as reactive ¹⁹F-tags for identification and quantification of amino acids*; 46th Annual Central California Research Symposium; April 23, 2025.
 4. Aguilar-Cisneros, J.&#8225; *Calibration of Fluorine-tagged Allylbenzene Peroxyl Radical Clock in Chlorobenzene*; 46th Annual Central California Research Symposium; April 23, 2025.

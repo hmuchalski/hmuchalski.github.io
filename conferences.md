@@ -19,12 +19,12 @@ breadcrumb: Presentations
 
 ## Poster presentations
 
-1. Sadeddin, M. J.&#8224;; Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock; 46th Annual Central California Research Symposium; April 23, 2025.
-2. Breine, F. J. &#8224;, Lim, C. C.&#8224;; Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses; 46th Annual Central California Research Symposium; April 23, 2025.
+1. Sadeddin, M. J.&#207D; *Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock*; 46th Annual Central California Research Symposium; April 23, 2025.
+2. Breine, F. J. &#8224;, Lim, C. C.&#8224;; *Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses*; 46th Annual Central California Research Symposium; April 23, 2025.
 3. Aguilar, J.&#8225;, Cano, A.S.&#8224; *Synthesis and evaluation of 2-pyridyl thioester as reactive ¹⁹F-tags for identification and quantification of amino acids*; 46th Annual Central California Research Symposium; April 23, 2025.
 4. Aguilar-Cisneros, J.&#8225; *Calibration of Fluorine-tagged Allylbenzene Peroxyl Radical Clock in Chlorobenzene*; 46th Annual Central California Research Symposium; April 23, 2025.
-5. Sadeddin, M. J.&#8224;; Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock; Abstracts of Papers, ACS Spring Meeting 2025, San Diego, CA, United States, March 23–27.
-6. Breine, F. J. &#8224;, Lim, C. C.&#8224;; Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses; Abstracts of Papers, ACS Spring Meeting 2025, San Diego, CA, United States, March 23–27.
+5. Sadeddin, M. J.&#8224;; *Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock*; Abstracts of Papers, ACS Spring Meeting 2025, San Diego, CA, United States, March 23–27.
+6. Breine, F. J. &#8224;, Lim, C. C.&#8224;; *Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses*; Abstracts of Papers, ACS Spring Meeting 2025, San Diego, CA, United States, March 23–27.
 7. Muchalski, H.; Medina Ramos, K. G.&#8224;; Datsko, J. J.&#8225;; Bustos, K. N.; Abajian, A. G.&#8224;; Competition kinetics of autoxidation with NMR spectroscopy: Development of ¹⁹F NMR peroxyl radical clock, Abstracts of Papers, ACS Fall Meeting 2024, Denver, CO, United States, August 18-22. 
 8. Aguilar-Cisneros, J.&#8224;, Garcia, I.C.&#8224; *Cascade Reaction of Benzofurans via Sonogashira Cross-Coupling in a Micellar Medium*; 45th Annual Central California Research Symposium
 9. Medina, K.G.&#8224;, Abajian, A.G.&#8224; *Efficient Synthesis of Fluorine-Tagged tert-Butyl Peroxyester Precursor of Allylbenzene Radical*; 45th Annual Central California Research Symposium

@@ -36,11 +36,15 @@ href="/research/opportunities/">research opportunities</a> in the HMLab.</p>
 Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 (no, they are not related), Chelsea Lim, Karen Medina, Felix Breine, Analeigha Ayala, Aaron Cano.</figcaption> </figure>
 
-## Recent News
+## Recent News 
 
 <!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
 
 <!-- **2025-05-19** Construction in the Science Building forced fume hood shut down in our lab but students were not deterred.  -->
+
+**2025-08-28** New academic year has started. Welcome to our new members: Catherine, Hee Won (Ann), Jocelyn, and Hudson. It's time for a new group photo!
+
+Summer 2025 was busy. Although the fume hoods in our lab were off for repairs and maintenance, we took advantage of the space in the teaching labs to continue our research. Jorge spent the summer working with chemists at UC Davis (Dr. Franz) and got to play with some fancy ReactIR equipment. 
 
 **2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
 Class of '25: Karen, Chelsea, and Analeigha!

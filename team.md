@@ -24,9 +24,9 @@ Jacqueline graduated from Fresno State in fall of 2023 with her B.A. in Psycholo
 - Angelia Leggett (BS Biochemistry)
 - Aaron Cano (BS Chemistry)
 - Catherine Blanken (BS Biochemistry)
-- Hee Won (Ann) Jang (BS Chemistry)
+- Hee Won (Ann) Jang (BS Chemistry) 
 - Jocelyn Bolton (BS Biology) 
-<!-- - Hudson Burt (BS Biochemistry) -->
+- Hudson Burt (BS Biochemistry)
 
  [Link to photo album](/team/photos)
 

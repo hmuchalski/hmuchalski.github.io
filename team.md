@@ -17,6 +17,10 @@ Jorge is from Woodlake, CA. He transferred to Fresno State in 2022 from the [Col
 
 Jacqueline graduated from Fresno State in fall of 2023 with her B.A. in Psychology and two minors in Criminology and Chemistry. She joined the M.S. Chemistry program in January of 2024. Her current research focuses on utilizing 19F NMR spectroscopy for identification and quantification of small molecules.
 
+### Eric Lockton
+
+
+
 ## Undergraduate Students
 
 - Mariah Sadeddin (BS Chemistry)
@@ -26,6 +30,7 @@ Jacqueline graduated from Fresno State in fall of 2023 with her B.A. in Psycholo
 - Catherine Blanken (BS Biochemistry)
 - Hee Won (Ann) Jang (BS Chemistry) 
 - Jocelyn Bolton (BS Biology) 
+- Catherin Blanken (BS Biochemistry)
 - Hudson Burt (BS Biochemistry)
 
  [Link to photo album](/team/photos)

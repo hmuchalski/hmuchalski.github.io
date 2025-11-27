@@ -6,14 +6,14 @@ breadcrumb: Teaching
 ---
 
 - [How to register and access SciFinder-n (via Library proxy)][Scifinder-n]
-<!-- 
-- [How to obtain ChemDraw Prime (faculty and staff)][ChemDrawPrime]
-- How to obtain and apply licenses for processing NMR/IR/UV spectra with MestReNova software
- -->
+
+
+<!-- - [How to obtain ChemDraw Prime (faculty and staff)][ChemDrawPrime]
+- How to obtain and apply licenses for processing NMR/IR/UV spectra with MestReNova software -->
 
 [Scifinder-n]: https://docs.google.com/document/d/1WSgke5mCnQ5pHCDM3XWMMLiLtHqKrP2rIVlWFEm5Ngk/edit?usp=sharing
-[ChemDrawPrime]: 
-[MestReNova]: 
+<!-- [ChemDrawPrime]: 
+[MestReNova]:  -->
 
 ## CHEM 128A (Organic chemistry 1)
 

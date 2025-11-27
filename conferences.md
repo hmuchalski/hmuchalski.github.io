@@ -10,7 +10,7 @@ breadcrumb: Presentations
 
 ## Oral presentations
 
-1. Datsko, J.J.&#8225;; *Competition Kinetics of Peroxidation with ¹⁹F NMR Spectroscopy: Synthesis and Characterization of Hydroperoxides of *para*-Fluoroallylbenzene*; 45th Annual Central California Research Symposium,  2024.
+1. Datsko, J.J.&#8225;; *Competition Kinetics of Peroxidation with ¹⁹F NMR Spectroscopy: Synthesis and Characterization of Hydroperoxides of para-Fluoroallylbenzene*; 45th Annual Central California Research Symposium,  2024.
 2. Muchalski H. *In with the old, In with the new: Lowering the barriers to incorporation of green chemistry into organic chemistry laboratory*, 27th Annual Green Chemistry & Engineering Conference that will be held in Long Beach, CA, June 13-15, 2023.
 3. Closser, K. D.; Hawker, M. J.; Muchalski, H. *Quantized Grading: An Ab Initio Approach to Using Specifications-Based Grading in Physical Chemistry*; West Lafayette, IN, 2022.
 4. Dillon, C. C.&#8224;; Keophimphone, B.&#8224;; Sanchez, M.&#8224;; Kaur, P.&#8224;; Muchalski, H.; *Gold(I)-NHC-Catalyzed Synthesis Of Benzo[b]thiophenes from 2-Alkynylthioanisoles* 40th Annual Central California Research Symposium, Fresno, CA, United States, May 1, 2019. 

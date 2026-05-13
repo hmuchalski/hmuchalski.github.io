@@ -7,7 +7,36 @@ permalink: /archive/
 
 > in reverse chronological order
 
+## 2025
+
+**2025-04-25** We were very well represented at the 2025 Central California Research Symposium. Felix, Chelsea, Mariah, Jacqueline, and Aaron showcased our recent discoveries. Mariah's work was recognized as Outstanding Poster Presentation Winner. Congratulations!
+
+**2025-03-20** We joined the contingent of Fresno State students and faculty at the 2025 Spring National Meeting in San Diego. Felix, Chelsea, and Mariah presented their posters.
+
+**2025-02-03** Felix Breine received $1,000 travel award from the San Joaquin Valley Local Section to go to the 2025 ACS Spring National Meeting in San Diego. Congratulations!
+
+
 ## 2024
+
+**2024-12-04** Kiersten Friesen defended her thesis research on the development
+of one-pot synthesis of benzothiophenes. Congratulations to Kiersten.
+
+**2024-10-21** Jason Datsko presented the results of his thesis research and
+then successfully defended the work in front of the graduate faculty committee.
+He returned with the shield. Congratulations to Jason!
+
+**2024-10-15** Congratulations to Mariah who will join the 2024 cohort of NIH
+RISE Scholars!
+
+**2024-09-17** Congratulations to Jorge who will join the 2024 cohort of NIH
+Bridges to Doctorate (B2D) UC Davis Fellows!
+
+**2024-08-20** The new academic year is just around the corner. We're starting
+it strong. Hubert's collaboration with the Lipshutz's group at UCSB on
+[preparation of DPDTC was published in *Organic
+Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified
+by awesome chemists at the University of Oxford). Jason and Karen presented
+their work at the Fall ACS National Meeting.
 
 **2024-05-09** Awards, recognitions, and bittersweet farewells. Best of luck to
 Class of '24: Isabella, Ani, and Franklin.

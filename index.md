@@ -38,43 +38,36 @@ Random Guy, Mariah Sadeddin, Angelia Leggett, Jacqueline Aguilar, Jorge Aguilar
 
 ## Recent News 
 
-<!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last update" -->
+<!-- DON'T FORGET TO UPDATE _config.yml and put new date under "Last updated" -->
 
-<!-- **2025-05-19** Construction in the Science Building forced fume hood shut down in our lab but students were not deterred.  -->
+
+**2026-05-15** It is graduation season. Congratulations to our Class of '26: Aaron Cano, Catherine Blanken, and Hudson Burt. Best of luck to you all in your future endeavors. We will miss you!
+
+**2026-05-09** Another strong representation from the HMLab at the Graduation and Awards Banquet. Congratulations to Aaron (ACS Analytical Chemistry Award), Catherine (ACS Organic Chemistry Award), Ann (Downing Scholarship), and Felix (ACS Physical Chemistry Award). Congratulations!
+
+**2026-04-22** Another strong representation from the HMLab at the 2026 Central California Research Symposium. Ann, Jocelyn, Mariah, and Felix showcased our recent discoveries.
+
+**2026-03-27** Felix Breine was selected is among the 2026 recipients of the prestigious 2026 Barry M. Goldwater Scholarship. Congratulations to Felix!
+
+**2026-03-21** Another successful showing at the 2026 Spring National Meeting in Atlanta. Felix and Mariah presented their posters. We all got through the airport security without any issues and made it back home safely. 
+
+**2026-02-17** Mariah Sadeddin received $1,000 travel award from the San Joaquin Valley Local Section to go to the 2026 ACS Spring National Meeting in Atlanta. Congratulations!
+
+**2026-01-12** Felix Breine was selected as a 2026 Snyder Scholar and will complete a summer research fellowship at the University of Illinois Urbana-Champaign, working in the lab of Prof. Marin Burke. Congratulations to Felix!
+
+**2025-10-26** Aaron Cano presented his research at the 2025 Regional Meeting of the American Chemical Society in San Jose. Congratulations to Aaron!
+
+**2025-10-01** Warm welcome to a new group member, Eric Lockton, who will be joining us as a graduate research assistant. 
 
 **2025-08-28** New academic year has started. Welcome to our new members: Catherine, Hee Won (Ann), Jocelyn, and Hudson. It's time for a new group photo!
 
 Summer 2025 was busy. Although the fume hoods in our lab were off for repairs and maintenance, we took advantage of the space in the teaching labs to continue our research. Jorge spent the summer working with chemists at UC Davis (Dr. Franz) and got to play with some fancy ReactIR equipment. 
 
+**2025-05-19** Construction in the Science Building forced fume hood shut down in our lab but students were not deterred.
+
 **2025-05-17** Awards, recognitions, and bittersweet farewells. Best of luck to
 Class of '25: Karen, Chelsea, and Analeigha!
 
 **2025-05-09** Hot of the press: our latest article titled "Gold(I)-Catalyzed Synthesis of Benzofurans from Tetrahydropyranyl (THP) Ethers of o-Alkynylphenols" was published in *Chemistry - An Asian Journal*. Congratulations to Jeremy, Isabela, and Kirubel. DOI: [10.1002/asia.202500093](https://doi.org/10.1002/asia.202500093) ([Full text via Fresno State Library](http://login.hmlproxy.lib.csufresno.edu/login?url=http://dx.doi.org/10.1002/asia.202500093))
-
-**2025-04-25** We were very well represented at the 2025 Central California Research Symposium. Felix, Chelsea, Mariah, Jacqueline, and Aaron showcased our recent discoveries. Mariah's work was recognized as Outstanding Poster Presentation Winner. Congratulations!
-
-**2025-03-20** We joined the contingent of Fresno State students and faculty at the 2025 Spring National Meeting in San Diego. Felix, Chelsea, and Mariah presented their posters.
-
-**2025-02-03** Felix Breine received $1,000 travel award from the San Joaquin Valley Local Section to go to the 2025 ACS Spring National Meeting in San Diego. Congratulations!
-
-**2024-12-04** Kiersten Friesen defended her thesis research on the development
-of one-pot synthesis of benzothiophenes. Congratulations to Kiersten.
-
-**2024-10-21** Jason Datsko presented the results of his thesis research and
-then successfully defended the work in front of the graduate faculty committee.
-He returned with the shield. Congratulations to Jason!
-
-**2024-10-15** Congratulations to Mariah who will join the 2024 cohort of NIH
-RISE Scholars!
-
-**2024-09-17** Congratulations to Jorge who will join the 2024 cohort of NIH
-Bridges to Doctorate (B2D) UC Davis Fellows!
-
-**2024-08-20** The new academic year is just around the corner. We're starting
-it strong. Hubert's collaboration with the Lipshutz's group at UCSB on
-[preparation of DPDTC was published in *Organic
-Syntheses*](http://www.orgsyn.org/demo.aspx?prep=v101p0274) (procedure verified
-by awesome chemists at the University of Oxford). Jason and Karen presented
-their work at the Fall ACS National Meeting.
 
 [News archive](/archive)

@@ -19,6 +19,8 @@ breadcrumb: Presentations
 
 ## Poster presentations
 
+<!-- ACS in Atlanta, CCRS-->
+
 1. Cano, A.S.&#8224; Leggett, A.L.&#8224;; *Evaluation of pyridyl thioesters as carbonyl activator in intramolecular Friedel--Crafts acylation reaction* 2025 Western Regional Meeting of the American Chemical Society, October 26, 2025; San Jose, CA
 2. Sadeddin, M. J.&#8224; *Determination of H-atom transfer rate constants of phenolic antioxidants using ¹⁹F NMR peroxyl radical clock*; 46th Annual Central California Research Symposium; April 23, 2025.
 3. Breine, F. J. &#8224;, Lim, C. C.&#8224;; *Less solvent, more NMR skills: Development of green experiments for organic chemistry laboratory courses*; 46th Annual Central California Research Symposium; April 23, 2025.

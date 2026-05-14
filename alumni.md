@@ -40,6 +40,7 @@ Quang graduated with a B.S. in Chemistry from Fresno State in 2014. His undergra
 * Catherin Blanken (BS Biochemistry 2026)
 * Hudson Burt (BS Biochemistry 2026)
 * Aaron Cano (BS Chemistry 2026)
+* Alan Lopez (FCC Certificate in Chemistry Intern)
 * Karen Medina (BS Biology 2025)
 * Chelsea Lim (BS Biochemistry 2025)
 * Analeigha Ayala (BS Biochemistry 2025)

@@ -23,9 +23,11 @@ Jacqueline graduated from Fresno State in fall of 2023 with her B.A. in Psycholo
 
 - Mariah Sadeddin (BS Chemistry)
 - Felix Breine (BS Chemistry)
-- Angelia Leggett (BS Biochemistry)
 - Hee Won (Ann) Jang (BS Chemistry) 
 - Jocelyn Bolton (BS Biology) 
+- Angelia Leggett (BS Biochemistry)
+- Eknoor Bual (BS Biology)
+- Matisen DeBenedetto (BS Biochemistry)
 
  [Link to photo album](/team/photos)
 
